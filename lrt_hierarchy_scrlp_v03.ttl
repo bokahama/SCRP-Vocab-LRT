@@ -1,5 +1,4 @@
-
-@prefix learningresourcetype: <https://bokahama.github.io/SCRP-Vocab-LRT/> .
+@prefix <learningresourcetype>: <https://bokahama.github.io/SCRP-Vocab-LRT/> .
 @prefix dct: <http://purl.org/dc/terms/>.
 @prefix skos: <http://www.w3.org/2004/02/skos/core#>.
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
