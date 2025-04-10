@@ -6,7 +6,7 @@
 <learningresourcetype> a skos:ConceptScheme;
 dct:title "Typ der Lernressource"@de;
 dct:title "Learning Resource Type"@en;
-dct:description „Eine erweiterte Werteliste für Typen von Lernressourcen, wie sie im schulischen Kontext von Rheinland-Pfalz benötigt werden. Ausgehend von der Werteliste vom SODIX content hub und unter weitgehender Berücksichtigung von LOM-CH und den Werten aus WLO. Geordnete Liste, der vorherrschende Typ zuerst."@de;
+dct:description "Eine erweiterte Werteliste für Typen von Lernressourcen, wie sie im schulischen Kontext von Rheinland-Pfalz benötigt werden. Ausgehend von der Werteliste vom SODIX content hub und unter weitgehender Berücksichtigung von LOM-CH und den Werten aus WLO. Geordnete Liste, der vorherrschende Typ zuerst."@de;
 dct:description "A value list for Learning Resource Type, as used in the SODIX content hub. Ordered list, the most dominant type first."@en;
 dct:creator "xxx";
 dct:created "2025-04-09"^^xsd:date;
@@ -27,7 +27,7 @@ skos:topConceptOf <learningresourcetype> .
 <APP> a skos:Concept ;
 skos:prefLabel "App"@de, "App"@en ;
 skos:altLabel "Anwendung"@de, "Software"@de, "application"@en, "software"@en ;
-skos:definition "Eine App (Abkürzung für „Application Software“) ist eine Anwendungssoftware oder ein Computerprogramm, welches unterschiedliche Funktionen erfüllen kann. Sie hat dabei keine systemtechnische Funktionalität, das heißt das System kann auch ohne dieses Programm ordnungsgemäß arbeiten. Mit einer App können Sie das Endgerät an Ihre Bedürfnisse anpassen. Eine App muss man herunterladen und installieren, um sie verwenden zu können."@de ;
+skos:definition "Eine App (Abkürzung für 'Application Software') ist eine Anwendungssoftware oder ein Computerprogramm, welches unterschiedliche Funktionen erfüllen kann. Sie hat dabei keine systemtechnische Funktionalität, das heißt das System kann auch ohne dieses Programm ordnungsgemäß arbeiten. Mit einer App können Sie das Endgerät an Ihre Bedürfnisse anpassen. Eine App muss man herunterladen und installieren, um sie verwenden zu können."@de ;
 skos:definition "An app (short for application software) is an application or computer program that can provide all kinds of functionality. It is not relevant to the functioning of the computer system itself, but provides additional functionality that caters for a specific user's needs. An app needs to be downloaded and installed in order to use it."@en ;
 skos:example "App zum Üben der Uhrzeit, App für einen Diagrammgenerator"@de ;
 skos:example "App to practise to read the time; App to generate diagrams"@en ;
@@ -134,10 +134,10 @@ skos:topConceptOf <learningresourcetype> .
 
 <EXPERTE> a skos:Concept ;
     skos:prefLabel "Referent"@de, "Speaker"@en ;
-    skos:altLabel „Spezialist"@de, „Experte“@de, "Specialist"@en ;
-    skos:definition „Referierende, Expertinnen und Experten sind Personen, die über umfassendes Wissen und Expertise in einem bestimmten Fachgebiet verfügen. Diese Personen können Vorträge halten, Workshops leiten oder als Berater tätig sein, um ihr Wissen und ihre Erfahrungen weiterzugeben. Im weiteren Sinn können hier auch Lehrende aus Schule und Hochschule subsumiert werden.“@de ;
+    skos:altLabel "Spezialist"@de, "Experte"@de, "Specialist"@en ;
+    skos:definition "Referierende, Expertinnen und Experten sind Personen, die über umfassendes Wissen und Expertise in einem bestimmten Fachgebiet verfügen. Diese Personen können Vorträge halten, Workshops leiten oder als Berater tätig sein, um ihr Wissen und ihre Erfahrungen weiterzugeben. Im weiteren Sinn können hier auch Lehrende aus Schule und Hochschule subsumiert werden."@de ;
     skos:definition "A speaker or expert is a person who has extensive knowledge and expertise in a specific field. These individuals can give lectures, lead workshops, or act as consultants to share their knowledge and experience."@en ;
-    skos:example "Vortragender, Workshop-Leiter, Berater“@de, Lehrer@de, Professor@de ;
+    skos:example "Vortragender, Workshop-Leiter, Berater"@de, "Lehrer"@de, "Professor"@de ;
     skos:example "Lecturer, workshop leader, consultant"@en ;
     skos:topConceptOf <learningresourcetype> .
 
@@ -219,7 +219,7 @@ skos:prefLabel "Interaktives Medium"@de, "Interactive Medium"@en ;
 
 <KARTE> a skos:Concept ;
 skos:prefLabel "Karte"@de ;
-skos:altLabel „Landkarte“@de ;
+skos:altLabel "Landkarte"@de ;
 skos:prefLabel "Map"@en ;
 skos:definition "Abbildung von raumbezogenen Gegenständen, Sachverhalten oder Prozessen, die maßstäblich abstrahiert, oft verkleinert und mithilfe eines Zeichensystems grafisch dargestellt werden."@de ;
 skos:definition "English translation pending."@en ;
@@ -267,9 +267,9 @@ skos:topConceptOf <learningresourcetype> .
 <LERNKONTROLLE> a skos:Concept ;
 skos:prefLabel "Lernkontrolle"@de, "Learning assesment"@en ;
 skos:altLabel "Test"@de, "Examination"@en, "Test"@en ;
-skos:definition „Verschiedene Methoden zur Überprüfung des Lernfortschritts und der Lernergebnisse. Diese können formelle Tests, informelle Beobachtungen, Selbstbewertungen und andere, bewertete oder unbewertete Evaluationsmethoden umfassen."@de ;
+skos:definition "Verschiedene Methoden zur Überprüfung des Lernfortschritts und der Lernergebnisse. Diese können formelle Tests, informelle Beobachtungen, Selbstbewertungen und andere, bewertete oder unbewertete Evaluationsmethoden umfassen."@de ;
 skos:definition "English translation pending."@en ;
-skos:example „Selbsttest, Test(bewertet) Lernstandsanalyse, Prüfung (bewertet)“@de ;
+skos:example "Selbsttest, Test(bewertet) Lernstandsanalyse, Prüfung (bewertet)"@de ;
 skos:example "English translation pending."@en ;
 skos:topConceptOf <learningresourcetype> .
 
@@ -295,7 +295,7 @@ skos:topConceptOf <learningresourcetype> .
 <LERNPORTAL> a skos:Concept ;
 skos:prefLabel "Lernportal"@de, "Learning portal"@en ;
 skos:altLabel "Schulbuch-Portal"@de, "Textbook portal"@en ;
-skos:definition " Online-Plattform, die digitale Lernressourcen wie Schulbücher, Übungen, Kurse und andere Bildungsmaterialien zentral bereitstellt. 
+skos:definition "Online-Plattform, die digitale Lernressourcen wie Schulbücher, Übungen, Kurse und andere Bildungsmaterialien zentral bereitstellt." ;
 skos:definition "Online platform that provides, as a central hub, digital learning resources such as textbooks, exercises, courses and other educational materials."@en ;
 skos:example "Online-Lernplattform, Schulbuch-Portal"@de ;
 skos:example "Online learning platform, textbook portal"@en ;
@@ -319,8 +319,8 @@ skos:topConceptOf <learningresourcetype> .
     skos:altLabel "Mediensammlung"@de, "Collection"@en ;
     skos:definition "Ein Medienpaket ist eine zusammengehörige Sammlung von Medieninhalten, die als Einheit verteilt oder zusammenhängend (online) dargestellt wird. Es kann verschiedene Medienformate und -inhalte enthalten, die gemeinsam verwendet werden sollen."@de ;
     skos:definition "A media package is a coherent collection of media contents distributed as a single unit. It can include various media formats and contents intended to be used together."@en ;
-skos:note: „Im Gegensatz zu einem Medienpaket, was bereits bei Produktion als Einheit geplant war, ist eine Mediensammlung i.e.S. eine (auch nachträgliche) Zusammenstellung verschiedener Medieninhalte, die **thematisch oder inhaltlich zusammengehören**."@de ;
-    skos:example „Web-DVD (055er), Multimedia-Paket, Lernpaket, Präsentationspaket"@de ;
+skos:note: "Im Gegensatz zu einem Medienpaket, was bereits bei Produktion als Einheit geplant war, ist eine Mediensammlung i.e.S. eine (auch nachträgliche) Zusammenstellung verschiedener Medieninhalte, die **thematisch oder inhaltlich zusammengehören**."@de ;
+    skos:example "Web-DVD (055er), Multimedia-Paket, Lernpaket, Präsentationspaket"@de ;
     skos:example "Multimedia package, learning package, presentation package"@en ;
     skos:topConceptOf <learningresourcetype> .
 
@@ -335,8 +335,8 @@ skos:topConceptOf <learningresourcetype> .
 
 <METHODISCHE_APP> a skos:Concept ;
 skos:prefLabel "Methodische APP"@de, "APP"@en ;
-skos:definition „ACHTUNG: Exakte Bedeutung noch klären mit WLO. Abgrenzung zu Lernspiel. VORSCHLAG: Anwendung oder Programm, das speziell entwickelt wurde, um Lernenden bestimmte Lerninhalte zu vermitteln oder Kompetenzen zu entwickeln. Kann als App oder als webbasierte Anwendung verfügbar sein."@de ;
-skos:example "App zum Üben von Vokabeln, Adaptives, intelligentes tutorielles System (AIS).“@de ;
+skos:definition "ACHTUNG: Exakte Bedeutung noch klären mit WLO. Abgrenzung zu Lernspiel. VORSCHLAG: Anwendung oder Programm, das speziell entwickelt wurde, um Lernenden bestimmte Lerninhalte zu vermitteln oder Kompetenzen zu entwickeln. Kann als App oder als webbasierte Anwendung verfügbar sein."@de ;
+skos:example "App zum Üben von Vokabeln, Adaptives, intelligentes tutorielles System (AIS)."@de ;
 skos:topConceptOf <learningresourcetype> .
 
 
@@ -358,7 +358,7 @@ skos:example "Weihnachtslieder inkl. Liedtext und Noten, ausdruckbare Noten eine
 skos:example "English translation pending."@en ;
 skos:topConceptOf <learningresourcetype> .
 
-<OFFENE _ AKTIVITAET> a skos:Concept ;
+<OFFENE_AKTIVITAET> a skos:Concept ;
 skos:prefLabel "Offene Aktivität"@de ;
 skos:prefLabel "Open Activity"@en ;
 skos:altLabel "Freie Aktivität"@de ;
@@ -439,7 +439,7 @@ skos:topConceptOf <learningresourcetype> .
 
 <SELBSTEVALUATION> a skos:Concept ;
 skos:prefLabel "Selbstevaluations-Übung"@de, "Self-evaluation exercise"@en ;
-skos:definition "Besondere Form der Lernkontrolle, bei der die Lernenden ihre eigenen Leistungen und Fortschritte bewerten, Selbsteinschätzung üben und ihre Lernprozesse verstehen.de ;
+skos:definition "Besondere Form der Lernkontrolle, bei der die Lernenden ihre eigenen Leistungen und Fortschritte bewerten, Selbsteinschätzung üben und ihre Lernprozesse verstehen."@de ;
 skos:definition "An activity where learners assess their own performance and progress, practice self-reflection and understandtheir own learning processes."@en ;
 skos:example "Selbstbewertungsbogen, Reflexionsübung"@de ;
 skos:example "Self-assessment sheet, reflection exercise"@en ;
@@ -472,9 +472,9 @@ skos:example "Lecture script, conference transcript"@en ;
 skos:topConceptOf <learningresourcetype> .
 
 <SOFTWARE> a skos:Concept ;
-skos:prefLabel „Desktop-Software"@de ;
+skos:prefLabel "Desktop-Software"@de ;
 skos:prefLabel "Software"@en ;
-skos:definition „In Abgrenzung und als Teilmenge von APPs werden unter Software solche Applikationen zusammengefasst, die explizit auf Desktop-Computern installiert werden müssen. Software für mobile Endgeräte welche unmittelbar über die APP-Stores der Hersteller installiert werden kann, wird hingegen als APP kategorisiert.“@de ;
+skos:definition "In Abgrenzung und als Teilmenge von APPs werden unter Software solche Applikationen zusammengefasst, die explizit auf Desktop-Computern installiert werden müssen. Software für mobile Endgeräte welche unmittelbar über die APP-Stores der Hersteller installiert werden kann, wird hingegen als APP kategorisiert."@de ;
 skos:definition "English translation pending."@en ;
 skos:note "In SODIX nicht mehr verwendet, dort bitte 'App' verwenden."@de ;
 skos:topConceptOf <learningresourcetype> .
@@ -505,7 +505,7 @@ skos:topConceptOf <learningresourcetype> .
 <TAFELBILD> a skos:Concept ;
 skos:prefLabel "Tafelbild"@de, "Blackboard image"@en ;
 skos:altLabel "Ergebnissicherung"@de, "Securing results"@en ;
-skos:definition "Eine visuelle Darstellung von Lerninhalten oder Ergebnissen, die auf einer Tafel oder einem anderen Medium festgehalten wird. Es dient der Dokumentation und Nachbereitung des Unterrichts.“@de ;
+skos:definition "Eine visuelle Darstellung von Lerninhalten oder Ergebnissen, die auf einer Tafel oder einem anderen Medium festgehalten wird. Es dient der Dokumentation und Nachbereitung des Unterrichts."@de ;
 skos:definition "A visual representation of learning content or results that is recorded on a blackboard or another medium. It serves to document and review the lesson."@en ;
 skos:example "Tafelbild zur Erklärung eines mathematischen Konzepts, Dokumentation der Lernergebnisse"@de ;
 skos:example "Blackboard image explaining a mathematical concept, documentation of learning outcomes"@en ;
@@ -515,7 +515,7 @@ skos:topConceptOf <learningresourcetype> .
 skos:prefLabel "Prüfung"@de ;
 skos:altLabel "Test"@de ;
 skos:prefLabel "Translation pending"@en ;
-skos:definition „Bewertete Lernkontrolle. Fragt Wissen ab und setzt bestimmte Hürden, die darüber entscheiden, ob eine Prüfung erfolgreich abgelegt ist. Diese bewertete Leistung fließt als Note in ein Zeugnis ein oder führt zur Erlangung eines Bildungsabschlusses."@de ;
+skos:definition "Bewertete Lernkontrolle. Fragt Wissen ab und setzt bestimmte Hürden, die darüber entscheiden, ob eine Prüfung erfolgreich abgelegt ist. Diese bewertete Leistung fließt als Note in ein Zeugnis ein oder führt zur Erlangung eines Bildungsabschlusses."@de ;
 skos:definition "English translation pending."@en ;
 skos:example "Test zur Leseflüssigkeit, Vergleichsarbeiten, Jahrgangsstufentest, Abituraufgaben für das Fach Englisch aus dem Jahr 2018, Prüfungsaufgaben zum ersten Bildungsabschluss, Prüfungsaufgaben zum mittleren Schulabschluss"@de ;
 skos:topConceptOf <learningresourcetype> .
@@ -532,7 +532,7 @@ skos:topConceptOf <learningresourcetype> .
 <UEBUNG> a skos:Concept ;
 skos:prefLabel "Übung"@de ;
 skos:prefLabel "Exercise"@en ;
-skos:definition "Üben ist ein methodisch wiederholtes Handeln, das insbesondere darauf zielt, Können zu bewahren oder zu steigern – während eine Lernaufgabe auf neuen Wissenserwerb gerichtet ist.„@de ;
+skos:definition "Üben ist ein methodisch wiederholtes Handeln, das insbesondere darauf zielt, Können zu bewahren oder zu steigern – während eine Lernaufgabe auf neuen Wissenserwerb gerichtet ist."@de ;
 skos:definition "English translation pending."@en ;
 skos:example "Selbstkorrigierende Konjugationsübungen, Mathematikübungen, Stimmaufwärmungsübungen, Volleyballaufschlagübungen"@de ;
 skos:example "English translation pending."@en ;
@@ -581,17 +581,17 @@ skos:definition "In elektronischer Form kodierte optische Sequenz aus wechselnde
 skos:definition "English translation pending."@en ;
 skos:example "Der Film King Kong (1933), Tierreportage auf der Seite von National Geographic, Ausschnitt eines Videoclips, eine Videodokumentation"@de ;
 skos:example "English translation pending."@en ;
-skos:narrower <learningresourcetype>:<ERKLAERVIDEO>, <SPRACHLERNVIDEO>, <MEDIENPAKET> ;
+skos:narrower <ERKLAERVIDEO>, <SPRACHLERNVIDEO>, <MEDIENPAKET> ;
 skos:topConceptOf <learningresourcetype> .
 
-<VIRTUAL_REALITY_AUGMENTED REALITY> a skos:Concept ;
+<VIRTUAL_REALITY_AUGMENTED_REALITY> a skos:Concept ;
 skos:prefLabel "Virtual Reality & Augmented Reality"@de ;
 skos:prefLabel "Virtual Reality & Augmented Reality"@en ;
 skos:altLabel "VR"@de;
 skos:altLabel "VR"@en;
 skos:altLabel "AR"@de;
 skos:altLabel "AR"@en;
-skos:definition „VR- und AR-Medien lassen sich auf VR-Brillen und ähnlichen Geräten abspielen oder sind für diese optimiert. Sie können zum Download angeboten werden oder als App zur Verfügung stehen. Technische Formate derzeit: MP4 und APK."@de ;
+skos:definition "VR- und AR-Medien lassen sich auf VR-Brillen und ähnlichen Geräten abspielen oder sind für diese optimiert. Sie können zum Download angeboten werden oder als App zur Verfügung stehen. Technische Formate derzeit: MP4 und APK."@de ;
 skos:definition "English translation pending."@en ;
 skos:example "360° Videos, 360° Webanwendungen, 360° Fotos, 3D-Objekte (interaktiv), virtuelle Führungen"@de ;
 skos:example "English translation pending."@en ;
@@ -600,7 +600,7 @@ skos:topConceptOf <learningresourcetype> .
 <WEBSEITE> a skos:Concept ;
 skos:prefLabel "Webseite"@de ;
 skos:prefLabel "Website"@en ;
-skos:altLabel “Internetseite”@de ;
+skos:altLabel "Internetseite"@de ;
 skos:definition "Ein Dokument, das Bestandteil einer Internetseite im World Wide Web ist und  das mittels eindeutiger Adresse (URL) aufgerufen werden kann."@de ;
 skos:definition "English translation pending."@en ;
 skos:example "Webseite mit pädagogischen Anleitungen, Wiki, Blog"@de ;
@@ -618,7 +618,7 @@ skos:topConceptOf <learningresourcetype> .
 
 <WORTLISTE> a skos:Concept ;
 skos:prefLabel "Wortliste"@de, "wordlist"@en ;
-skos:altLabel „Vokabelliste"@de, "vocabulary"@en ;
+skos:altLabel "Vokabelliste"@de, "vocabulary"@en ;
 skos:definition "Eine Sammlung von Wörtern oder Begriffen, die für das Lernen einer Sprache oder eines bestimmten Themas relevant sind. Sie dient als Referenz und Lernhilfe."@de ;
 skos:definition "A collection of words or terms relevant to learning a language or a specific topic. It serves as a reference and learning aid."@en ;
 skos:example "Liste von Fachbegriffen, Vokabelliste für eine Fremdsprache"@de ;
