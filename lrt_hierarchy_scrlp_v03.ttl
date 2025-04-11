@@ -2,6 +2,7 @@
 @prefix dct: <http://purl.org/dc/terms/>.
 @prefix skos: <http://www.w3.org/2004/02/skos/core#>.
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+@prefix vann: <http://purl.org/vocab/vann/> .
 
 <learningresourcetype> a skos:ConceptScheme;
 dct:title "Typ der Lernressource"@de;
@@ -9,11 +10,13 @@ dct:title "Learning Resource Type"@en;
 dct:description "Eine erweiterte Werteliste für Typen von Lernressourcen, wie sie im schulischen Kontext von Rheinland-Pfalz benötigt werden. Ausgehend von der Werteliste vom SODIX content hub und unter weitgehender Berücksichtigung von LOM-CH und den Werten aus WLO. Geordnete Liste, der vorherrschende Typ zuerst."@de;
 dct:description "A value list for Learning Resource Type, as used in the SODIX content hub. Ordered list, the most dominant type first."@en;
 dct:creator "xxx";
+vann:preferredNamespaceUri "https://bokahama.github.io/SCRP-Vocab-LRT/" ;
+vann:preferredNamespacePrefix "scrplrt" ;
 dct:created "2025-04-09"^^xsd:date;
 dct:modified "2025-04-09"^^xsd:date;
 dct:issued "2025-04-09"^^xsd:date;
 dct:license <https://creativecommons.org/licenses/by-sa/4.0/> ;
-skos:hasTopConcept <ANLEITUNG>, <APP>, <ARBEITSBLATT>, <AUDIO>, <BILD>, <BROSCHUERE>, <DATEN>, <EBOOK>, <ENTDECKENDES_LERNEN>, <EXPERIMENT>, <EXPERTE>, <FALLSTUDIE>, <FLYER>, <GLOSSAR>, <HANDBUCH>, <HANDREICHUNG>, <INFOGRAFIK>, <INTERAKTION>, <KARTE>, <KURS>, <LEHRBUCH>, <LERNKONTROLLE>, <LERNSPIEL>, <MEDIENPAKET>, <MERKBLATT>, <MODELL>, <MUSIKNOTEN>, <OFFENE>, <POSTER>, <PRESENTATION>, <PROJECT>, <QUELLE>, <RADIO>, <RECHERCHE>, <REZEPT>, <ROLLENSPIEL>, <SIMULATION>, <SOFTWARE>, <SONSTIGES>, <TEST>, <TEXT>, <UBUNG>, <UNTERRICHTSBAUSTEIN>, <UNTERRICHTSPLANUNG>, <VERANSCHAULICHUNG>, <VIDEO>, <VIRTUAL>, <WEBSEITE>, <WEBTOOL>, <BARCAMP>, <METHODE>, <ERKLAERVIDEO>, <FRAGEBOGEN>, <GRUPPENARBEIT>, <LEHRPLANREFERENZ>, <LERNAUFGABE>, <LERNORT>, <LERNPORTAL>, <LOESUNG>, <METHODISCHE_APP>, <SELBSTEVALUATION>, <SOLE>, <SKRIPT>, <SPRACHLERNVIDEO>, <STATIONENLERNEN>, <TAFELBILD>, <UNTERRICHTSIDEE>, <WORTLISTE> .
+skos:hasTopConcept <ANLEITUNG>, <APP>, <ARBEITSBLATT>, <AUDIO>, <BILD>, <BROSCHUERE>, <DATEN>, <EBOOK>, <ENTDECKENDES_LERNEN>, <EXPERIMENT>, <EXPERTE>, <FALLSTUDIE>, <FLYER>, <GLOSSAR>, <HANDBUCH>, <HANDREICHUNG>, <INFOGRAFIK>, <INTERAKTION>, <KARTE>, <KURS>, <LEHRBUCH>, <LERNKONTROLLE>, <LERNSPIEL>, <MEDIENPAKET>, <MERKBLATT>, <MODELL>, <MUSIKNOTEN>, <OFFENE_AKTIVITAET>, <POSTER>, <PROJECT>, <QUELLE>, <RADIO_TV>, <RECHERCHE_AUFTRAG>, <REZEPT>, <ROLLENSPIEL>, <SIMULATION>, <SOFTWARE>, <SONSTIGES>, <TEST>, <TEXT>, <UNTERRICHTSBAUSTEIN>, <UNTERRICHTSPLANUNG>, <VERANSCHAULICHUNG>, <VIDEO>, <WEBSEITE>, <WEBTOOL>, <BARCAMP>, <METHODE>, <ERKLAERVIDEO>, <FRAGEBOGEN>, <GRUPPENARBEIT>, <LEHRPLANREFERENZ>, <LERNAUFGABE>, <LERNORT>, <LERNPORTAL>, <LOESUNG>, <METHODISCHE_APP>, <SELBSTEVALUATION>, <SOLE>, <SKRIPT>, <SPRACHLERNVIDEO>, <STATIONENLERNEN>, <TAFELBILD>, <UNTERRICHTSIDEE>, <VIRTUAL_REALITY_AUGMENTED_REALITY>, <WORTLISTE> .
 
 <ANLEITUNG> a skos:Concept ;
 skos:prefLabel "Anleitung"@de, "Instruction manual"@en ;
@@ -40,7 +43,6 @@ skos:definition "A document that contains exercises, with which one can practise
 skos:example "Arbeitsblatt, Lösungsblatt, Übung, Aufgabenblatt"@de ;
 skos:example "Worksheet, solutionsheet, exercise, task sheet"@en ;
 skos:note: "Wenn andere Infos zusätzlich enthalten sind, entscheidet der Redakteur, welcher Lernressourcentyp überwiegt. Bei Bedarf zusätzliche Lernressourcentypen vergeben."@de ;
-skos:note: "English translation pending."@en ;
 skos:topConceptOf <learningresourcetype> .
 
 <AUDIO> a skos:Concept ;
@@ -137,7 +139,7 @@ skos:topConceptOf <learningresourcetype> .
     skos:altLabel "Spezialist"@de, "Experte"@de, "Specialist"@en ;
     skos:definition "Referierende, Expertinnen und Experten sind Personen, die über umfassendes Wissen und Expertise in einem bestimmten Fachgebiet verfügen. Diese Personen können Vorträge halten, Workshops leiten oder als Berater tätig sein, um ihr Wissen und ihre Erfahrungen weiterzugeben. Im weiteren Sinn können hier auch Lehrende aus Schule und Hochschule subsumiert werden."@de ;
     skos:definition "A speaker or expert is a person who has extensive knowledge and expertise in a specific field. These individuals can give lectures, lead workshops, or act as consultants to share their knowledge and experience."@en ;
-    skos:example "Vortragender, Workshop-Leiter, Berater"@de, "Lehrer"@de, "Professor"@de ;
+    skos:example "Vortragender, Workshop-Leiter, Berater, Lehrer, Professor"@de ;
     skos:example "Lecturer, workshop leader, consultant"@en ;
     skos:topConceptOf <learningresourcetype> .
 
@@ -295,7 +297,7 @@ skos:topConceptOf <learningresourcetype> .
 <LERNPORTAL> a skos:Concept ;
 skos:prefLabel "Lernportal"@de, "Learning portal"@en ;
 skos:altLabel "Schulbuch-Portal"@de, "Textbook portal"@en ;
-skos:definition "Online-Plattform, die digitale Lernressourcen wie Schulbücher, Übungen, Kurse und andere Bildungsmaterialien zentral bereitstellt." ;
+skos:definition "Online-Plattform, die digitale Lernressourcen wie Schulbücher, Übungen, Kurse und andere Bildungsmaterialien zentral bereitstellt."@de ;
 skos:definition "Online platform that provides, as a central hub, digital learning resources such as textbooks, exercises, courses and other educational materials."@en ;
 skos:example "Online-Lernplattform, Schulbuch-Portal"@de ;
 skos:example "Online learning platform, textbook portal"@en ;
@@ -319,7 +321,7 @@ skos:topConceptOf <learningresourcetype> .
     skos:altLabel "Mediensammlung"@de, "Collection"@en ;
     skos:definition "Ein Medienpaket ist eine zusammengehörige Sammlung von Medieninhalten, die als Einheit verteilt oder zusammenhängend (online) dargestellt wird. Es kann verschiedene Medienformate und -inhalte enthalten, die gemeinsam verwendet werden sollen."@de ;
     skos:definition "A media package is a coherent collection of media contents distributed as a single unit. It can include various media formats and contents intended to be used together."@en ;
-skos:note: "Im Gegensatz zu einem Medienpaket, was bereits bei Produktion als Einheit geplant war, ist eine Mediensammlung i.e.S. eine (auch nachträgliche) Zusammenstellung verschiedener Medieninhalte, die **thematisch oder inhaltlich zusammengehören**."@de ;
+    skos:note: "Im Gegensatz zu einem Medienpaket, was bereits bei Produktion als Einheit geplant war, ist eine Mediensammlung i.e.S. eine (auch nachträgliche) Zusammenstellung verschiedener Medieninhalte, die **thematisch oder inhaltlich zusammengehören**."@de ;
     skos:example "Web-DVD (055er), Multimedia-Paket, Lernpaket, Präsentationspaket"@de ;
     skos:example "Multimedia package, learning package, presentation package"@en ;
     skos:topConceptOf <learningresourcetype> .
