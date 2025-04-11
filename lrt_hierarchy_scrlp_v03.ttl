@@ -9,7 +9,7 @@ dct:title "Typ der Lernressource"@de;
 dct:title "Learning Resource Type"@en;
 dct:description "Eine erweiterte Werteliste für Typen von Lernressourcen, wie sie im schulischen Kontext von Rheinland-Pfalz benötigt werden. Ausgehend von der Werteliste vom SODIX content hub und unter weitgehender Berücksichtigung von LOM-CH und den Werten aus WLO. Geordnete Liste, der vorherrschende Typ zuerst."@de;
 dct:description "A value list for Learning Resource Type, as used in the SODIX content hub. Ordered list, the most dominant type first."@en;
-dct:creator "xxx";
+dct:creator "Pädagogisches Landesinstitut Rheinland-Pfalz"@de ;
 vann:preferredNamespaceUri "https://bokahama.github.io/SCRP-Vocab-LRT/" ;
 vann:preferredNamespacePrefix "scrplrt" ;
 dct:created "2025-04-09"^^xsd:date;
