@@ -1,10 +1,10 @@
-@prefix learningresourcetype: <https://bokahama.github.io/SCRP-Vocab-LRT/> .
+@base <https://bokahama.github.io/SCRP-Vocab-LRT/> .
 @prefix dct: <http://purl.org/dc/terms/>.
 @prefix skos: <http://www.w3.org/2004/02/skos/core#>.
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
 @prefix vann: <http://purl.org/vocab/vann/> .
 
-<learningresourcetype> a skos:ConceptScheme;
+<> a skos:ConceptScheme;
 dct:title "Typ der Lernressource"@de;
 dct:title "Learning Resource Type"@en;
 dct:description "Eine erweiterte Werteliste für Typen von Lernressourcen, wie sie im schulischen Kontext von Rheinland-Pfalz benötigt werden. Ausgehend von der Werteliste vom SODIX content hub und unter weitgehender Berücksichtigung von LOM-CH und den Werten aus WLO. Geordnete Liste, der vorherrschende Typ zuerst."@de;
@@ -25,7 +25,7 @@ skos:definition "Eine Anleitung oder Leitfaden kann entweder eine schriftliche E
 skos:definition "English translation pending."@en ;
 skos:example "Leitfaden für die Durchführung von Zeitzeugengesprächen mit Hinweisen und Fragestellungen, Bauanleitung, Bastelanleitung"@de ;
 skos:example "English translation pending."@en ;
-skos:topConceptOf <learningresourcetype> .
+skos:topConceptOf <> .
 
 <APP> a skos:Concept ;
 skos:prefLabel "App"@de, "App"@en ;
@@ -34,7 +34,7 @@ skos:definition "Eine App (Abkürzung für 'Application Software') ist eine Anwe
 skos:definition "An app (short for application software) is an application or computer program that can provide all kinds of functionality. It is not relevant to the functioning of the computer system itself, but provides additional functionality that caters for a specific user's needs. An app needs to be downloaded and installed in order to use it."@en ;
 skos:example "App zum Üben der Uhrzeit, App für einen Diagrammgenerator"@de ;
 skos:example "App to practise to read the time; App to generate diagrams"@en ;
-skos:topConceptOf <learningresourcetype> .
+skos:topConceptOf <> .
 
 <ARBEITSBLATT> a skos:Concept ;
 skos:prefLabel "Arbeitsblatt"@de, "Worksheet"@en ;
@@ -43,7 +43,7 @@ skos:definition "A document that contains exercises, with which one can practise
 skos:example "Arbeitsblatt, Lösungsblatt, Übung, Aufgabenblatt"@de ;
 skos:example "Worksheet, solutionsheet, exercise, task sheet"@en ;
 skos:note: "Wenn andere Infos zusätzlich enthalten sind, entscheidet der Redakteur, welcher Lernressourcentyp überwiegt. Bei Bedarf zusätzliche Lernressourcentypen vergeben."@de ;
-skos:topConceptOf <learningresourcetype> .
+skos:topConceptOf <> .
 
 <AUDIO> a skos:Concept ;
 skos:prefLabel "Audio"@de ;
@@ -54,7 +54,7 @@ skos:definition "Eine Tonaufnahme zum Anhören."@de ;
 skos:definition "An audio recording to listen to."@en ;
 skos:example "Musikstück, Radioarchive, aufgenommene Stimmen und Töne etc."@de ;
 skos:example "English translation pending."@en ;
-skos:topConceptOf <learningresourcetype> .
+skos:topConceptOf <> .
 
 <BARCAMP> a skos:Concept ;
 skos:prefLabel "Barcamp"@de, "Barcamp"@en ;
@@ -62,7 +62,7 @@ skos:definition "Ein Barcamp ist eine offene Tagung mit Workshops, deren Inhalte
 skos:definition "A barcamp is an open conference with workshops, whose content and schedule are created by the participants at the beginning of the conference and shaped throughout the event."@en ;
 skos:example "EduCamp, TeachMeet"@de ;
 skos:example "EduCamp, TeachMeet"@en ;
-skos:topConceptOf <learningresourcetype> .
+skos:topConceptOf <> .
 
 <BILD> a skos:Concept ;
 skos:prefLabel "Bild"@de ;
@@ -71,7 +71,7 @@ skos:definition "Alle Arten von unbewegten Bildern oder grafischen Darstellungen
 skos:definition "All kinds of still images or graphical representations."@en ;
 skos:example "Foto, Grafiken, Illustration, Artefakt eines Gemäldes, Schema, Diagramm etc."@de ;
 skos:example "English translation pending."@en ;
-skos:topConceptOf <learningresourcetype> .
+skos:topConceptOf <> .
 
 <BROSCHUERE> a skos:Concept ;
 skos:prefLabel "Broschüre"@de ;
@@ -80,7 +80,7 @@ skos:definition "Eine mehrseitige textliche Zusammenfassung, die, ausführlicher
 skos:definition "English translation pending."@en ;
 skos:example "Broschüre, Sicherheitshinweise, Sachinformationen"@de ;
 skos:example "English translation pending."@en ;
-skos:topConceptOf <learningresourcetype> .
+skos:topConceptOf <> .
 
 <DATEN> a skos:Concept ;
 skos:prefLabel "Daten"@de ;
@@ -88,7 +88,7 @@ skos:prefLabel "Data"@en ;
 skos:definition "Empirische Daten, Fakten und Erhebungen, Rohdaten."@de ;
 skos:definition "English translation pending."@en ;
 skos:example "Geschichtsdaten, Erhebungen, Fakten, Werte, Statistiken, Steckbriefe"@de ;
-skos:topConceptOf <learningresourcetype> .
+skos:topConceptOf <> .
 
 
 <METHODE> a skos:Concept ;
@@ -98,7 +98,7 @@ skos:definition "Verschiedene Lehrmethoden und Konzepte, die nicht in eine spezi
 skos:definition "Various teaching methods and concepts that do not fit into a specific category. These can include innovative, experimental, or interdisciplinary approaches."@en ;
 skos:example "Interdisziplinäres Projekt, experimentelle Lernmethoden"@de ;
 skos:example "Interdisciplinary project, experimental learning methods"@en ;
-skos:topConceptOf <learningresourcetype> .
+skos:topConceptOf <> .
 
 <EBOOK> a skos:Concept ;
 skos:prefLabel "E-Book"@de ;
@@ -106,7 +106,7 @@ skos:prefLabel "E-book"@en ;
 skos:definition "E-Book steht für ein elektronisches Buch und bezeichnet Werke in elektronischer Buchform, die auf E-Book-Readern oder mit spezieller Software auf PCs, Tabletcomputern oder Smartphones gelesen werden können. Interaktive Inhalte sorgen beispielsweise dafür, dass Schülerinnen und Schüler Aufgaben einzeln oder gemeinsam direkt im Buch bearbeiten können. Auch die Rückmeldung der Lehrperson kann eingebunden werden."@de ;
 skos:definition "English translation pending."@en ;
 skos:example "Interaktives Lehrbuch, Interaktives Übungsbuch"@de ;
-skos:topConceptOf <learningresourcetype> .
+skos:topConceptOf <> .
 
 <ENTDECKENDES_LERNEN> a skos:Concept ;
 skos:prefLabel "Entdeckendes Lernen"@de ;
@@ -114,7 +114,7 @@ skos:prefLabel "Discovery Learning"@en ;
 skos:definition "Durch virtuelle und reale Handlungen werden neue Dinge entdeckt und gelernt. Der Entdeckergeist und die Neugier werden geweckt und das Lernen ist hierbei der positive Nebeneffekt."@de ;
 skos:definition "Discovery learning is a technique of inquiry-based learning and is considered as a constructivist based approach to education. It is also referred to as problem-based learning, experiential learning and 21st century learning."@en ;
 skos:example "Spielerische Lernaufträge in der Natur oder in digitalen Räumen, in denen durch Klicken auf Symbole neue Dinge und Fakten entdeckt werden"@de ;
-skos:topConceptOf <learningresourcetype> .
+skos:topConceptOf <> .
 
 <ERKLAERVIDEO> a skos:Concept ;
 skos:prefLabel "Erklärvideo"@de, "Tutorial"@en ;
@@ -123,7 +123,7 @@ skos:definition " Audiovisuelles Medium, das speziell zur Unterstützung des Ler
 skos:definition " Audiovisual medium, specifically designed to support the learning process. It contains step-by-step instructions, examples, and explanations that promote the understanding and application of a specific topic or skill."@en ;
 skos:example "Video zur Erklärung eines mathematischen Konzepts, Tutorial zur Nutzung einer Software"@de ;
 skos:example "Video explaining a mathematical concept, tutorial on using software"@en ;
-skos:topConceptOf <learningresourcetype> .
+skos:topConceptOf <> .
 
 <EXPERIMENT> a skos:Concept ;
 skos:prefLabel "Experiment"@de ;
@@ -131,7 +131,7 @@ skos:prefLabel "Experiment"@en ;
 skos:definition "Wissenschaftlicher Versuch mit einer klaren Methodik, bei der Handlungen und Prozeduren erprobt werden, um anhand von Messungen oder Beobachtungen eine Hypothese zu überprüfen oder bereits Bekanntes zu belegen oder darzustellen."@de ;
 skos:definition "English translation pending"@en ;
 skos:example "Video eines Experiments, das im Chemieunterricht nachgestellt wird etc."@de ;
-skos:topConceptOf <learningresourcetype> .
+skos:topConceptOf <> .
 
 
 <EXPERTE> a skos:Concept ;
@@ -141,7 +141,7 @@ skos:topConceptOf <learningresourcetype> .
     skos:definition "A speaker or expert is a person who has extensive knowledge and expertise in a specific field. These individuals can give lectures, lead workshops, or act as consultants to share their knowledge and experience."@en ;
     skos:example "Vortragender, Workshop-Leiter, Berater, Lehrer, Professor"@de ;
     skos:example "Lecturer, workshop leader, consultant"@en ;
-    skos:topConceptOf <learningresourcetype> .
+    skos:topConceptOf <> .
 
 <FALLSTUDIE> a skos:Concept ;
 skos:prefLabel "Fallstudie"@de ;
@@ -149,14 +149,14 @@ skos:prefLabel "Case Study"@en ;
 skos:definition "Untersuchung einer bestimmten Situation, einer Person oder eines Themas."@de ;
 skos:definition "A case study is an in-depth, detailed examination of a particular case (or cases) within a real-world context."@en ;
 skos:example "Präsentation zum pädagogischen Einsatz von Tablets an schweizerischen Primarschulen, Analyse der Konfliktsituation in einem Unternehmen etc."@de ;
-skos:topConceptOf <learningresourcetype> .
+skos:topConceptOf <> .
 
 <FLYER> a skos:Concept ;
 skos:prefLabel "Flyer"@de ;
 skos:prefLabel "Flyer"@en ;
 skos:definition "Eine stichpunktartige Kurzzusammenfassung, welche die Leserinnen und Leser über die wichtigsten Eckpunkte zu einem Thema informiert. Ein Flyer ist ein einzelnes Blatt, meist A4, oft gefaltet."@de ;
 skos:example "Info-Flyer, Werbe-Flyer, Faltblatt"@de ;
-skos:topConceptOf <learningresourcetype> .
+skos:topConceptOf <> .
 
 <FRAGEBOGEN> a skos:Concept ;
 skos:prefLabel "Fragebogen"@de, "Questionnaire"@en ;
@@ -165,7 +165,7 @@ skos:definition "Ein Instrument zur Datenerhebung oder Stimmungsabfrage, das zum
 skos:definition "A data collection instrument that consists of a series of questions to be answered by respondents. It is commonly used in research, market research, and education to gather and analyze information."@en ;
 skos:example "Umfrage zur Kundenzufriedenheit, Feedback-Fragebogen nach einer Schulung"@de ;
 skos:example "Customer satisfaction survey, feedback questionnaire after training"@en ;
-skos:topConceptOf <learningresourcetype> .
+skos:topConceptOf <> .
 
 <GLOSSAR> a skos:Concept ;
 skos:prefLabel "Glossar"@de, "Glossary"@en ;
@@ -173,7 +173,7 @@ skos:altLabel "Nachschlagewerk"@de, "Reference book"@en ;
 skos:definition "Alphabetisch oder thematisch sortierte Liste von Wörtern mit beigefügten Bedeutungserklärungen oder Übersetzungen."@de ;
 skos:definition "English translation pending."@en ;
 skos:example "Begriffsverzeichnis, Fachglossar der holzverarbeitenden Berufe, Wörterbuch, Enzyklopädie"@de ;
-skos:topConceptOf <learningresourcetype> .
+skos:topConceptOf <> .
 
 <GRUPPENARBEIT> a skos:Concept ;
 skos:prefLabel "Gruppenarbeit"@de, "Group work"@en ;
@@ -181,7 +181,7 @@ skos:definition "Kooperative Lernmethoden, bei denen Lernende in Gruppen zusamme
 skos:definition "Cooperative learning methods where students work together in groups to solve problems or work on projects."@en ;
 skos:example "Projektarbeit in Gruppen, Teamarbeit"@de ;
 skos:example "Group project work, teamwork"@en ;
-skos:topConceptOf <learningresourcetype> .
+skos:topConceptOf <> .
 
 <HANDBUCH> a skos:Concept ;
 skos:prefLabel "Handbuch"@de ;
@@ -190,7 +190,7 @@ skos:definition "Ein Handbuch ist eine umfangreiche und strukturierte Textform, 
 skos:definition "English translation pending."@en ;
 skos:example "Handbuch, Verhaltenstipps, Methodenvorschläge"@de ;
 skos:example "English translation pending."@en ;
-skos:topConceptOf <learningresourcetype> .
+skos:topConceptOf <> .
 
 <HANDREICHUNG> a skos:Concept ;
 skos:prefLabel "Handreichung"@de ;
@@ -199,7 +199,7 @@ skos:definition "Spezifisch für Lehrkräfte gedachte didaktische Hinweise, wie 
 skos:definition "English translation pending."@en ;
 skos:example "Handreichung zur Integration digitaler Schlüsselkompetenzen in die Berufliche Bildung, Handreichung Sprachsensibler Unterricht an Berufsschulen"@de ;
 skos:example "English translation pending."@en ;
-skos:topConceptOf <learningresourcetype> .
+skos:topConceptOf <> .
 
 <INFOGRAFIK> a skos:Concept ;
 skos:prefLabel "Infografik"@de ;
@@ -208,7 +208,7 @@ skos:definition "Eine bildliche Darstellung, die komplexe Zusammenhänge und umf
 skos:definition "English translation pending."@en ;
 skos:example "Übersicht zum Kreislauf von Pfandflaschen, Erklär-Grafik zur Lebensmittelkennzeichnung: Was steht auf dem Etikett?"@de ;
 skos:example "English translation pending."@en ;
-skos:topConceptOf <learningresourcetype> .
+skos:topConceptOf <> .
 
 <INTERAKTION> a skos:Concept ;
 skos:prefLabel "Interaktives Medium"@de, "Interactive Medium"@en ;
@@ -217,7 +217,7 @@ skos:prefLabel "Interaktives Medium"@de, "Interactive Medium"@en ;
     skos:definition "A digital learning medium that allows users to actively interact with the content. It can take various forms, such as interactive simulations, quizzes, games, or virtual labs."@en ;
     skos:example "Interaktive Simulation, Quiz, Lernspiel, Virtuelles Labor"@de ;
     skos:example "Interactive simulation, quiz, educational game, virtual lab"@en ;
-    skos:topConceptOf <learningresourcetype> .
+    skos:topConceptOf <> .
 
 <KARTE> a skos:Concept ;
 skos:prefLabel "Karte"@de ;
@@ -227,7 +227,7 @@ skos:definition "Abbildung von raumbezogenen Gegenständen, Sachverhalten oder P
 skos:definition "English translation pending."@en ;
 skos:example "Geografische Karte zur Alpenkette, Karte zu Bayern mit den Regierungsbezirken"@de ;
 skos:example "English translation pending."@en ;
-skos:topConceptOf <learningresourcetype> .
+skos:topConceptOf <> .
 
 <KURS> a skos:Concept ;
 skos:prefLabel "Kurs"@de ;
@@ -236,7 +236,7 @@ skos:definition "Besteht aus mehreren Unterrichtseinheiten und beschäftigt sich
 skos:definition "English translation pending."@en ;
 skos:example "Studienkurs, Wahlkurs, Onlinekurs, Sprachkurs"@de ;
 skos:example "English translation pending."@en ;
-skos:topConceptOf <learningresourcetype> .
+skos:topConceptOf <> .
 
 <LEHRBUCH> a skos:Concept ;
 skos:prefLabel "Lehrbuch"@de, "Textbook"@en ;
@@ -244,7 +244,7 @@ skos:definition "Sachbuch, das für das Studium oder den Unterricht didaktisch a
 skos:definition "English translation pending."@en ;
 skos:example "Lehrbuch, Unterrichtsbuch"@de ;
 skos:example "English translation pending."@en ;
-skos:topConceptOf <learningresourcetype> .
+skos:topConceptOf <> .
 
 <LEHRPLANREFERENZ> a skos:Concept ;
 skos:prefLabel "Lehrplanreferenz"@de, "Curriculum reference"@en ;
@@ -252,7 +252,7 @@ skos:definition " Dokument oder Ressource, die auf einen Lehrplan oder Lehrplant
 skos:definition "Document or resource, that refers to the curriculum and provides detailed information about the content to be taught, goals, and methods."@en ;
 skos:example "Lehrplan für Mathematik, Curriculum für Naturwissenschaften"@de ;
 skos:example "Mathematics curriculum, science curriculum"@en ;
-skos:topConceptOf <learningresourcetype> .
+skos:topConceptOf <> .
 
 
 <LERNAUFGABE> a skos:Concept ;
@@ -262,7 +262,7 @@ skos:topConceptOf <learningresourcetype> .
     skos:definition "A learning task is a specific task or activity aimed at achieving particular learning objectives. It can take various forms, such as exercises, projects, research tasks, or practical applications. Learning tasks are often structured and provide clear instructions and goals to help learners acquire new skills and knowledge."@en ;
     skos:example "Matheübung, Projektarbeit, Forschungsaufgabe"@de ;
     skos:example "Math exercise, project work, research task"@en ;
-    skos:topConceptOf <learningresourcetype> .
+    skos:topConceptOf <> .
 
 
 
@@ -273,7 +273,7 @@ skos:definition "Verschiedene Methoden zur Überprüfung des Lernfortschritts un
 skos:definition "English translation pending."@en ;
 skos:example "Selbsttest, Test(bewertet) Lernstandsanalyse, Prüfung (bewertet)"@de ;
 skos:example "English translation pending."@en ;
-skos:topConceptOf <learningresourcetype> .
+skos:topConceptOf <> .
 
 <LERNORT> a skos:Concept ;
 skos:prefLabel "Lernort"@de, "Learning location"@en ;
@@ -282,7 +282,7 @@ skos:definition "Bezieht sich auf Orte oder Aktivitäten außerhalb des Klassenz
 skos:definition "Refers to places or activities outside the classroom that facilitate learning through direct experience and observation."@en ;
 skos:example "Besuch eines Museums, Exkursion in einen Naturpark, Stadterkundung"@de ;
 skos:example "Museum visit, nature park excursion, city exploration"@en ;
-skos:topConceptOf <learningresourcetype> .
+skos:topConceptOf <> .
 
 
 <LERNSPIEL> a skos:Concept ;
@@ -292,7 +292,7 @@ skos:definition "Lernmaterial, bei dem der spielerische Aspekt nach definierten 
 skos:definition "English translation pending."@en ;
 skos:example "Vokabel-Lernspiele, Lernspiel, welches die Reflexe trainiert, Quiz, Rätsel, Memory"@de ;
 skos:example "English translation pending."@en ;
-skos:topConceptOf <learningresourcetype> .
+skos:topConceptOf <> .
 
 <LERNPORTAL> a skos:Concept ;
 skos:prefLabel "Lernportal"@de, "Learning portal"@en ;
@@ -301,7 +301,7 @@ skos:definition "Online-Plattform, die digitale Lernressourcen wie Schulbücher,
 skos:definition "Online platform that provides, as a central hub, digital learning resources such as textbooks, exercises, courses and other educational materials."@en ;
 skos:example "Online-Lernplattform, Schulbuch-Portal"@de ;
 skos:example "Online learning platform, textbook portal"@en ;
-skos:topConceptOf <learningresourcetype> .
+skos:topConceptOf <> .
 
 
 
@@ -313,7 +313,7 @@ skos:definition " Dokument oder sonstige Darstellung, welche die richtigen Antwo
 skos:definition "A document, that  contains the correct answers or steps to solve a problem or task. It serves as a reference for students to check their own solutions."@en ;
 skos:example "Lösungsblatt für eine Mathematikaufgabe, Lösung eines Rätsels"@de ;
 skos:example "Solution sheet for a math problem, solution to a puzzle"@en ;
-skos:topConceptOf <learningresourcetype> .
+skos:topConceptOf <> .
 
 
 <MEDIENPAKET> a skos:Concept ;
@@ -324,7 +324,7 @@ skos:topConceptOf <learningresourcetype> .
     skos:note: "Im Gegensatz zu einem Medienpaket, was bereits bei Produktion als Einheit geplant war, ist eine Mediensammlung i.e.S. eine (auch nachträgliche) Zusammenstellung verschiedener Medieninhalte, die **thematisch oder inhaltlich zusammengehören**."@de ;
     skos:example "Web-DVD (055er), Multimedia-Paket, Lernpaket, Präsentationspaket"@de ;
     skos:example "Multimedia package, learning package, presentation package"@en ;
-    skos:topConceptOf <learningresourcetype> .
+    skos:topConceptOf <> .
 
 <MERKBLATT> a skos:Concept ;
 skos:prefLabel "Merkblatt"@de ;
@@ -333,13 +333,13 @@ skos:definition "Ein Merkblatt ist meist recht kurz gehalten und fasst die wicht
 skos:definition "English translation pending."@en ;
 skos:example "Hefteintrag, Regelwerk, Regeln, Zusammenfassung"@de ;
 skos:example "English translation pending."@en ;
-skos:topConceptOf <learningresourcetype> .
+skos:topConceptOf <> .
 
 <METHODISCHE_APP> a skos:Concept ;
 skos:prefLabel "Methodische APP"@de, "APP"@en ;
 skos:definition "ACHTUNG: Exakte Bedeutung noch klären mit WLO. Abgrenzung zu Lernspiel. VORSCHLAG: Anwendung oder Programm, das speziell entwickelt wurde, um Lernenden bestimmte Lerninhalte zu vermitteln oder Kompetenzen zu entwickeln. Kann als App oder als webbasierte Anwendung verfügbar sein."@de ;
 skos:example "App zum Üben von Vokabeln, Adaptives, intelligentes tutorielles System (AIS)."@de ;
-skos:topConceptOf <learningresourcetype> .
+skos:topConceptOf <> .
 
 
 <MODELL> a skos:Concept ;
@@ -349,7 +349,7 @@ skos:definition "Ein Modell dient zur Veranschaulichung von Strukturen und Aufba
 skos:definition "English translation pending."@en ;
 skos:example "Klimamodell, Anschauungsmodelle in den Naturwissenschaften, 3D-Modell eines Auges, das man bewegen und dadurch von allen Seiten anschauen kann"@de ;
 skos:example "English translation pending."@en ;
-skos:topConceptOf <learningresourcetype> .
+skos:topConceptOf <> .
 
 <MUSIKNOTEN> a skos:Concept ;
 skos:prefLabel "Musiknoten"@de ;
@@ -358,7 +358,7 @@ skos:definition "Jede Verschriftlichung von Musikstücken oder ganze Transkripti
 skos:definition "English translation pending."@en ;
 skos:example "Weihnachtslieder inkl. Liedtext und Noten, ausdruckbare Noten eines Stückes zur Musiklehre"@de ;
 skos:example "English translation pending."@en ;
-skos:topConceptOf <learningresourcetype> .
+skos:topConceptOf <> .
 
 <OFFENE_AKTIVITAET> a skos:Concept ;
 skos:prefLabel "Offene Aktivität"@de ;
@@ -367,7 +367,7 @@ skos:altLabel "Freie Aktivität"@de ;
 skos:definition "Noch definieren?"@de ;
 skos:definition "Deprecated, use alternatives."@en ;
 skos:note "In SODIX nicht mehr verwendet, es gibt Alternativen."@de ;
-skos:topConceptOf <learningresourcetype> .
+skos:topConceptOf <> .
 
 <POSTER> a skos:Concept ;
 skos:prefLabel "Poster"@de ;
@@ -377,7 +377,7 @@ skos:definition "Ein großformatiger, mit Text und Bild gestalteter Bogen, der a
 skos:definition "English translation pending."@en ;
 skos:example "Werbung, Aufruf, Lernplakat"@de ;
 skos:example "English translation pending."@en ;
-skos:topConceptOf <learningresourcetype> .
+skos:topConceptOf <> .
 
 <PRAESENTATION> a skos:Concept ;
 skos:prefLabel "Präsentation"@de ;
@@ -386,7 +386,7 @@ skos:definition "Visualisierendes Material zur Unterstützung oder Begleitung ei
 skos:definition "English translation pending."@en ;
 skos:example "Vortragsfolien (Powerpoint), Handouts, digitale Tafelbilder (Sankoré-Datei für ein digitales Whiteboard)"@de ;
 skos:example "English translation pending."@en ;
-skos:topConceptOf <learningresourcetype> .
+skos:topConceptOf <> .
 
 <PROJECT> a skos:Concept ;
 skos:prefLabel "Projekt"@de ;
@@ -395,7 +395,7 @@ skos:definition "Zielgerichtetes, zeitlich definiertes Vorhaben, in Einzel- oder
 skos:definition "English translation pending."@en ;
 skos:example "Umsetzung eines Fotoromans, Erstellen einer Klassenwebsite"@de ;
 skos:example "English translation pending."@en ;
-skos:topConceptOf <learningresourcetype> .
+skos:topConceptOf <> .
 
 <QUELLE> a skos:Concept ;
 skos:prefLabel "Primärmaterial/Quelle"@de ;
@@ -403,7 +403,7 @@ skos:prefLabel "reference"@en ;
 skos:definition "Noch definieren?"@de ;
 skos:definition "English translation pending."@en ;
 skos:note "In SODIX nicht mehr verwendet, bitte 'Daten' verwenden"@de ;
-skos:topConceptOf <learningresourcetype> .
+skos:topConceptOf <> .
 
 <RADIO_TV> a skos:Concept ;
 skos:prefLabel "Radio/TV"@de ;
@@ -411,7 +411,7 @@ skos:prefLabel "Radio/TV"@en ;
 skos:definition "Noch definieren?"@de ;
 skos:definition "English translation pending."@en ;
 skos:note "In SODIX nicht mehr verwendet, bitte 'Video' oder 'Audio' verwenden."@de ;
-skos:topConceptOf <learningresourcetype> .
+skos:topConceptOf <> .
 
 <RECHERCHE_AUFTRAG> a skos:Concept ;
 skos:prefLabel "Recherche-Auftrag"@de ;
@@ -419,7 +419,7 @@ skos:prefLabel "Research Assignment"@en ;
 skos:definition "Nicht mehr verwendet, siehe -> Arbeitsblatt."@de ;
 skos:definition "English translation pending."@en ;
 skos:note "In SODIX nicht mehr verwendet, bitte 'Arbeitsblatt' verwenden."@de ;
-skos:topConceptOf <learningresourcetype> .
+skos:topConceptOf <> .
 
 <REZEPT> a skos:Concept ;
 skos:prefLabel "Rezept"@de ;
@@ -428,7 +428,7 @@ skos:definition "Anleitung zur Zubereitung eines Nahrungs-  oder Genussmittels."
 skos:definition "English translation pending."@en ;
 skos:example "Kochrezept, Backrezept"@de ;
 skos:example "English translation pending."@en ;
-skos:topConceptOf <learningresourcetype> .
+skos:topConceptOf <> .
 
 <ROLLENSPIEL> a skos:Concept ;
 skos:prefLabel "Rollenspiel"@de ;
@@ -437,7 +437,7 @@ skos:prefLabel "Role Play"@en ;
 skos:definition "Ein Spiel, bei dem Lernende in einer fiktiven Situation oder in einem fiktiven Kontext in eine Rolle schlüpfen und Handeln simulieren."@de ;
 skos:definition "English translation pending."@en ;
 skos:example "Spiel rund um Berufe, Selbsterfahrungsspiel zu den Lebensbedingungen von Flüchtlingen, Börsenplanspiel"@de ;
-skos:topConceptOf <learningresourcetype> .
+skos:topConceptOf <> .
 
 <SELBSTEVALUATION> a skos:Concept ;
 skos:prefLabel "Selbstevaluations-Übung"@de, "Self-evaluation exercise"@en ;
@@ -445,7 +445,7 @@ skos:definition "Besondere Form der Lernkontrolle, bei der die Lernenden ihre ei
 skos:definition "An activity where learners assess their own performance and progress, practice self-reflection and understandtheir own learning processes."@en ;
 skos:example "Selbstbewertungsbogen, Reflexionsübung"@de ;
 skos:example "Self-assessment sheet, reflection exercise"@en ;
-skos:topConceptOf <learningresourcetype> .
+skos:topConceptOf <> .
 
 <SOLE> a skos:Concept ;
 skos:prefLabel "Selbstorganisiertes Lernen"@de, "Self-organized learning"@en ;
@@ -453,7 +453,7 @@ skos:definition "Eine Lernmethode, bei der die Lernenden selbstständig und eige
 skos:definition "A learning method where learners independently and responsibly plan, execute, and reflect on their learning processes. "@en ;
 skos:example "Projektarbeit, selbstgesteuerte Lernprojekte"@de ;
 skos:example "Project work, self-directed learning projects"@en ;
-skos:topConceptOf <learningresourcetype> .
+skos:topConceptOf <> .
 
 <SIMULATION> a skos:Concept ;
 skos:prefLabel "Simulation/Animation"@de, "Simulation/Animation"@en ;
@@ -462,7 +462,7 @@ skos:definition "English translation pending."@en ;
 skos:example "Darstellung der Bewegung eines Motors, Simulationsprogramm für die Entwicklung von Finanzkurven, Videospiel zum Lenken eines Zuges, Flugsimulator."@de ;
 skos:example "English translation pending."@en ;
 skos:note "NICHT: Shaun das Schaf, Avatar, La Linea etc."@de ;
-skos:topConceptOf <learningresourcetype> .
+skos:topConceptOf <> .
 
 <SKRIPT> a skos:Concept ;
 skos:prefLabel "Skript"@de, "Script"@en ;
@@ -471,7 +471,7 @@ skos:definition "Eine schriftliche Aufzeichnung von Vorträgen, Vorlesungen, mü
 skos:definition "A written record of lectures, presentations, oral communications or film contributions. It serves as a reference, reading or learning aid."@en ;
 skos:example "Vorlesungsskript, Mitschrift einer Konferenz"@de ;
 skos:example "Lecture script, conference transcript"@en ;
-skos:topConceptOf <learningresourcetype> .
+skos:topConceptOf <> .
 
 <SOFTWARE> a skos:Concept ;
 skos:prefLabel "Desktop-Software"@de ;
@@ -479,14 +479,14 @@ skos:prefLabel "Software"@en ;
 skos:definition "In Abgrenzung und als Teilmenge von APPs werden unter Software solche Applikationen zusammengefasst, die explizit auf Desktop-Computern installiert werden müssen. Software für mobile Endgeräte welche unmittelbar über die APP-Stores der Hersteller installiert werden kann, wird hingegen als APP kategorisiert."@de ;
 skos:definition "English translation pending."@en ;
 skos:note "In SODIX nicht mehr verwendet, dort bitte 'App' verwenden."@de ;
-skos:topConceptOf <learningresourcetype> .
+skos:topConceptOf <> .
 
 <SONSTIGES> a skos:Concept ;
 skos:prefLabel "Sonstiges"@de ;
 skos:prefLabel "Other"@en ;
 skos:definition "Datensätze, die keinem anderen Lernressourcentyp zugeordnet werden können."@de ;
 skos:definition "Records that could not be allocated to any other learning resource type."@en ;
-skos:topConceptOf <learningresourcetype> .
+skos:topConceptOf <> .
 
 <SPRACHLERNVIDEO> a skos:Concept ;
 skos:prefLabel "Sprachlernvideo"@de, "Language learning video"@en ;
@@ -494,7 +494,7 @@ skos:definition "Ein audiovisuelles Medium, das speziell zur Unterstützung des 
 skos:definition "An audiovisual medium specifically designed to support language acquisition. It contains exercises, examples, and explanations that promote the understanding and application of a new language."@en ;
 skos:example "Video zur Verbesserung der Aussprache, Grammatikübungen in Videoform"@de ;
 skos:example "Pronunciation improvement video, grammar exercises in video form"@en ;
-skos:topConceptOf <learningresourcetype> .
+skos:topConceptOf <> .
 
 <STATIONENLERNEN> a skos:Concept ;
 skos:prefLabel "Stationenlernen"@de, "Station learning"@en ;
@@ -502,7 +502,7 @@ skos:definition "Eine Unterrichtsmethode, bei der Schüler in Kleingruppen an ve
 skos:definition "Station learning is a teaching method where students work in small groups at different stations to explore various aspects of a topic."@en ;
 skos:example "Lernstationen im naturwissenschaftlichen Unterricht, Stationenlernen in der Grundschule"@de ;
 skos:example "Learning stations in science classes, station learning in elementary school"@en ;
-skos:topConceptOf <learningresourcetype> .
+skos:topConceptOf <> .
 
 <TAFELBILD> a skos:Concept ;
 skos:prefLabel "Tafelbild"@de, "Blackboard image"@en ;
@@ -511,7 +511,7 @@ skos:definition "Eine visuelle Darstellung von Lerninhalten oder Ergebnissen, di
 skos:definition "A visual representation of learning content or results that is recorded on a blackboard or another medium. It serves to document and review the lesson."@en ;
 skos:example "Tafelbild zur Erklärung eines mathematischen Konzepts, Dokumentation der Lernergebnisse"@de ;
 skos:example "Blackboard image explaining a mathematical concept, documentation of learning outcomes"@en ;
-skos:topConceptOf <learningresourcetype> .
+skos:topConceptOf <> .
 
 <TEST> a skos:Concept ;
 skos:prefLabel "Prüfung"@de ;
@@ -520,7 +520,7 @@ skos:prefLabel "Translation pending"@en ;
 skos:definition "Bewertete Lernkontrolle. Fragt Wissen ab und setzt bestimmte Hürden, die darüber entscheiden, ob eine Prüfung erfolgreich abgelegt ist. Diese bewertete Leistung fließt als Note in ein Zeugnis ein oder führt zur Erlangung eines Bildungsabschlusses."@de ;
 skos:definition "English translation pending."@en ;
 skos:example "Test zur Leseflüssigkeit, Vergleichsarbeiten, Jahrgangsstufentest, Abituraufgaben für das Fach Englisch aus dem Jahr 2018, Prüfungsaufgaben zum ersten Bildungsabschluss, Prüfungsaufgaben zum mittleren Schulabschluss"@de ;
-skos:topConceptOf <learningresourcetype> .
+skos:topConceptOf <> .
 
 <TEXT> a skos:Concept ;
 skos:prefLabel "Text"@de ;
@@ -529,7 +529,7 @@ skos:definition "Eine Ressource, die sich hauptsächlich aus Texteinheiten zusam
 skos:definition "English translation pending."@en ;
 skos:example "Gedicht, Liedtext, Zeitungsartikel, Romanauszüge, Liste, Wikipedia-Artikel"@de ;
 skos:example "English translation pending."@en ;
-skos:topConceptOf <learningresourcetype> .
+skos:topConceptOf <> .
 
 <UEBUNG> a skos:Concept ;
 skos:prefLabel "Übung"@de ;
@@ -538,7 +538,7 @@ skos:definition "Üben ist ein methodisch wiederholtes Handeln, das insbesondere
 skos:definition "English translation pending."@en ;
 skos:example "Selbstkorrigierende Konjugationsübungen, Mathematikübungen, Stimmaufwärmungsübungen, Volleyballaufschlagübungen"@de ;
 skos:example "English translation pending."@en ;
-skos:topConceptOf <learningresourcetype> .
+skos:topConceptOf <> .
 
 <UNTERRICHTSBAUSTEIN> a skos:Concept ;
 skos:prefLabel "Unterrichtsbaustein"@de ;
@@ -547,7 +547,7 @@ skos:definition "Eine kleinere, eigenständige Einheit im Rahmen eines Lehrplans
 skos:definition "English translation pending."@en ;
 skos:example "Unterrichtsmodul, Themenblock, Unterrichtseinheit"@de ;
 skos:example "English translation pending."@en ;
-skos:topConceptOf <learningresourcetype> .
+skos:topConceptOf <> .
 
 <UNTERRICHTSIDEE> a skos:Concept ;
 skos:prefLabel "Unterrichtsidee"@de ;
@@ -556,7 +556,7 @@ skos:definition "Eine kreative und innovative Methode oder Aktivität, die Lehrk
 skos:definition "A creative and innovative method or activity that teachers can use in the classroom to enhance and enrich learning. It can include various teaching methods, materials, or didactic approaches."@en ;
 skos:example "Projektidee für den Unterricht, kreative Lernaktivität"@de ;
 skos:example "Project idea for the classroom, creative learning activity"@en ;
-skos:topConceptOf <learningresourcetype> .
+skos:topConceptOf <> .
 
 <UNTERRICHTSPLANUNG> a skos:Concept ;
 skos:prefLabel "Unterrichtsplanung"@de ;
@@ -565,7 +565,7 @@ skos:definition "Alle didaktischen und pädagogischen Überlegungen zur Vorberei
 skos:definition "English translation pending."@en ;
 skos:example "Unterrichtsidee, Checkliste"@de ;
 skos:example "English translation pending."@en ;
-skos:topConceptOf <learningresourcetype> .
+skos:topConceptOf <> .
 
 
 <VERANSCHAULICHUNG> a skos:Concept ;
@@ -574,7 +574,7 @@ skos:prefLabel "Demonstration"@en ;
 skos:definition "Definition?"@de ;
 skos:definition "English translation pending."@en ;
 skos:note "In SODIX nicht mehr verwendet, zu schwammig."@de ;
-skos:topConceptOf <learningresourcetype> .
+skos:topConceptOf <> .
 
 <VIDEO> a skos:Concept ;
 skos:prefLabel "Video"@de ;
@@ -584,7 +584,7 @@ skos:definition "English translation pending."@en ;
 skos:example "Der Film King Kong (1933), Tierreportage auf der Seite von National Geographic, Ausschnitt eines Videoclips, eine Videodokumentation"@de ;
 skos:example "English translation pending."@en ;
 skos:narrower <ERKLAERVIDEO>, <SPRACHLERNVIDEO>, <MEDIENPAKET> ;
-skos:topConceptOf <learningresourcetype> .
+skos:topConceptOf <> .
 
 <VIRTUAL_REALITY_AUGMENTED_REALITY> a skos:Concept ;
 skos:prefLabel "Virtual Reality & Augmented Reality"@de ;
@@ -597,7 +597,7 @@ skos:definition "VR- und AR-Medien lassen sich auf VR-Brillen und ähnlichen Ger
 skos:definition "English translation pending."@en ;
 skos:example "360° Videos, 360° Webanwendungen, 360° Fotos, 3D-Objekte (interaktiv), virtuelle Führungen"@de ;
 skos:example "English translation pending."@en ;
-skos:topConceptOf <learningresourcetype> .
+skos:topConceptOf <> .
 
 <WEBSEITE> a skos:Concept ;
 skos:prefLabel "Webseite"@de ;
@@ -607,7 +607,7 @@ skos:definition "Ein Dokument, das Bestandteil einer Internetseite im World Wide
 skos:definition "English translation pending."@en ;
 skos:example "Webseite mit pädagogischen Anleitungen, Wiki, Blog"@de ;
 skos:example "English translation pending."@en ;
-skos:topConceptOf <learningresourcetype> .
+skos:topConceptOf <> .
 
 <WEBTOOL> a skos:Concept ;
 skos:prefLabel "Webtool"@de ;
@@ -616,7 +616,7 @@ skos:definition "Ein Webtool ist Software, das geräteunabhängig über Internet
 skos:definition "English translation pending."@en ;
 skos:example "Quiz-Ersteller, QR-Code-Generator, PDF-Konverter, Zeichenprogramm"@de ;
 skos:example "English translation pending."@en ;
-skos:topConceptOf <learningresourcetype> .
+skos:topConceptOf <> .
 
 <WORTLISTE> a skos:Concept ;
 skos:prefLabel "Wortliste"@de, "wordlist"@en ;
@@ -625,4 +625,4 @@ skos:definition "Eine Sammlung von Wörtern oder Begriffen, die für das Lernen 
 skos:definition "A collection of words or terms relevant to learning a language or a specific topic. It serves as a reference and learning aid."@en ;
 skos:example "Liste von Fachbegriffen, Vokabelliste für eine Fremdsprache"@de ;
 skos:example "List of technical terms, vocabulary list for a foreign language"@en ;
-skos:topConceptOf <learningresourcetype> .
+skos:topConceptOf <> .
