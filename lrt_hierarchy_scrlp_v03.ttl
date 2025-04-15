@@ -65,7 +65,8 @@ skos:definition "A barcamp is an open conference with workshops, whose content a
 skos:example "EduCamp, TeachMeet"@de ;
 skos:example "EduCamp, TeachMeet"@en ;
 skos:topConceptOf <> .
- a skos:Concept ;
+
+<BILD> a skos:Concept ;
 skos:prefLabel "Bild"@de ;
 skos:prefLabel "Image"@en ;
 skos:definition "Alle Arten von unbewegten Bildern oder grafischen Darstellungen."@de ;
@@ -632,5 +633,3 @@ skos:definition "A collection of words or terms relevant to learning a language 
 skos:example "Liste von Fachbegriffen, Vokabelliste für eine Fremdsprache"@de ;
 skos:example "List of technical terms, vocabulary list for a foreign language"@en ;
 skos:topConceptOf <> .
-
-
