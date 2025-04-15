@@ -25,7 +25,7 @@ skos:definition "Eine Anleitung oder Leitfaden kann entweder eine schriftliche E
 skos:definition "English translation pending."@en ;
 skos:example "Leitfaden für die Durchführung von Zeitzeugengesprächen mit Hinweisen und Fragestellungen, Bauanleitung, Bastelanleitung"@de ;
 skos:example "English translation pending."@en ;
-skos:topConceptOf <TEXT> .
+skos:topConceptOf <> .
 
 <APP> a skos:Concept ;
 skos:prefLabel "App"@de, "App"@en ;
@@ -83,7 +83,7 @@ skos:definition "Eine mehrseitige textliche Zusammenfassung, die, ausführlicher
 skos:definition "English translation pending."@en ;
 skos:example "Broschüre, Sicherheitshinweise, Sachinformationen"@de ;
 skos:example "English translation pending."@en ;
-skos:topConceptOf <TEXT> .
+skos:topConceptOf <> .
 
 <DATEN> a skos:Concept ;
 skos:prefLabel "Daten"@de ;
@@ -92,7 +92,6 @@ skos:definition "Empirische Daten, Fakten und Erhebungen, Rohdaten."@de ;
 skos:definition "English translation pending."@en ;
 skos:example "Geschichtsdaten, Erhebungen, Fakten, Werte, Statistiken, Steckbriefe"@de ;
 skos:topConceptOf <> .
-
 
 <METHODE> a skos:Concept ;
 skos:prefLabel "Pädagogische Methode"@de, "Diverse Concept"@en ;
@@ -136,7 +135,6 @@ skos:definition "Wissenschaftlicher Versuch mit einer klaren Methodik, bei der H
 skos:definition "English translation pending"@en ;
 skos:example "Video eines Experiments, das im Chemieunterricht nachgestellt wird etc."@de ;
 skos:topConceptOf <> .
-
 
 <EXPERTE> a skos:Concept ;
     skos:prefLabel "Referent"@de, "Speaker"@en ;
@@ -258,7 +256,6 @@ skos:example "Lehrplan für Mathematik, Curriculum für Naturwissenschaften"@de 
 skos:example "Mathematics curriculum, science curriculum"@en ;
 skos:topConceptOf <> .
 
-
 <LERNAUFGABE> a skos:Concept ;
     skos:prefLabel "Lernaufgabe"@de, "Learning Task"@en ;
     skos:altLabel "Aufgabe"@de, "Task"@en ;
@@ -267,8 +264,6 @@ skos:topConceptOf <> .
     skos:example "Matheübung, Projektarbeit, Forschungsaufgabe"@de ;
     skos:example "Math exercise, project work, research task"@en ;
     skos:topConceptOf <> .
-
-
 
 <LERNKONTROLLE> a skos:Concept ;
 skos:prefLabel "Lernkontrolle"@de, "Learning assesment"@en ;
@@ -288,7 +283,6 @@ skos:example "Besuch eines Museums, Exkursion in einen Naturpark, Stadterkundung
 skos:example "Museum visit, nature park excursion, city exploration"@en ;
 skos:topConceptOf <> .
 
-
 <LERNSPIEL> a skos:Concept ;
 skos:prefLabel "Lernspiel"@de ;
 skos:prefLabel "Educational Game"@en ;
@@ -307,9 +301,6 @@ skos:example "Online-Lernplattform, Schulbuch-Portal"@de ;
 skos:example "Online learning platform, textbook portal"@en ;
 skos:topConceptOf <> .
 
-
-
-
 <LOESUNG> a skos:Concept ;
 skos:prefLabel "Lösung"@de, "Solution"@en ;
 skos:altLabel "Lösungsblatt"@de, "Solution sheet"@en ;
@@ -318,7 +309,6 @@ skos:definition "A document, that  contains the correct answers or steps to solv
 skos:example "Lösungsblatt für eine Mathematikaufgabe, Lösung eines Rätsels"@de ;
 skos:example "Solution sheet for a math problem, solution to a puzzle"@en ;
 skos:topConceptOf <> .
-
 
 <MEDIENPAKET> a skos:Concept ;
     skos:prefLabel "Medienpaket"@de, "Media Package"@en ;
@@ -344,7 +334,6 @@ skos:prefLabel "Methodische APP"@de, "APP"@en ;
 skos:definition "ACHTUNG: Exakte Bedeutung noch klären mit WLO. Abgrenzung zu Lernspiel. VORSCHLAG: Anwendung oder Programm, das speziell entwickelt wurde, um Lernenden bestimmte Lerninhalte zu vermitteln oder Kompetenzen zu entwickeln. Kann als App oder als webbasierte Anwendung verfügbar sein."@de ;
 skos:example "App zum Üben von Vokabeln, Adaptives, intelligentes tutorielles System (AIS)."@de ;
 skos:topConceptOf <> .
-
 
 <MODELL> a skos:Concept ;
 skos:prefLabel "Modell"@de ;
