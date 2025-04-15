@@ -25,7 +25,7 @@ skos:definition "Eine Anleitung oder Leitfaden kann entweder eine schriftliche E
 skos:definition "English translation pending."@en ;
 skos:example "Leitfaden für die Durchführung von Zeitzeugengesprächen mit Hinweisen und Fragestellungen, Bauanleitung, Bastelanleitung"@de ;
 skos:example "English translation pending."@en ;
-skos:topConceptOf <> .
+skos:topConceptOf <TEXT> .
 
 <APP> a skos:Concept ;
 skos:prefLabel "App"@de, "App"@en ;
@@ -83,7 +83,7 @@ skos:definition "Eine mehrseitige textliche Zusammenfassung, die, ausführlicher
 skos:definition "English translation pending."@en ;
 skos:example "Broschüre, Sicherheitshinweise, Sachinformationen"@de ;
 skos:example "English translation pending."@en ;
-skos:topConceptOf <> .
+skos:topConceptOf <TEXT> .
 
 <DATEN> a skos:Concept ;
 skos:prefLabel "Daten"@de ;
