@@ -13,6 +13,13 @@
     "en": "English translation pending.",
     "de": "Handreichung zur Integration digitaler Schlüsselkompetenzen in die Berufliche Bildung, Handreichung Sprachsensibler Unterricht an Berufsschulen"
   },
+  "broader": {
+    "id": "https://bokahama.github.io/SCRP-Vocab-LRT/TEXT",
+    "prefLabel": {
+      "en": "Text",
+      "de": "Text"
+    }
+  },
   "inScheme": [
     {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/",

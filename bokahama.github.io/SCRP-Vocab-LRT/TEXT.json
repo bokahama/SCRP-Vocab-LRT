@@ -13,6 +13,99 @@
     "en": "English translation pending.",
     "de": "Gedicht, Liedtext, Zeitungsartikel, Romanauszüge, Liste, Wikipedia-Artikel"
   },
+  "narrower": [
+    {
+      "id": "https://bokahama.github.io/SCRP-Vocab-LRT/ANLEITUNG",
+      "prefLabel": {
+        "en": "Instruction manual",
+        "de": "Anleitung"
+      }
+    },
+    {
+      "id": "https://bokahama.github.io/SCRP-Vocab-LRT/BROSCHUERE",
+      "prefLabel": {
+        "en": "Brochure",
+        "de": "Broschüre"
+      }
+    },
+    {
+      "id": "https://bokahama.github.io/SCRP-Vocab-LRT/EBOOK",
+      "prefLabel": {
+        "en": "E-book",
+        "de": "E-Book"
+      }
+    },
+    {
+      "id": "https://bokahama.github.io/SCRP-Vocab-LRT/FLYER",
+      "prefLabel": {
+        "en": "Flyer",
+        "de": "Flyer"
+      }
+    },
+    {
+      "id": "https://bokahama.github.io/SCRP-Vocab-LRT/HANDBUCH",
+      "prefLabel": {
+        "en": "Guide",
+        "de": "Handbuch"
+      }
+    },
+    {
+      "id": "https://bokahama.github.io/SCRP-Vocab-LRT/HANDREICHUNG",
+      "prefLabel": {
+        "en": "Guidance",
+        "de": "Handreichung"
+      }
+    },
+    {
+      "id": "https://bokahama.github.io/SCRP-Vocab-LRT/MERKBLATT",
+      "prefLabel": {
+        "en": "Leaflet",
+        "de": "Merkblatt"
+      }
+    },
+    {
+      "id": "https://bokahama.github.io/SCRP-Vocab-LRT/MUSIKNOTEN",
+      "prefLabel": {
+        "en": "muscial notes",
+        "de": "Musiknoten"
+      }
+    },
+    {
+      "id": "https://bokahama.github.io/SCRP-Vocab-LRT/POSTER",
+      "prefLabel": {
+        "en": "Poster",
+        "de": "Poster"
+      }
+    },
+    {
+      "id": "https://bokahama.github.io/SCRP-Vocab-LRT/REZEPT",
+      "prefLabel": {
+        "en": "Receipe",
+        "de": "Rezept"
+      }
+    },
+    {
+      "id": "https://bokahama.github.io/SCRP-Vocab-LRT/SKRIPT",
+      "prefLabel": {
+        "en": "Script",
+        "de": "Skript"
+      }
+    },
+    {
+      "id": "https://bokahama.github.io/SCRP-Vocab-LRT/TAFELBILD",
+      "prefLabel": {
+        "en": "Blackboard image",
+        "de": "Tafelbild"
+      }
+    },
+    {
+      "id": "https://bokahama.github.io/SCRP-Vocab-LRT/WORTLISTE",
+      "prefLabel": {
+        "en": "wordlist",
+        "de": "Wortliste"
+      }
+    }
+  ],
   "inScheme": [
     {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/",

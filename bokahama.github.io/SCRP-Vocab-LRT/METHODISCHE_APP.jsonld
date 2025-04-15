@@ -11,6 +11,13 @@
   "example": {
     "de": "App zum Üben von Vokabeln, Adaptives, intelligentes tutorielles System (AIS)."
   },
+  "broader": {
+    "id": "https://bokahama.github.io/SCRP-Vocab-LRT/APP",
+    "prefLabel": {
+      "en": "App",
+      "de": "App"
+    }
+  },
   "inScheme": [
     {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/",

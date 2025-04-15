@@ -14,6 +14,13 @@
       "In SODIX nicht mehr verwendet, dort bitte 'App' verwenden."
     ]
   },
+  "broader": {
+    "id": "https://bokahama.github.io/SCRP-Vocab-LRT/APP",
+    "prefLabel": {
+      "en": "App",
+      "de": "App"
+    }
+  },
   "inScheme": [
     {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/",

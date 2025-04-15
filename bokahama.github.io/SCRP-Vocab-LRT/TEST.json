@@ -17,6 +17,13 @@
   "example": {
     "de": "Test zur Leseflüssigkeit, Vergleichsarbeiten, Jahrgangsstufentest, Abituraufgaben für das Fach Englisch aus dem Jahr 2018, Prüfungsaufgaben zum ersten Bildungsabschluss, Prüfungsaufgaben zum mittleren Schulabschluss"
   },
+  "broader": {
+    "id": "https://bokahama.github.io/SCRP-Vocab-LRT/UNTERRICHTSPLANUNG",
+    "prefLabel": {
+      "en": "Lesson Planning",
+      "de": "Unterrichtsplanung"
+    }
+  },
   "inScheme": [
     {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/",

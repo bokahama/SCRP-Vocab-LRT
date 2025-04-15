@@ -21,6 +21,13 @@
     "en": "Blackboard image explaining a mathematical concept, documentation of learning outcomes",
     "de": "Tafelbild zur Erklärung eines mathematischen Konzepts, Dokumentation der Lernergebnisse"
   },
+  "broader": {
+    "id": "https://bokahama.github.io/SCRP-Vocab-LRT/TEXT",
+    "prefLabel": {
+      "en": "Text",
+      "de": "Text"
+    }
+  },
   "inScheme": [
     {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/",

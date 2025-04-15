@@ -3,12 +3,91 @@
   "type": "Concept",
   "prefLabel": {
     "en": "Other",
-    "de": "Sonstiges"
+    "de": "Diverse Medien und Formate"
   },
   "definition": {
     "en": "Records that could not be allocated to any other learning resource type.",
     "de": "Datensätze, die keinem anderen Lernressourcentyp zugeordnet werden können."
   },
+  "narrower": [
+    {
+      "id": "https://bokahama.github.io/SCRP-Vocab-LRT/DATEN",
+      "prefLabel": {
+        "en": "Data",
+        "de": "Daten"
+      }
+    },
+    {
+      "id": "https://bokahama.github.io/SCRP-Vocab-LRT/GLOSSAR",
+      "prefLabel": {
+        "en": "Glossary",
+        "de": "Glossar"
+      }
+    },
+    {
+      "id": "https://bokahama.github.io/SCRP-Vocab-LRT/INTERAKTION",
+      "prefLabel": {
+        "en": "Interactive Medium",
+        "de": "Interaktives Medium"
+      }
+    },
+    {
+      "id": "https://bokahama.github.io/SCRP-Vocab-LRT/KURS",
+      "prefLabel": {
+        "en": "Course",
+        "de": "Kurs"
+      }
+    },
+    {
+      "id": "https://bokahama.github.io/SCRP-Vocab-LRT/MODELL",
+      "prefLabel": {
+        "en": "Model",
+        "de": "Modell"
+      }
+    },
+    {
+      "id": "https://bokahama.github.io/SCRP-Vocab-LRT/QUELLE",
+      "prefLabel": {
+        "en": "reference",
+        "de": "Primärmaterial/Quelle"
+      }
+    },
+    {
+      "id": "https://bokahama.github.io/SCRP-Vocab-LRT/VERANSCHAULICHUNG",
+      "prefLabel": {
+        "en": "Demonstration",
+        "de": "Veranschaulichung"
+      }
+    },
+    {
+      "id": "https://bokahama.github.io/SCRP-Vocab-LRT/WEBSEITE",
+      "prefLabel": {
+        "en": "Website",
+        "de": "Webseite"
+      }
+    },
+    {
+      "id": "https://bokahama.github.io/SCRP-Vocab-LRT/FRAGEBOGEN",
+      "prefLabel": {
+        "en": "Questionnaire",
+        "de": "Fragebogen"
+      }
+    },
+    {
+      "id": "https://bokahama.github.io/SCRP-Vocab-LRT/LERNPORTAL",
+      "prefLabel": {
+        "en": "Learning portal",
+        "de": "Lernportal"
+      }
+    },
+    {
+      "id": "https://bokahama.github.io/SCRP-Vocab-LRT/PRAESENTATION",
+      "prefLabel": {
+        "en": "Presentation",
+        "de": "Präsentation"
+      }
+    }
+  ],
   "inScheme": [
     {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/",

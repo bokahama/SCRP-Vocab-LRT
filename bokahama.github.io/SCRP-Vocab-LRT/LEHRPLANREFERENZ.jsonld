@@ -13,6 +13,13 @@
     "en": "Mathematics curriculum, science curriculum",
     "de": "Lehrplan für Mathematik, Curriculum für Naturwissenschaften"
   },
+  "broader": {
+    "id": "https://bokahama.github.io/SCRP-Vocab-LRT/UNTERRICHTSPLANUNG",
+    "prefLabel": {
+      "en": "Lesson Planning",
+      "de": "Unterrichtsplanung"
+    }
+  },
   "inScheme": [
     {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/",

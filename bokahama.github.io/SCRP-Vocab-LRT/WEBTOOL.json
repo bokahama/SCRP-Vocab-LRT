@@ -13,6 +13,13 @@
     "en": "English translation pending.",
     "de": "Quiz-Ersteller, QR-Code-Generator, PDF-Konverter, Zeichenprogramm"
   },
+  "broader": {
+    "id": "https://bokahama.github.io/SCRP-Vocab-LRT/APP",
+    "prefLabel": {
+      "en": "App",
+      "de": "App"
+    }
+  },
   "inScheme": [
     {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/",

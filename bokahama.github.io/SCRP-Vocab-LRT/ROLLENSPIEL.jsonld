@@ -17,6 +17,13 @@
   "example": {
     "de": "Spiel rund um Berufe, Selbsterfahrungsspiel zu den Lebensbedingungen von Flüchtlingen, Börsenplanspiel"
   },
+  "broader": {
+    "id": "https://bokahama.github.io/SCRP-Vocab-LRT/METHODE",
+    "prefLabel": {
+      "en": "Diverse Concept",
+      "de": "Pädagogische Methode"
+    }
+  },
   "inScheme": [
     {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/",

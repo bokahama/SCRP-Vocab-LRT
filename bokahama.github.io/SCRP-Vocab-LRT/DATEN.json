@@ -12,6 +12,13 @@
   "example": {
     "de": "Geschichtsdaten, Erhebungen, Fakten, Werte, Statistiken, Steckbriefe"
   },
+  "broader": {
+    "id": "https://bokahama.github.io/SCRP-Vocab-LRT/SONSTIGES",
+    "prefLabel": {
+      "en": "Other",
+      "de": "Diverse Medien und Formate"
+    }
+  },
   "inScheme": [
     {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/",

@@ -22,6 +22,13 @@
     "en": "English translation pending.",
     "de": "Selbsttest, Test(bewertet) Lernstandsanalyse, Prüfung (bewertet)"
   },
+  "broader": {
+    "id": "https://bokahama.github.io/SCRP-Vocab-LRT/UNTERRICHTSPLANUNG",
+    "prefLabel": {
+      "en": "Lesson Planning",
+      "de": "Unterrichtsplanung"
+    }
+  },
   "inScheme": [
     {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/",

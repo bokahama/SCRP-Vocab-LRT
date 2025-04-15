@@ -23,6 +23,36 @@
     "en": "App to practise to read the time; App to generate diagrams",
     "de": "App zum Üben der Uhrzeit, App für einen Diagrammgenerator"
   },
+  "narrower": [
+    {
+      "id": "https://bokahama.github.io/SCRP-Vocab-LRT/LERNSPIEL",
+      "prefLabel": {
+        "en": "Educational Game",
+        "de": "Lernspiel"
+      }
+    },
+    {
+      "id": "https://bokahama.github.io/SCRP-Vocab-LRT/SOFTWARE",
+      "prefLabel": {
+        "en": "Software",
+        "de": "Desktop-Software"
+      }
+    },
+    {
+      "id": "https://bokahama.github.io/SCRP-Vocab-LRT/WEBTOOL",
+      "prefLabel": {
+        "en": "Webtool",
+        "de": "Webtool"
+      }
+    },
+    {
+      "id": "https://bokahama.github.io/SCRP-Vocab-LRT/METHODISCHE_APP",
+      "prefLabel": {
+        "en": "APP",
+        "de": "Methodische APP"
+      }
+    }
+  ],
   "inScheme": [
     {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/",

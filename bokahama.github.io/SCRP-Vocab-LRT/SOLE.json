@@ -13,6 +13,13 @@
     "en": "Project work, self-directed learning projects",
     "de": "Projektarbeit, selbstgesteuerte Lernprojekte"
   },
+  "broader": {
+    "id": "https://bokahama.github.io/SCRP-Vocab-LRT/METHODE",
+    "prefLabel": {
+      "en": "Diverse Concept",
+      "de": "Pädagogische Methode"
+    }
+  },
   "inScheme": [
     {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/",

@@ -23,6 +23,13 @@
     "en": "Museum visit, nature park excursion, city exploration",
     "de": "Besuch eines Museums, Exkursion in einen Naturpark, Stadterkundung"
   },
+  "broader": {
+    "id": "https://bokahama.github.io/SCRP-Vocab-LRT/METHODE",
+    "prefLabel": {
+      "en": "Diverse Concept",
+      "de": "Pädagogische Methode"
+    }
+  },
   "inScheme": [
     {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/",

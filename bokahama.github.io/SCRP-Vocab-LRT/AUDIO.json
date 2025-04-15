@@ -21,6 +21,15 @@
     "en": "English translation pending.",
     "de": "Musikstück, Radioarchive, aufgenommene Stimmen und Töne etc."
   },
+  "narrower": [
+    {
+      "id": "https://bokahama.github.io/SCRP-Vocab-LRT/RADIO_TV",
+      "prefLabel": {
+        "en": "Radio/TV",
+        "de": "Radio/TV"
+      }
+    }
+  ],
   "inScheme": [
     {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/",

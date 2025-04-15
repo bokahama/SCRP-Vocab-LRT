@@ -13,6 +13,13 @@
     "en": "Learning stations in science classes, station learning in elementary school",
     "de": "Lernstationen im naturwissenschaftlichen Unterricht, Stationenlernen in der Grundschule"
   },
+  "broader": {
+    "id": "https://bokahama.github.io/SCRP-Vocab-LRT/METHODE",
+    "prefLabel": {
+      "en": "Diverse Concept",
+      "de": "Pädagogische Methode"
+    }
+  },
   "inScheme": [
     {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/",

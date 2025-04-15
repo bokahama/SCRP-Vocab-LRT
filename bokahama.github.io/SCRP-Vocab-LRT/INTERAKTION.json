@@ -21,6 +21,13 @@
     "en": "Interactive simulation, quiz, educational game, virtual lab",
     "de": "Interaktive Simulation, Quiz, Lernspiel, Virtuelles Labor"
   },
+  "broader": {
+    "id": "https://bokahama.github.io/SCRP-Vocab-LRT/SONSTIGES",
+    "prefLabel": {
+      "en": "Other",
+      "de": "Diverse Medien und Formate"
+    }
+  },
   "inScheme": [
     {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/",

@@ -13,6 +13,22 @@
     "en": "English translation pending.",
     "de": "Foto, Grafiken, Illustration, Artefakt eines Gemäldes, Schema, Diagramm etc."
   },
+  "narrower": [
+    {
+      "id": "https://bokahama.github.io/SCRP-Vocab-LRT/INFOGRAFIK",
+      "prefLabel": {
+        "en": "Infographic",
+        "de": "Infografik"
+      }
+    },
+    {
+      "id": "https://bokahama.github.io/SCRP-Vocab-LRT/KARTE",
+      "prefLabel": {
+        "en": "Map",
+        "de": "Karte"
+      }
+    }
+  ],
   "inScheme": [
     {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/",

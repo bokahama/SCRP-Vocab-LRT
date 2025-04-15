@@ -12,6 +12,13 @@
   "example": {
     "de": "Spielerische Lernaufträge in der Natur oder in digitalen Räumen, in denen durch Klicken auf Symbole neue Dinge und Fakten entdeckt werden"
   },
+  "broader": {
+    "id": "https://bokahama.github.io/SCRP-Vocab-LRT/METHODE",
+    "prefLabel": {
+      "en": "Diverse Concept",
+      "de": "Pädagogische Methode"
+    }
+  },
   "inScheme": [
     {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/",

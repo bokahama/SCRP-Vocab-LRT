@@ -11,6 +11,13 @@
   "example": {
     "de": "Info-Flyer, Werbe-Flyer, Faltblatt"
   },
+  "broader": {
+    "id": "https://bokahama.github.io/SCRP-Vocab-LRT/TEXT",
+    "prefLabel": {
+      "en": "Text",
+      "de": "Text"
+    }
+  },
   "inScheme": [
     {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/",

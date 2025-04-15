@@ -21,6 +21,13 @@
     "en": "Solution sheet for a math problem, solution to a puzzle",
     "de": "Lösungsblatt für eine Mathematikaufgabe, Lösung eines Rätsels"
   },
+  "broader": {
+    "id": "https://bokahama.github.io/SCRP-Vocab-LRT/UNTERRICHTSPLANUNG",
+    "prefLabel": {
+      "en": "Lesson Planning",
+      "de": "Unterrichtsplanung"
+    }
+  },
   "inScheme": [
     {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/",

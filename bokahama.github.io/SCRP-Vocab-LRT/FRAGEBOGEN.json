@@ -21,6 +21,13 @@
     "en": "Customer satisfaction survey, feedback questionnaire after training",
     "de": "Umfrage zur Kundenzufriedenheit, Feedback-Fragebogen nach einer Schulung"
   },
+  "broader": {
+    "id": "https://bokahama.github.io/SCRP-Vocab-LRT/SONSTIGES",
+    "prefLabel": {
+      "en": "Other",
+      "de": "Diverse Medien und Formate"
+    }
+  },
   "inScheme": [
     {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/",

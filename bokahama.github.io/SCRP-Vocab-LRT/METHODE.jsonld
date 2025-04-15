@@ -18,6 +18,85 @@
     "en": "Interdisciplinary project, experimental learning methods",
     "de": "Interdisziplinäres Projekt, experimentelle Lernmethoden"
   },
+  "narrower": [
+    {
+      "id": "https://bokahama.github.io/SCRP-Vocab-LRT/ENTDECKENDES_LERNEN",
+      "prefLabel": {
+        "en": "Discovery Learning",
+        "de": "Entdeckendes Lernen"
+      }
+    },
+    {
+      "id": "https://bokahama.github.io/SCRP-Vocab-LRT/EXPERIMENT",
+      "prefLabel": {
+        "en": "Experiment",
+        "de": "Experiment"
+      }
+    },
+    {
+      "id": "https://bokahama.github.io/SCRP-Vocab-LRT/FALLSTUDIE",
+      "prefLabel": {
+        "en": "Case Study",
+        "de": "Fallstudie"
+      }
+    },
+    {
+      "id": "https://bokahama.github.io/SCRP-Vocab-LRT/OFFENE_AKTIVITAET",
+      "prefLabel": {
+        "en": "Open Activity",
+        "de": "Offene Aktivität"
+      }
+    },
+    {
+      "id": "https://bokahama.github.io/SCRP-Vocab-LRT/PROJECT",
+      "prefLabel": {
+        "en": "Project",
+        "de": "Projekt"
+      }
+    },
+    {
+      "id": "https://bokahama.github.io/SCRP-Vocab-LRT/ROLLENSPIEL",
+      "prefLabel": {
+        "en": "Role Play",
+        "de": "Rollenspiel"
+      }
+    },
+    {
+      "id": "https://bokahama.github.io/SCRP-Vocab-LRT/BARCAMP",
+      "prefLabel": {
+        "en": "Barcamp",
+        "de": "Barcamp"
+      }
+    },
+    {
+      "id": "https://bokahama.github.io/SCRP-Vocab-LRT/GRUPPENARBEIT",
+      "prefLabel": {
+        "en": "Group work",
+        "de": "Gruppenarbeit"
+      }
+    },
+    {
+      "id": "https://bokahama.github.io/SCRP-Vocab-LRT/LERNORT",
+      "prefLabel": {
+        "en": "Learning location",
+        "de": "Lernort"
+      }
+    },
+    {
+      "id": "https://bokahama.github.io/SCRP-Vocab-LRT/SOLE",
+      "prefLabel": {
+        "en": "Self-organized learning",
+        "de": "Selbstorganisiertes Lernen"
+      }
+    },
+    {
+      "id": "https://bokahama.github.io/SCRP-Vocab-LRT/STATIONENLERNEN",
+      "prefLabel": {
+        "en": "Station learning",
+        "de": "Stationenlernen"
+      }
+    }
+  ],
   "inScheme": [
     {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/",

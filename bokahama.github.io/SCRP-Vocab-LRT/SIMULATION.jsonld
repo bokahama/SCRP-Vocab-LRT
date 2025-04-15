@@ -18,6 +18,13 @@
     "en": "English translation pending.",
     "de": "Darstellung der Bewegung eines Motors, Simulationsprogramm für die Entwicklung von Finanzkurven, Videospiel zum Lenken eines Zuges, Flugsimulator."
   },
+  "broader": {
+    "id": "https://bokahama.github.io/SCRP-Vocab-LRT/VIRTUAL_REALITY_AUGMENTED_REALITY",
+    "prefLabel": {
+      "en": "Virtual Reality & Augmented Reality",
+      "de": "Virtual Reality & Augmented Reality"
+    }
+  },
   "inScheme": [
     {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/",

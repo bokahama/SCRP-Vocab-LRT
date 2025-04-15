@@ -20,6 +20,13 @@
   "example": {
     "de": "Begriffsverzeichnis, Fachglossar der holzverarbeitenden Berufe, Wörterbuch, Enzyklopädie"
   },
+  "broader": {
+    "id": "https://bokahama.github.io/SCRP-Vocab-LRT/SONSTIGES",
+    "prefLabel": {
+      "en": "Other",
+      "de": "Diverse Medien und Formate"
+    }
+  },
   "inScheme": [
     {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/",

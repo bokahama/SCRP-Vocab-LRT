@@ -13,6 +13,13 @@
     "en": "English translation pending.",
     "de": "Übersicht zum Kreislauf von Pfandflaschen, Erklär-Grafik zur Lebensmittelkennzeichnung: Was steht auf dem Etikett?"
   },
+  "broader": {
+    "id": "https://bokahama.github.io/SCRP-Vocab-LRT/BILD",
+    "prefLabel": {
+      "en": "Image",
+      "de": "Bild"
+    }
+  },
   "inScheme": [
     {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/",

@@ -13,6 +13,13 @@
     "en": "English translation pending.",
     "de": "Vokabel-Lernspiele, Lernspiel, welches die Reflexe trainiert, Quiz, Rätsel, Memory"
   },
+  "broader": {
+    "id": "https://bokahama.github.io/SCRP-Vocab-LRT/APP",
+    "prefLabel": {
+      "en": "App",
+      "de": "App"
+    }
+  },
   "inScheme": [
     {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/",

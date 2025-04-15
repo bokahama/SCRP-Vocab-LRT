@@ -14,6 +14,13 @@
       "In SODIX nicht mehr verwendet, bitte 'Video' oder 'Audio' verwenden."
     ]
   },
+  "broader": {
+    "id": "https://bokahama.github.io/SCRP-Vocab-LRT/AUDIO",
+    "prefLabel": {
+      "en": "Audio",
+      "de": "Audio"
+    }
+  },
   "inScheme": [
     {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/",

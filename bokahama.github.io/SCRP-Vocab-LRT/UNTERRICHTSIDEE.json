@@ -13,6 +13,13 @@
     "en": "Project idea for the classroom, creative learning activity",
     "de": "Projektidee für den Unterricht, kreative Lernaktivität"
   },
+  "broader": {
+    "id": "https://bokahama.github.io/SCRP-Vocab-LRT/UNTERRICHTSPLANUNG",
+    "prefLabel": {
+      "en": "Lesson Planning",
+      "de": "Unterrichtsplanung"
+    }
+  },
   "inScheme": [
     {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/",

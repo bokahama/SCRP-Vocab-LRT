@@ -23,6 +23,15 @@
     "en": "English translation pending.",
     "de": "360° Videos, 360° Webanwendungen, 360° Fotos, 3D-Objekte (interaktiv), virtuelle Führungen"
   },
+  "narrower": [
+    {
+      "id": "https://bokahama.github.io/SCRP-Vocab-LRT/SIMULATION",
+      "prefLabel": {
+        "en": "Simulation/Animation",
+        "de": "Simulation/Animation"
+      }
+    }
+  ],
   "inScheme": [
     {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/",
