@@ -34,6 +34,7 @@ skos:definition "Eine App (Abkürzung für 'Application Software') ist eine Anwe
 skos:definition "An app (short for application software) is an application or computer program that can provide all kinds of functionality. It is not relevant to the functioning of the computer system itself, but provides additional functionality that caters for a specific user's needs. An app needs to be downloaded and installed in order to use it."@en ;
 skos:example "App zum Üben der Uhrzeit, App für einen Diagrammgenerator"@de ;
 skos:example "App to practise to read the time; App to generate diagrams"@en ;
+skos:narrower <LERNSPIEL>, <METHODISCHE_APP>, <SOFTWARE>, <WEBTOOL> ;
 skos:topConceptOf <> .
 
 <ARBEITSBLATT> a skos:Concept ;
@@ -54,6 +55,7 @@ skos:definition "Eine Tonaufnahme zum Anhören."@de ;
 skos:definition "An audio recording to listen to."@en ;
 skos:example "Musikstück, Radioarchive, aufgenommene Stimmen und Töne etc."@de ;
 skos:example "English translation pending."@en ;
+skos:narrower <RADIO_TV> ;
 skos:topConceptOf <> .
 
 <BARCAMP> a skos:Concept ;
@@ -63,14 +65,14 @@ skos:definition "A barcamp is an open conference with workshops, whose content a
 skos:example "EduCamp, TeachMeet"@de ;
 skos:example "EduCamp, TeachMeet"@en ;
 skos:topConceptOf <> .
-
-<BILD> a skos:Concept ;
+ a skos:Concept ;
 skos:prefLabel "Bild"@de ;
 skos:prefLabel "Image"@en ;
 skos:definition "Alle Arten von unbewegten Bildern oder grafischen Darstellungen."@de ;
 skos:definition "All kinds of still images or graphical representations."@en ;
 skos:example "Foto, Grafiken, Illustration, Artefakt eines Gemäldes, Schema, Diagramm etc."@de ;
 skos:example "English translation pending."@en ;
+skos:narrower <INFOGRAFIK>, <KARTE> ;
 skos:topConceptOf <> .
 
 <BROSCHUERE> a skos:Concept ;
@@ -98,6 +100,7 @@ skos:definition "Verschiedene Lehrmethoden und Konzepte, die nicht in eine spezi
 skos:definition "Various teaching methods and concepts that do not fit into a specific category. These can include innovative, experimental, or interdisciplinary approaches."@en ;
 skos:example "Interdisziplinäres Projekt, experimentelle Lernmethoden"@de ;
 skos:example "Interdisciplinary project, experimental learning methods"@en ;
+skos:narrower <BARCAMP>, <ENTDECKENDES_LERNEN>, <EXPERIMENT>, <OFFENE_AKTIVITAET>, <GRUPPENARBEIT>, <LERNORT>, <FALLSTUDIE>, <PROJECT>, <ROLLENSPIEL>, <SOLE>, <STATIONENLERNEN> ;
 skos:topConceptOf <> .
 
 <EBOOK> a skos:Concept ;
@@ -482,10 +485,11 @@ skos:note "In SODIX nicht mehr verwendet, dort bitte 'App' verwenden."@de ;
 skos:topConceptOf <> .
 
 <SONSTIGES> a skos:Concept ;
-skos:prefLabel "Sonstiges"@de ;
+skos:prefLabel "Diverse Medien und Formate"@de ;
 skos:prefLabel "Other"@en ;
 skos:definition "Datensätze, die keinem anderen Lernressourcentyp zugeordnet werden können."@de ;
 skos:definition "Records that could not be allocated to any other learning resource type."@en ;
+skos:narrower <FRAGEBOGEN>, <INTERAKTION>, <KURS>, <LERNPORTAL>, <MODELL>, <PRAESENTATION>, <QUELLE>, <DATEN>, <VERANSCHAULICHUNG>, <WEBSEITE>, <GLOSSAR> ;
 skos:topConceptOf <> .
 
 <SPRACHLERNVIDEO> a skos:Concept ;
@@ -529,6 +533,7 @@ skos:definition "Eine Ressource, die sich hauptsächlich aus Texteinheiten zusam
 skos:definition "English translation pending."@en ;
 skos:example "Gedicht, Liedtext, Zeitungsartikel, Romanauszüge, Liste, Wikipedia-Artikel"@de ;
 skos:example "English translation pending."@en ;
+skos:narrower <ANLEITUNG>, <BROSCHUERE>, <EBOOK>, <FLYER>, <HANDBUCH>, <HANDREICHUNG>, <MERKBLATT>, <MUSIKNOTEN>, <POSTER>, <REZEPT>, <SKRIPT>, <TAFELBILD>, <WORTLISTE> ;
 skos:topConceptOf <> .
 
 <UEBUNG> a skos:Concept ;
@@ -565,8 +570,8 @@ skos:definition "Alle didaktischen und pädagogischen Überlegungen zur Vorberei
 skos:definition "English translation pending."@en ;
 skos:example "Unterrichtsidee, Checkliste"@de ;
 skos:example "English translation pending."@en ;
+skos:narrower <LERNKONTROLLE>, <LOESUNG>, <TEST>, <LEHRPLANREFERENZ>, <UNTERRICHTSBAUSTEIN>, <UNTERRICHTSIDEE> ;
 skos:topConceptOf <> .
-
 
 <VERANSCHAULICHUNG> a skos:Concept ;
 skos:prefLabel "Veranschaulichung"@de ;
@@ -597,6 +602,7 @@ skos:definition "VR- und AR-Medien lassen sich auf VR-Brillen und ähnlichen Ger
 skos:definition "English translation pending."@en ;
 skos:example "360° Videos, 360° Webanwendungen, 360° Fotos, 3D-Objekte (interaktiv), virtuelle Führungen"@de ;
 skos:example "English translation pending."@en ;
+skos:narrower <SIMULATION> ;
 skos:topConceptOf <> .
 
 <WEBSEITE> a skos:Concept ;
@@ -626,3 +632,5 @@ skos:definition "A collection of words or terms relevant to learning a language 
 skos:example "Liste von Fachbegriffen, Vokabelliste für eine Fremdsprache"@de ;
 skos:example "List of technical terms, vocabulary list for a foreign language"@en ;
 skos:topConceptOf <> .
+
+
