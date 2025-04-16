@@ -34,7 +34,7 @@ skos:definition "Eine App (Abkürzung für 'Application Software') ist eine Anwe
 skos:definition "An app (short for application software) is an application or computer program that can provide all kinds of functionality. It is not relevant to the functioning of the computer system itself, but provides additional functionality that caters for a specific user's needs. An app needs to be downloaded and installed in order to use it."@en ;
 skos:example "App zum Üben der Uhrzeit, App für einen Diagrammgenerator"@de ;
 skos:example "App to practise to read the time; App to generate diagrams"@en ;
-skos:scopeNote "Der Wert findet auch als zusammenfassender Kategorien-Wert sowie als Residual-Wert Anwendung. Falls möglich bitte spezifischer indexieren."@de, "This term is also used for clustering several more specific terms and as a residual-term. Use more specific descriptors whenever possible."@en .
+skos:scopeNote "Der Wert findet auch als zusammenfassender Kategorien-Wert sowie als Residual-Wert Anwendung. Falls möglich bitte spezifischer indexieren."@de, "This term is also used for clustering several more specific terms and as a residual-term. Use more specific descriptors whenever possible."@en ;
 skos:narrower <LERNSPIEL>, <METHODISCHE_APP>, <SOFTWARE>, <WEBTOOL> ;
 skos:topConceptOf <> .
 
@@ -208,7 +208,7 @@ skos:prefLabel "Interaktives Medium"@de, "Interactive Medium"@en ;
     skos:definition "A digital learning medium that allows users to actively interact with the content. It can take various forms, such as interactive simulations, quizzes, games, or virtual labs."@en ;
     skos:example "Interaktive Simulation, Quiz, Lernspiel, Virtuelles Labor"@de ;
     skos:example "Interactive simulation, quiz, educational game, virtual lab"@en ;
-    skos:scopeNote "Der Wert findet auch als zusammenfassender Kategorien-Wert sowie als Residual-Wert Anwendung. Falls möglich bitte spezifischer indexieren."@de, "This term is also used for clustering several more specific terms and as a residual-term. Use more specific descriptors whenever possible."@en .
+    skos:scopeNote "Der Wert findet auch als zusammenfassender Kategorien-Wert sowie als Residual-Wert Anwendung. Falls möglich bitte spezifischer indexieren."@de, "This term is also used for clustering several more specific terms and as a residual-term. Use more specific descriptors whenever possible."@en ;
     skos:topConceptOf <> .
 
 <KARTE> a skos:Concept ;
@@ -326,7 +326,7 @@ skos:definition "Verschiedene Lehrmethoden und Konzepte, die nicht in eine spezi
 skos:definition "Various teaching methods and concepts that do not fit into a specific category. These can include innovative, experimental, or interdisciplinary approaches."@en ;
 skos:example "Interdisziplinäres Projekt, experimentelle Lernmethoden"@de ;
 skos:example "Interdisciplinary project, experimental learning methods"@en ;
-skos:scopeNote "Der Wert findet auch als zusammenfassender Kategorien-Wert sowie als Residual-Wert Anwendung. Falls möglich bitte spezifischer indexieren."@de, "This term is also used for clustering several more specific terms and as a residual-term. Use more specific descriptors whenever possible."@en .
+skos:scopeNote "Der Wert findet auch als zusammenfassender Kategorien-Wert sowie als Residual-Wert Anwendung. Falls möglich bitte spezifischer indexieren."@de, "This term is also used for clustering several more specific terms and as a residual-term. Use more specific descriptors whenever possible."@en ;
 skos:narrower <BARCAMP>, <ENTDECKENDES_LERNEN>, <EXPERIMENT>, <OFFENE_AKTIVITAET>, <GRUPPENARBEIT>, <LERNORT>, <FALLSTUDIE>, <PROJECT>, <ROLLENSPIEL>, <SOLE>, <STATIONENLERNEN> ;
 skos:topConceptOf <> .
 
@@ -480,7 +480,7 @@ skos:topConceptOf <> .
 skos:prefLabel "Diverse Medien und Formate"@de ;
 skos:prefLabel "Other"@en ;
 skos:definition "Residualkategorie für Datensätze, die keinem anderen Lernressourcentyp zugeordnet werden können. Wird zugleich auch als Kategorien-Wert für die Zusammenfassung verschiedener Medientypen verwendet."@de ;
-skos:scopeNote "Der Wert findet insbesondere als zusammenfassender Kategorien-Wert sowie als Residual-Wert Anwendung. Falls möglich bitte spezifischer indexieren."@de, "This term is especially used for clustering several more specific terms and as a residual-term. Use more specific descriptors whenever possible."@en .
+skos:scopeNote "Der Wert findet insbesondere als zusammenfassender Kategorien-Wert sowie als Residual-Wert Anwendung. Falls möglich bitte spezifischer indexieren."@de, "This term is especially used for clustering several more specific terms and as a residual-term. Use more specific descriptors whenever possible."@en ;
 skos:definition "Records that could not be allocated to any other learning resource type."@en ;
 skos:narrower <FRAGEBOGEN>, <INTERAKTION>, <KURS>, <LERNPORTAL>, <MODELL>, <PRAESENTATION>, <QUELLE>, <DATEN>, <VERANSCHAULICHUNG>, <WEBSEITE>, <GLOSSAR> ;
 skos:topConceptOf <> .
@@ -526,7 +526,7 @@ skos:topConceptOf <> .
     skos:definition "Text encompasses all forms of written representations that serve to convey information, support learning, and provide entertainment. This includes traditional print media and digital documents. In a wider sense also notations like music scores, e-books, and many other forms of written materials."@en ;
     skos:example "Gedicht, Liedtext, Zeitungsartikel, Romanauszüge, Liste, Wikipedia-Artikel"@de ;
     skos:example "Textbook, poem, article"@en ;
-    skos:scopeNote "Der Wert findet auch als zusammenfassender Kategorien-Wert sowie als Residual-Wert Anwendung. Falls möglich bitte spezifischer indexieren."@de, "This term is also used for clustering several more specific terms and as a residual-term. Use more specific descriptors whenever possible."@en .
+    skos:scopeNote "Der Wert findet auch als zusammenfassender Kategorien-Wert sowie als Residual-Wert Anwendung. Falls möglich bitte spezifischer indexieren."@de, "This term is also used for clustering several more specific terms and as a residual-term. Use more specific descriptors whenever possible."@en ;
     skos:narrower <ANLEITUNG>, <BROSCHUERE>, <EBOOK>, <FLYER>, <HANDBUCH>, <HANDREICHUNG>, <MERKBLATT>, <MUSIKNOTEN>, <POSTER>, <REZEPT>, <SKRIPT>, <TAFELBILD>, <WORTLISTE> ;
     skos:topConceptOf <> .
 
@@ -564,7 +564,7 @@ skos:definition "Alle didaktischen und pädagogischen Überlegungen zur Vorberei
 skos:definition "English translation pending."@en ;
 skos:example "Unterrichtsidee, Checkliste"@de ;
 skos:example "English translation pending."@en ;
-skos:scopeNote "Der Wert findet auch als zusammenfassender Kategorien-Wert sowie als Residual-Wert Anwendung. Falls möglich bitte spezifischer indexieren."@de, "This term is also used for clustering several more specific terms and as a residual-term. Use more specific descriptors whenever possible."@en .
+skos:scopeNote "Der Wert findet auch als zusammenfassender Kategorien-Wert sowie als Residual-Wert Anwendung. Falls möglich bitte spezifischer indexieren."@de, "This term is also used for clustering several more specific terms and as a residual-term. Use more specific descriptors whenever possible."@en ;
 skos:narrower <LERNKONTROLLE>, <LOESUNG>, <TEST>, <LEHRPLANREFERENZ>, <UNTERRICHTSBAUSTEIN>, <UNTERRICHTSIDEE> ;
 skos:topConceptOf <> .
 
@@ -583,7 +583,7 @@ skos:topConceptOf <> .
     skos:definition "A video is a technology for capturing, editing, and playing back moving images. It can convey various types of content, ranging from entertainment to education. Videos can come in different formats and lengths and are often an integral part of modern media."@en ;
     skos:example "Lehrvideo zur Erklärung mathematischer Konzepte, Dokumentarfilm über die Geschichte der Raumfahrt"@de ;
     skos:example "Educational video explaining mathematical concepts, documentary film about the history of space exploration"@en ;
-    skos:scopeNote "Der Wert findet auch als zusammenfassender Kategorien-Wert sowie als Residual-Wert Anwendung. Falls möglich bitte spezifischer indexieren."@de, "This term is also used for clustering several more specific terms and as a residual-term. Use more specific descriptors whenever possible."@en .
+    skos:scopeNote "Der Wert findet auch als zusammenfassender Kategorien-Wert sowie als Residual-Wert Anwendung. Falls möglich bitte spezifischer indexieren."@de, "This term is also used for clustering several more specific terms and as a residual-term. Use more specific descriptors whenever possible."@en ;
     skos:narrower <ERKLAERVIDEO>, <SPRACHLERNVIDEO>, <MEDIENPAKET> ;
     skos:topConceptOf <> .
 
@@ -597,7 +597,6 @@ skos:altLabel "AR"@en;
 skos:definition "VR- und AR-Medien lassen sich auf VR-Brillen und ähnlichen Geräten abspielen oder sind für diese optimiert. Sie können zum Download angeboten werden oder als App zur Verfügung stehen. Technische Formate derzeit: MP4 und APK."@de ;
 skos:definition "English translation pending."@en ;
 skos:example "360° Videos, 360° Webanwendungen, 360° Fotos, 3D-Objekte (interaktiv), virtuelle Führungen"@de ;
-skos:example "English translation pending."@en ;
 skos:narrower <SIMULATION> ;
 skos:topConceptOf <> .
 
