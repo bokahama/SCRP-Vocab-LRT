@@ -34,6 +34,7 @@ skos:definition "Eine App (Abkürzung für 'Application Software') ist eine Anwe
 skos:definition "An app (short for application software) is an application or computer program that can provide all kinds of functionality. It is not relevant to the functioning of the computer system itself, but provides additional functionality that caters for a specific user's needs. An app needs to be downloaded and installed in order to use it."@en ;
 skos:example "App zum Üben der Uhrzeit, App für einen Diagrammgenerator"@de ;
 skos:example "App to practise to read the time; App to generate diagrams"@en ;
+skos:scopeNote "Der Wert findet auch als zusammenfassender Kategorien-Wert sowie als Residual-Wert Anwendung. Falls möglich bitte spezifischer indexieren."@de, "This term is also used for clustering several more specific terms and as a residual-term. Use more specific descriptors whenever possible."@en .
 skos:narrower <LERNSPIEL>, <METHODISCHE_APP>, <SOFTWARE>, <WEBTOOL> ;
 skos:topConceptOf <> .
 
@@ -47,16 +48,14 @@ skos:note: "Wenn andere Infos zusätzlich enthalten sind, entscheidet der Redakt
 skos:topConceptOf <> .
 
 <AUDIO> a skos:Concept ;
-skos:prefLabel "Audio"@de ;
-skos:prefLabel "Audio"@en ;
-skos:altLabel "Tonaufnahme"@de ;
-skos:altLabel "audio recording"@en ;
-skos:definition "Eine Tonaufnahme zum Anhören."@de ;
-skos:definition "An audio recording to listen to."@en ;
-skos:example "Musikstück, Radioarchive, aufgenommene Stimmen und Töne etc."@de ;
-skos:example "English translation pending."@en ;
-skos:narrower <RADIO_TV> ;
-skos:topConceptOf <> .
+    skos:prefLabel "Audio"@de, "Audio"@en ;
+    skos:altLabel "Podcast"@de, "Tonaufnahme"@de, "podcast"@en, "audio recording"@en ;
+    skos:definition "Audio bezeichnet Medieninhalte, die auf Ton basieren. Diese Inhalte können Musik, Sprachaufnahmen, Hörspiele oder andere auditive Formate umfassen und können in Bildung, Unterhaltung und Kommunikation verwendet werden."@de ;
+    skos:definition "Audio refers to media content that is based solely on sound. This content can include music, voice recordings, radio plays, or other auditory formats. Audio content is versatile and can be used in education, entertainment, and communication."@en ;
+    skos:example "Musikstücke, Podcasts, Hörbücher, Sprachaufnahmen für Sprachkurse"@de ;
+    skos:example "Music tracks, podcasts, audiobooks, voice recordings for language courses"@en ;
+	skos:narrower <RADIO_TV> ;
+	skos:topConceptOf <> .
 
 <BARCAMP> a skos:Concept ;
 skos:prefLabel "Barcamp"@de, "Barcamp"@en ;
@@ -91,16 +90,6 @@ skos:prefLabel "Data"@en ;
 skos:definition "Empirische Daten, Fakten und Erhebungen, Rohdaten."@de ;
 skos:definition "English translation pending."@en ;
 skos:example "Geschichtsdaten, Erhebungen, Fakten, Werte, Statistiken, Steckbriefe"@de ;
-skos:topConceptOf <> .
-
-<METHODE> a skos:Concept ;
-skos:prefLabel "Pädagogische Methode"@de, "Diverse Concept"@en ;
-skos:altLabel "Pädagogisches Konzept"@de ;
-skos:definition "Verschiedene Lehrmethoden und Konzepte, die nicht in eine spezifische Kategorie passen. Diese können innovative, experimentelle oder interdisziplinäre Ansätze umfassen."@de ;
-skos:definition "Various teaching methods and concepts that do not fit into a specific category. These can include innovative, experimental, or interdisciplinary approaches."@en ;
-skos:example "Interdisziplinäres Projekt, experimentelle Lernmethoden"@de ;
-skos:example "Interdisciplinary project, experimental learning methods"@en ;
-skos:narrower <BARCAMP>, <ENTDECKENDES_LERNEN>, <EXPERIMENT>, <OFFENE_AKTIVITAET>, <GRUPPENARBEIT>, <LERNORT>, <FALLSTUDIE>, <PROJECT>, <ROLLENSPIEL>, <SOLE>, <STATIONENLERNEN> ;
 skos:topConceptOf <> .
 
 <EBOOK> a skos:Concept ;
@@ -219,6 +208,7 @@ skos:prefLabel "Interaktives Medium"@de, "Interactive Medium"@en ;
     skos:definition "A digital learning medium that allows users to actively interact with the content. It can take various forms, such as interactive simulations, quizzes, games, or virtual labs."@en ;
     skos:example "Interaktive Simulation, Quiz, Lernspiel, Virtuelles Labor"@de ;
     skos:example "Interactive simulation, quiz, educational game, virtual lab"@en ;
+    skos:scopeNote "Der Wert findet auch als zusammenfassender Kategorien-Wert sowie als Residual-Wert Anwendung. Falls möglich bitte spezifischer indexieren."@de, "This term is also used for clustering several more specific terms and as a residual-term. Use more specific descriptors whenever possible."@en .
     skos:topConceptOf <> .
 
 <KARTE> a skos:Concept ;
@@ -329,6 +319,17 @@ skos:example "Hefteintrag, Regelwerk, Regeln, Zusammenfassung"@de ;
 skos:example "English translation pending."@en ;
 skos:topConceptOf <> .
 
+<METHODE> a skos:Concept ;
+skos:prefLabel "Pädagogische Methode"@de, "Diverse Concept"@en ;
+skos:altLabel "Pädagogisches Konzept"@de ;
+skos:definition "Verschiedene Lehrmethoden und Konzepte, die nicht in eine spezifische Kategorie passen. Diese können innovative, experimentelle oder interdisziplinäre Ansätze umfassen."@de ;
+skos:definition "Various teaching methods and concepts that do not fit into a specific category. These can include innovative, experimental, or interdisciplinary approaches."@en ;
+skos:example "Interdisziplinäres Projekt, experimentelle Lernmethoden"@de ;
+skos:example "Interdisciplinary project, experimental learning methods"@en ;
+skos:scopeNote "Der Wert findet auch als zusammenfassender Kategorien-Wert sowie als Residual-Wert Anwendung. Falls möglich bitte spezifischer indexieren."@de, "This term is also used for clustering several more specific terms and as a residual-term. Use more specific descriptors whenever possible."@en .
+skos:narrower <BARCAMP>, <ENTDECKENDES_LERNEN>, <EXPERIMENT>, <OFFENE_AKTIVITAET>, <GRUPPENARBEIT>, <LERNORT>, <FALLSTUDIE>, <PROJECT>, <ROLLENSPIEL>, <SOLE>, <STATIONENLERNEN> ;
+skos:topConceptOf <> .
+
 <METHODISCHE_APP> a skos:Concept ;
 skos:prefLabel "Methodische APP"@de, "APP"@en ;
 skos:definition "ACHTUNG: Exakte Bedeutung noch klären mit WLO. Abgrenzung zu Lernspiel. VORSCHLAG: Anwendung oder Programm, das speziell entwickelt wurde, um Lernenden bestimmte Lerninhalte zu vermitteln oder Kompetenzen zu entwickeln. Kann als App oder als webbasierte Anwendung verfügbar sein."@de ;
@@ -381,15 +382,15 @@ skos:example "Vortragsfolien (Powerpoint), Handouts, digitale Tafelbilder (Sanko
 skos:example "English translation pending."@en ;
 skos:topConceptOf <> .
 
-<PROJECT> a skos:Concept ;
-skos:prefLabel "Projekt"@de ;
-skos:prefLabel "Project"@en ;
-skos:definition "Zielgerichtetes, zeitlich definiertes Vorhaben, in Einzel- oder Gruppenarbeit, das in ein konkretes Ergebnis mündet."@de ;
-skos:definition "English translation pending."@en ;
-skos:example "Umsetzung eines Fotoromans, Erstellen einer Klassenwebsite"@de ;
-skos:example "English translation pending."@en ;
-skos:topConceptOf <> .
-
+<PROJEKT> a skos:Concept ;
+    skos:prefLabel "Projekt"@de, "Project"@en ;
+    skos:altLabel "Projektarbeit"@de, "project work"@en ;
+    skos:definition "Ein Projekt im pädagogischen Kontext ist eine Lehr- und Lernmethode, bei der Lernende durch die Bearbeitung realitätsnaher Aufgabenstellungen Kompetenzen erwerben. Diese Methode fördert eigenverantwortliches und kooperatives Lernen, indem sie die Lernenden dazu anregt, selbstständig Informationen zu recherchieren, zu planen, durchzuführen und die Ergebnisse zu präsentieren."@de ;
+    skos:definition "A project in the educational context is a teaching and learning method where learners acquire skills by working on realistic tasks. This method promotes self-directed and cooperative learning by encouraging learners to independently research, plan, execute, and present results."@en ;
+    skos:example "Gruppenprojekt zur Entwicklung eines nachhaltigen Produkts, Projektarbeit zur Erforschung historischer Ereignisse, Erstellen einer Klassenwebsite"@de ;
+    skos:example "Group project for developing a sustainable product, project work on researching historical events"@en ;
+   skos:topConceptOf <> .
+   
 <QUELLE> a skos:Concept ;
 skos:prefLabel "Primärmaterial/Quelle"@de ;
 skos:prefLabel "reference"@en ;
@@ -399,11 +400,12 @@ skos:note "In SODIX nicht mehr verwendet, bitte 'Daten' verwenden"@de ;
 skos:topConceptOf <> .
 
 <RADIO_TV> a skos:Concept ;
-skos:prefLabel "Radio/TV"@de ;
-skos:prefLabel "Radio/TV"@en ;
-skos:definition "Noch definieren?"@de ;
-skos:definition "English translation pending."@en ;
-skos:note "In SODIX nicht mehr verwendet, bitte 'Video' oder 'Audio' verwenden."@de ;
+	skos:prefLabel "Podcast"@de, "Podcast"@en ;
+    skos:altLabel "Audioübertragung"@de, "Hörsendung"@de, "audio broadcast"@en ;
+    skos:definition "Ein Podcast ist meist eine Serie von digitalen Mediendateien, die als Episoden bereitgestellt werden. Podcasts können verschiedene Themen abdecken, von Nachrichten und Bildung bis hin zu Unterhaltung und persönlichen Geschichten. Sie sind oft als Audioformate verfügbar, die heruntergeladen oder gestreamt werden können."@de ;
+    skos:definition "A podcast is a series of digital media files that are released as episodes. Podcasts can cover a wide range of topics, from news and education to entertainment and personal stories. They are often available in audio formats that can be downloaded or streamed."@en ;
+    skos:example "Wissenschaftspodcast über neue Entdeckungen, Interview-Podcast mit bekannten Persönlichkeiten"@de ;
+    skos:example "Science podcast about new discoveries, interview podcast with famous personalities"@en ;
 skos:topConceptOf <> .
 
 <RECHERCHE_AUFTRAG> a skos:Concept ;
@@ -449,13 +451,13 @@ skos:example "Project work, self-directed learning projects"@en ;
 skos:topConceptOf <> .
 
 <SIMULATION> a skos:Concept ;
-skos:prefLabel "Simulation/Animation"@de, "Simulation/Animation"@en ;
-skos:definition "Bewegte Nachbildung von realen Szenarien zum Zwecke der Ausbildung oder der Analyse von Systemen. Bei der Simulation besteht zusätzlich eine interaktive Komponente."@de ;
-skos:definition "English translation pending."@en ;
-skos:example "Darstellung der Bewegung eines Motors, Simulationsprogramm für die Entwicklung von Finanzkurven, Videospiel zum Lenken eines Zuges, Flugsimulator."@de ;
-skos:example "English translation pending."@en ;
-skos:note "NICHT: Shaun das Schaf, Avatar, La Linea etc."@de ;
-skos:topConceptOf <> .
+    skos:prefLabel "Simulation"@de, "Simulation"@en ;
+    skos:altLabel "Nachbildung"@de, "Animation"@de, "modeling"@en ;
+    skos:definition "Eine Simulation ist eine Nachbildung eines realen Prozesses oder Systems über die Zeit. Sie wird oft in der Bildung verwendet, um komplexe Systeme oder Prozesse verständlich zu machen. Während Animationen nur darstellend sind, haben Simulationen i.e.S. eine interaktive Komponente. Simulationen können in verschiedenen Bereichen eingesetzt werden, darunter Naturwissenschaften, Ingenieurwesen und Sozialwissenschaften."@de ;
+    skos:definition "A simulation is a replication of a real-world process or system over time. It is often used in education to make complex systems or processes understandable by providing an interactive and visual representation. Simulations can be used in various fields, including natural sciences, engineering, and social sciences."@en ;
+    skos:example "Physik-Simulation zur Demonstration von Kräften, Wirtschaftssimulation zur Analyse von Marktverhalten"@de ;
+    skos:example "Physics simulation demonstrating forces, economic simulation analyzing market behavior"@en ;
+    skos:topConceptOf <> .
 
 <SKRIPT> a skos:Concept ;
 skos:prefLabel "Skript"@de, "Script"@en ;
@@ -477,7 +479,8 @@ skos:topConceptOf <> .
 <SONSTIGES> a skos:Concept ;
 skos:prefLabel "Diverse Medien und Formate"@de ;
 skos:prefLabel "Other"@en ;
-skos:definition "Datensätze, die keinem anderen Lernressourcentyp zugeordnet werden können."@de ;
+skos:definition "Residualkategorie für Datensätze, die keinem anderen Lernressourcentyp zugeordnet werden können. Wird zugleich auch als Kategorien-Wert für die Zusammenfassung verschiedener Medientypen verwendet."@de ;
+skos:scopeNote "Der Wert findet insbesondere als zusammenfassender Kategorien-Wert sowie als Residual-Wert Anwendung. Falls möglich bitte spezifischer indexieren."@de, "This term is especially used for clustering several more specific terms and as a residual-term. Use more specific descriptors whenever possible."@en .
 skos:definition "Records that could not be allocated to any other learning resource type."@en ;
 skos:narrower <FRAGEBOGEN>, <INTERAKTION>, <KURS>, <LERNPORTAL>, <MODELL>, <PRAESENTATION>, <QUELLE>, <DATEN>, <VERANSCHAULICHUNG>, <WEBSEITE>, <GLOSSAR> ;
 skos:topConceptOf <> .
@@ -517,14 +520,15 @@ skos:example "Test zur Leseflüssigkeit, Vergleichsarbeiten, Jahrgangsstufentest
 skos:topConceptOf <> .
 
 <TEXT> a skos:Concept ;
-skos:prefLabel "Text"@de ;
-skos:prefLabel "Text"@en ;
-skos:definition "Eine Ressource, die sich hauptsächlich aus Texteinheiten zusammensetzt oder hauptsächlich textbasierte Informationen enthält."@de ;
-skos:definition "English translation pending."@en ;
-skos:example "Gedicht, Liedtext, Zeitungsartikel, Romanauszüge, Liste, Wikipedia-Artikel"@de ;
-skos:example "English translation pending."@en ;
-skos:narrower <ANLEITUNG>, <BROSCHUERE>, <EBOOK>, <FLYER>, <HANDBUCH>, <HANDREICHUNG>, <MERKBLATT>, <MUSIKNOTEN>, <POSTER>, <REZEPT>, <SKRIPT>, <TAFELBILD>, <WORTLISTE> ;
-skos:topConceptOf <> .
+    skos:prefLabel "Text"@de, "Text"@en ;
+    skos:altLabel "Schriftstück"@de, "Notation"@de, "document"@en, "notation"@en ;
+    skos:definition "Der Wert findet auch als Kategorien-Wert Anwendung. An sich umfasst Text alle Formen schriftlicher Darstellungen, die zur Informationsvermittlung, zum Lernen und zur Unterhaltung dienen. Dazu gehören Printmedien und digitale Dokumente. Im weiteren Sinne lassen sich hier auch Notationen wie Musiknoten, E-Books und viele weitere Formen textlastiger Materialien klassifizieren."@de ;
+    skos:definition "Text encompasses all forms of written representations that serve to convey information, support learning, and provide entertainment. This includes traditional print media and digital documents. In a wider sense also notations like music scores, e-books, and many other forms of written materials."@en ;
+    skos:example "Gedicht, Liedtext, Zeitungsartikel, Romanauszüge, Liste, Wikipedia-Artikel"@de ;
+    skos:example "Textbook, poem, article"@en ;
+    skos:scopeNote "Der Wert findet auch als zusammenfassender Kategorien-Wert sowie als Residual-Wert Anwendung. Falls möglich bitte spezifischer indexieren."@de, "This term is also used for clustering several more specific terms and as a residual-term. Use more specific descriptors whenever possible."@en .
+    skos:narrower <ANLEITUNG>, <BROSCHUERE>, <EBOOK>, <FLYER>, <HANDBUCH>, <HANDREICHUNG>, <MERKBLATT>, <MUSIKNOTEN>, <POSTER>, <REZEPT>, <SKRIPT>, <TAFELBILD>, <WORTLISTE> ;
+    skos:topConceptOf <> .
 
 <UEBUNG> a skos:Concept ;
 skos:prefLabel "Übung"@de ;
@@ -560,6 +564,7 @@ skos:definition "Alle didaktischen und pädagogischen Überlegungen zur Vorberei
 skos:definition "English translation pending."@en ;
 skos:example "Unterrichtsidee, Checkliste"@de ;
 skos:example "English translation pending."@en ;
+skos:scopeNote "Der Wert findet auch als zusammenfassender Kategorien-Wert sowie als Residual-Wert Anwendung. Falls möglich bitte spezifischer indexieren."@de, "This term is also used for clustering several more specific terms and as a residual-term. Use more specific descriptors whenever possible."@en .
 skos:narrower <LERNKONTROLLE>, <LOESUNG>, <TEST>, <LEHRPLANREFERENZ>, <UNTERRICHTSBAUSTEIN>, <UNTERRICHTSIDEE> ;
 skos:topConceptOf <> .
 
@@ -572,14 +577,15 @@ skos:note "In SODIX nicht mehr verwendet, zu schwammig."@de ;
 skos:topConceptOf <> .
 
 <VIDEO> a skos:Concept ;
-skos:prefLabel "Video"@de ;
-skos:prefLabel "Video"@en ;
-skos:definition "In elektronischer Form kodierte optische Sequenz aus wechselnden Einzelbildern, mit oder ohne Ton."@de ;
-skos:definition "English translation pending."@en ;
-skos:example "Der Film King Kong (1933), Tierreportage auf der Seite von National Geographic, Ausschnitt eines Videoclips, eine Videodokumentation"@de ;
-skos:example "English translation pending."@en ;
-skos:narrower <ERKLAERVIDEO>, <SPRACHLERNVIDEO>, <MEDIENPAKET> ;
-skos:topConceptOf <> .
+    skos:prefLabel "Video"@de, "Video"@en ;
+    skos:altLabel "Film"@de, "Videoclip"@de, "film"@en, "videoclip"@en ;
+    skos:definition "Ein Video ist eine Technologie zur Aufnahme, Bearbeitung und Wiedergabe von bewegten Bildern. Es kann verschiedene Inhalte vermitteln, von Unterhaltung bis hin zu Bildung. Videos können in verschiedenen Formaten und Längen vorliegen und sind oft ein integraler Bestandteil moderner Medien. Unter diesem Medientyp können auch Medien (zusammen-) gefasst werden welche primär Videos enthalten."@de ;
+    skos:definition "A video is a technology for capturing, editing, and playing back moving images. It can convey various types of content, ranging from entertainment to education. Videos can come in different formats and lengths and are often an integral part of modern media."@en ;
+    skos:example "Lehrvideo zur Erklärung mathematischer Konzepte, Dokumentarfilm über die Geschichte der Raumfahrt"@de ;
+    skos:example "Educational video explaining mathematical concepts, documentary film about the history of space exploration"@en ;
+    skos:scopeNote "Der Wert findet auch als zusammenfassender Kategorien-Wert sowie als Residual-Wert Anwendung. Falls möglich bitte spezifischer indexieren."@de, "This term is also used for clustering several more specific terms and as a residual-term. Use more specific descriptors whenever possible."@en .
+    skos:narrower <ERKLAERVIDEO>, <SPRACHLERNVIDEO>, <MEDIENPAKET> ;
+    skos:topConceptOf <> .
 
 <VIRTUAL_REALITY_AUGMENTED_REALITY> a skos:Concept ;
 skos:prefLabel "Virtual Reality & Augmented Reality"@de ;
