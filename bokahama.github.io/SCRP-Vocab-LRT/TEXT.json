@@ -5,12 +5,30 @@
     "en": "Text",
     "de": "Text"
   },
+  "altLabel": {
+    "en": [
+      "document",
+      "notation"
+    ],
+    "de": [
+      "Schriftstück",
+      "Notation"
+    ]
+  },
   "definition": {
-    "en": "English translation pending.",
-    "de": "Eine Ressource, die sich hauptsächlich aus Texteinheiten zusammensetzt oder hauptsächlich textbasierte Informationen enthält."
+    "en": "Text encompasses all forms of written representations that serve to convey information, support learning, and provide entertainment. This includes traditional print media and digital documents. In a wider sense also notations like music scores, e-books, and many other forms of written materials.",
+    "de": "Der Wert findet auch als Kategorien-Wert Anwendung. An sich umfasst Text alle Formen schriftlicher Darstellungen, die zur Informationsvermittlung, zum Lernen und zur Unterhaltung dienen. Dazu gehören Printmedien und digitale Dokumente. Im weiteren Sinne lassen sich hier auch Notationen wie Musiknoten, E-Books und viele weitere Formen textlastiger Materialien klassifizieren."
+  },
+  "scopeNote": {
+    "en": [
+      "This term is also used for clustering several more specific terms and as a residual-term. Use more specific descriptors whenever possible."
+    ],
+    "de": [
+      "Der Wert findet auch als zusammenfassender Kategorien-Wert sowie als Residual-Wert Anwendung. Falls möglich bitte spezifischer indexieren."
+    ]
   },
   "example": {
-    "en": "English translation pending.",
+    "en": "Textbook, poem, article",
     "de": "Gedicht, Liedtext, Zeitungsartikel, Romanauszüge, Liste, Wikipedia-Artikel"
   },
   "narrower": [

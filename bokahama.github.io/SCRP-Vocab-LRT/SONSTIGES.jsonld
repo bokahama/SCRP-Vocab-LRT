@@ -7,7 +7,15 @@
   },
   "definition": {
     "en": "Records that could not be allocated to any other learning resource type.",
-    "de": "Datensätze, die keinem anderen Lernressourcentyp zugeordnet werden können."
+    "de": "Residualkategorie für Datensätze, die keinem anderen Lernressourcentyp zugeordnet werden können. Wird zugleich auch als Kategorien-Wert für die Zusammenfassung verschiedener Medientypen verwendet."
+  },
+  "scopeNote": {
+    "en": [
+      "This term is especially used for clustering several more specific terms and as a residual-term. Use more specific descriptors whenever possible."
+    ],
+    "de": [
+      "Der Wert findet insbesondere als zusammenfassender Kategorien-Wert sowie als Residual-Wert Anwendung. Falls möglich bitte spezifischer indexieren."
+    ]
   },
   "narrower": [
     {

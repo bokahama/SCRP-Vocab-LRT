@@ -7,26 +7,28 @@
   },
   "altLabel": {
     "en": [
+      "podcast",
       "audio recording"
     ],
     "de": [
+      "Podcast",
       "Tonaufnahme"
     ]
   },
   "definition": {
-    "en": "An audio recording to listen to.",
-    "de": "Eine Tonaufnahme zum Anhören."
+    "en": "Audio refers to media content that is based solely on sound. This content can include music, voice recordings, radio plays, or other auditory formats. Audio content is versatile and can be used in education, entertainment, and communication.",
+    "de": "Audio bezeichnet Medieninhalte, die auf Ton basieren. Diese Inhalte können Musik, Sprachaufnahmen, Hörspiele oder andere auditive Formate umfassen und können in Bildung, Unterhaltung und Kommunikation verwendet werden."
   },
   "example": {
-    "en": "English translation pending.",
-    "de": "Musikstück, Radioarchive, aufgenommene Stimmen und Töne etc."
+    "en": "Music tracks, podcasts, audiobooks, voice recordings for language courses",
+    "de": "Musikstücke, Podcasts, Hörbücher, Sprachaufnahmen für Sprachkurse"
   },
   "narrower": [
     {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/RADIO_TV",
       "prefLabel": {
-        "en": "Radio/TV",
-        "de": "Radio/TV"
+        "en": "Podcast",
+        "de": "Podcast"
       }
     }
   ],

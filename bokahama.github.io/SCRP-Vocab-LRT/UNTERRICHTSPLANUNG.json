@@ -9,6 +9,14 @@
     "en": "English translation pending.",
     "de": "Alle didaktischen und pädagogischen Überlegungen zur Vorbereitung einer Unterrichtsstunde oder Unterrichtseinheit."
   },
+  "scopeNote": {
+    "en": [
+      "This term is also used for clustering several more specific terms and as a residual-term. Use more specific descriptors whenever possible."
+    ],
+    "de": [
+      "Der Wert findet auch als zusammenfassender Kategorien-Wert sowie als Residual-Wert Anwendung. Falls möglich bitte spezifischer indexieren."
+    ]
+  },
   "example": {
     "en": "English translation pending.",
     "de": "Unterrichtsidee, Checkliste"

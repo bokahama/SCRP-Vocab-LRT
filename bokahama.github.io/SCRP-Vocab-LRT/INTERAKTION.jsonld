@@ -17,6 +17,14 @@
     "en": "A digital learning medium that allows users to actively interact with the content. It can take various forms, such as interactive simulations, quizzes, games, or virtual labs.",
     "de": "Ein digitales Lernmedium, das es den Nutzern ermöglicht, aktiv mit dem Inhalt zu interagieren. Es kann verschiedene Formen annehmen, wie z.B. interaktive Simulationen, Quizze, Spiele oder virtuelle Labore."
   },
+  "scopeNote": {
+    "en": [
+      "This term is also used for clustering several more specific terms and as a residual-term. Use more specific descriptors whenever possible."
+    ],
+    "de": [
+      "Der Wert findet auch als zusammenfassender Kategorien-Wert sowie als Residual-Wert Anwendung. Falls möglich bitte spezifischer indexieren."
+    ]
+  },
   "example": {
     "en": "Interactive simulation, quiz, educational game, virtual lab",
     "de": "Interaktive Simulation, Quiz, Lernspiel, Virtuelles Labor"

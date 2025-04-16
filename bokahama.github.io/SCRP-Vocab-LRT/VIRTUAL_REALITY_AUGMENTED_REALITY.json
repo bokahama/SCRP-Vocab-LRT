@@ -20,15 +20,14 @@
     "de": "VR- und AR-Medien lassen sich auf VR-Brillen und ähnlichen Geräten abspielen oder sind für diese optimiert. Sie können zum Download angeboten werden oder als App zur Verfügung stehen. Technische Formate derzeit: MP4 und APK."
   },
   "example": {
-    "en": "English translation pending.",
     "de": "360° Videos, 360° Webanwendungen, 360° Fotos, 3D-Objekte (interaktiv), virtuelle Führungen"
   },
   "narrower": [
     {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/SIMULATION",
       "prefLabel": {
-        "en": "Simulation/Animation",
-        "de": "Simulation/Animation"
+        "en": "Simulation",
+        "de": "Simulation"
       }
     }
   ],

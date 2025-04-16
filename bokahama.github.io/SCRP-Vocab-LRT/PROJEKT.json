@@ -1,24 +1,25 @@
 {
-  "id": "https://bokahama.github.io/SCRP-Vocab-LRT/PROJECT",
+  "id": "https://bokahama.github.io/SCRP-Vocab-LRT/PROJEKT",
   "type": "Concept",
   "prefLabel": {
     "en": "Project",
     "de": "Projekt"
   },
+  "altLabel": {
+    "en": [
+      "project work"
+    ],
+    "de": [
+      "Projektarbeit"
+    ]
+  },
   "definition": {
-    "en": "English translation pending.",
-    "de": "Zielgerichtetes, zeitlich definiertes Vorhaben, in Einzel- oder Gruppenarbeit, das in ein konkretes Ergebnis mündet."
+    "en": "A project in the educational context is a teaching and learning method where learners acquire skills by working on realistic tasks. This method promotes self-directed and cooperative learning by encouraging learners to independently research, plan, execute, and present results.",
+    "de": "Ein Projekt im pädagogischen Kontext ist eine Lehr- und Lernmethode, bei der Lernende durch die Bearbeitung realitätsnaher Aufgabenstellungen Kompetenzen erwerben. Diese Methode fördert eigenverantwortliches und kooperatives Lernen, indem sie die Lernenden dazu anregt, selbstständig Informationen zu recherchieren, zu planen, durchzuführen und die Ergebnisse zu präsentieren."
   },
   "example": {
-    "en": "English translation pending.",
-    "de": "Umsetzung eines Fotoromans, Erstellen einer Klassenwebsite"
-  },
-  "broader": {
-    "id": "https://bokahama.github.io/SCRP-Vocab-LRT/METHODE",
-    "prefLabel": {
-      "en": "Diverse Concept",
-      "de": "Pädagogische Methode"
-    }
+    "en": "Group project for developing a sustainable product, project work on researching historical events",
+    "de": "Gruppenprojekt zur Entwicklung eines nachhaltigen Produkts, Projektarbeit zur Erforschung historischer Ereignisse, Erstellen einer Klassenwebsite"
   },
   "inScheme": [
     {

@@ -14,6 +14,14 @@
     "en": "Various teaching methods and concepts that do not fit into a specific category. These can include innovative, experimental, or interdisciplinary approaches.",
     "de": "Verschiedene Lehrmethoden und Konzepte, die nicht in eine spezifische Kategorie passen. Diese können innovative, experimentelle oder interdisziplinäre Ansätze umfassen."
   },
+  "scopeNote": {
+    "en": [
+      "This term is also used for clustering several more specific terms and as a residual-term. Use more specific descriptors whenever possible."
+    ],
+    "de": [
+      "Der Wert findet auch als zusammenfassender Kategorien-Wert sowie als Residual-Wert Anwendung. Falls möglich bitte spezifischer indexieren."
+    ]
+  },
   "example": {
     "en": "Interdisciplinary project, experimental learning methods",
     "de": "Interdisziplinäres Projekt, experimentelle Lernmethoden"
@@ -45,13 +53,6 @@
       "prefLabel": {
         "en": "Open Activity",
         "de": "Offene Aktivität"
-      }
-    },
-    {
-      "id": "https://bokahama.github.io/SCRP-Vocab-LRT/PROJECT",
-      "prefLabel": {
-        "en": "Project",
-        "de": "Projekt"
       }
     },
     {
