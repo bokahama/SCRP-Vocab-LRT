@@ -45,13 +45,6 @@
       }
     }
   ],
-  "broader": {
-    "id": "https://bokahama.github.io/SCRP-Vocab-LRT/SONSTIGES",
-    "prefLabel": {
-      "de": "Diverse Medien und Formate",
-      "en": "Other"
-    }
-  },
   "inScheme": [
     {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/",

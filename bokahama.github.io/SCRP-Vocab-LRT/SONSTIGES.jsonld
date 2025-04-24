@@ -19,13 +19,6 @@
   },
   "narrower": [
     {
-      "id": "https://bokahama.github.io/SCRP-Vocab-LRT/INTERAKTION",
-      "prefLabel": {
-        "de": "Interaktives Medium",
-        "en": "Interactive Medium"
-      }
-    },
-    {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/DATEN",
       "prefLabel": {
         "de": "Tabelle / Daten",
