@@ -29,6 +29,22 @@
     "de": "Interaktive Simulation, Quiz, Lernspiel, Virtuelles Labor",
     "en": "Interactive simulation, quiz, educational game, virtual lab"
   },
+  "narrower": [
+    {
+      "id": "https://bokahama.github.io/SCRP-Vocab-LRT/SIMULATION",
+      "prefLabel": {
+        "de": "Simulation",
+        "en": "Simulation"
+      }
+    },
+    {
+      "id": "https://bokahama.github.io/SCRP-Vocab-LRT/VIRTUAL_REALITY_AUGMENTED_REALITY",
+      "prefLabel": {
+        "de": "Virtual Reality & Augmented Reality",
+        "en": "Virtual Reality & Augmented Reality"
+      }
+    }
+  ],
   "broader": {
     "id": "https://bokahama.github.io/SCRP-Vocab-LRT/SONSTIGES",
     "prefLabel": {

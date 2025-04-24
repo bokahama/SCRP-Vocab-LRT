@@ -14,7 +14,7 @@
     ]
   },
   "definition": {
-    "de": "Eine visuelle Darstellung von Lerninhalten oder Ergebnissen, die auf einer Tafel oder einem anderen Medium festgehalten wird. Es dient der Dokumentation und Nachbereitung des Unterrichts.",
+    "de": "Eine visuelle Darstellung von Lerninhalten oder Ergebnissen, die auf einer Tafel oder einem anderen Medium festgehalten wird. Dient insbesondere der Dokumentation und Nachbereitung des Unterrichts, kann aber je nach Gestaltung ebenso für die Unterrichtsdurchführung verwendet werden.",
     "en": "A visual representation of learning content or results that is recorded on a blackboard or another medium. It serves to document and review the lesson."
   },
   "example": {
@@ -22,9 +22,9 @@
     "en": "Blackboard image explaining a mathematical concept, documentation of learning outcomes"
   },
   "broader": {
-    "id": "https://bokahama.github.io/SCRP-Vocab-LRT/TEXT",
+    "id": "https://bokahama.github.io/SCRP-Vocab-LRT/NOTATION",
     "prefLabel": {
-      "de": "Text",
+      "de": "Text und Notation",
       "en": "Text"
     }
   },

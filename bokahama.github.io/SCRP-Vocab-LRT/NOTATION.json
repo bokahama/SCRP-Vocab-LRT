@@ -1,34 +1,133 @@
 {
-  "id": "https://bokahama.github.io/SCRP-Vocab-LRT/AUDIO",
+  "id": "https://bokahama.github.io/SCRP-Vocab-LRT/NOTATION",
   "type": "Concept",
   "prefLabel": {
-    "de": "Podcast / Audio",
-    "en": "Audio"
+    "de": "Text und Notation",
+    "en": "Text"
   },
   "altLabel": {
     "de": [
-      "Podcast",
-      "Tonaufnahme"
+      "Schriftstück",
+      "Notation"
     ],
     "en": [
-      "podcast",
-      "audio recording"
+      "document",
+      "notation"
     ]
   },
   "definition": {
-    "de": "Audio bezeichnet Medieninhalte, die auf Ton basieren. Diese Inhalte können Musik, Sprachaufnahmen, Hörspiele oder andere auditive Formate umfassen und können in Bildung, Unterhaltung und Kommunikation verwendet werden.",
-    "en": "Audio refers to media content that is based solely on sound. This content can include music, voice recordings, radio plays, or other auditory formats. Audio content is versatile and can be used in education, entertainment, and communication."
+    "de": "Der Wert findet auch als Kategorien-Wert Anwendung. An sich umfasst Text alle Formen schriftlicher Darstellungen, die zur Informationsvermittlung, zum Lernen und zur Unterhaltung dienen. Dazu gehören Printmedien und digitale Dokumente. Im weiteren Sinne lassen sich hier auch Notationen wie Musiknoten, E-Books und viele weitere Formen textlastiger Materialien klassifizieren.",
+    "en": "Text encompasses all forms of written representations that serve to convey information, support learning, and provide entertainment. This includes traditional print media and digital documents. In a wider sense also notations like music scores, e-books, and many other forms of written materials."
+  },
+  "scopeNote": {
+    "de": [
+      "Der Wert findet auch als zusammenfassender Kategorien-Wert sowie als Residual-Wert Anwendung. Falls möglich bitte spezifischer indexieren."
+    ],
+    "en": [
+      "This term is also used for clustering several more specific terms and as a residual-term. Use more specific descriptors whenever possible."
+    ]
   },
   "example": {
-    "de": "Musikstücke, Podcasts, Hörbücher, Sprachaufnahmen für Sprachkurse",
-    "en": "Music tracks, podcasts, audiobooks, voice recordings for language courses"
+    "de": "Gedicht, Liedtext, Zeitungsartikel, Romanauszüge, Liste, Wikipedia-Artikel",
+    "en": "Textbook, poem, article"
   },
   "narrower": [
     {
-      "id": "https://bokahama.github.io/SCRP-Vocab-LRT/RADIO_TV",
+      "id": "https://bokahama.github.io/SCRP-Vocab-LRT/ANLEITUNG",
       "prefLabel": {
-        "de": "Podcast",
-        "en": "Podcast"
+        "de": "Anleitung",
+        "en": "Instruction manual"
+      }
+    },
+    {
+      "id": "https://bokahama.github.io/SCRP-Vocab-LRT/BROSCHUERE",
+      "prefLabel": {
+        "de": "Broschüre",
+        "en": "Brochure"
+      }
+    },
+    {
+      "id": "https://bokahama.github.io/SCRP-Vocab-LRT/EBOOK",
+      "prefLabel": {
+        "de": "E-Book",
+        "en": "E-book"
+      }
+    },
+    {
+      "id": "https://bokahama.github.io/SCRP-Vocab-LRT/FLYER",
+      "prefLabel": {
+        "de": "Flyer",
+        "en": "Flyer"
+      }
+    },
+    {
+      "id": "https://bokahama.github.io/SCRP-Vocab-LRT/HANDBUCH",
+      "prefLabel": {
+        "de": "Handbuch",
+        "en": "Guide"
+      }
+    },
+    {
+      "id": "https://bokahama.github.io/SCRP-Vocab-LRT/HANDREICHUNG",
+      "prefLabel": {
+        "de": "Handreichung",
+        "en": "Guidance"
+      }
+    },
+    {
+      "id": "https://bokahama.github.io/SCRP-Vocab-LRT/MERKBLATT",
+      "prefLabel": {
+        "de": "Merkblatt",
+        "en": "Leaflet"
+      }
+    },
+    {
+      "id": "https://bokahama.github.io/SCRP-Vocab-LRT/MUSIKNOTEN",
+      "prefLabel": {
+        "de": "Musiknoten",
+        "en": "muscial notes"
+      }
+    },
+    {
+      "id": "https://bokahama.github.io/SCRP-Vocab-LRT/POSTER",
+      "prefLabel": {
+        "de": "Poster",
+        "en": "Poster"
+      }
+    },
+    {
+      "id": "https://bokahama.github.io/SCRP-Vocab-LRT/REZEPT",
+      "prefLabel": {
+        "de": "Rezept",
+        "en": "Receipe"
+      }
+    },
+    {
+      "id": "https://bokahama.github.io/SCRP-Vocab-LRT/SKRIPT",
+      "prefLabel": {
+        "de": "Skript",
+        "en": "Script"
+      }
+    },
+    {
+      "id": "https://bokahama.github.io/SCRP-Vocab-LRT/TAFELBILD",
+      "prefLabel": {
+        "de": "Tafelbild",
+        "en": "Blackboard image"
+      }
+    },
+    {
+      "id": "https://bokahama.github.io/SCRP-Vocab-LRT/TEXT",
+      "prefLabel": {
+        "de": "Text",
+        "en": "Text"
+      }
+    },
+    {
+      "id": "https://bokahama.github.io/SCRP-Vocab-LRT/WORTLISTE",
+      "prefLabel": {
+        "de": "Wortliste",
+        "en": "wordlist"
       }
     }
   ],

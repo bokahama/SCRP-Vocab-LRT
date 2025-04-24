@@ -33,6 +33,9 @@
   "inSchemeAll": [
     {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/"
+    },
+    {
+      "id": "https://bokahama.github.io/SCRP-Vocab-LRT/UNTERRICHTSPLANUNG"
     }
   ],
   "topConceptOf": [

@@ -14,9 +14,9 @@
     "en": "English translation pending."
   },
   "broader": {
-    "id": "https://bokahama.github.io/SCRP-Vocab-LRT/TEXT",
+    "id": "https://bokahama.github.io/SCRP-Vocab-LRT/NOTATION",
     "prefLabel": {
-      "de": "Text",
+      "de": "Text und Notation",
       "en": "Text"
     }
   },

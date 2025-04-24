@@ -28,6 +28,13 @@
   },
   "narrower": [
     {
+      "id": "https://bokahama.github.io/SCRP-Vocab-LRT/BARCAMP",
+      "prefLabel": {
+        "de": "Barcamp",
+        "en": "Barcamp"
+      }
+    },
+    {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/ENTDECKENDES_LERNEN",
       "prefLabel": {
         "de": "Entdeckendes Lernen",
@@ -49,27 +56,6 @@
       }
     },
     {
-      "id": "https://bokahama.github.io/SCRP-Vocab-LRT/OFFENE_AKTIVITAET",
-      "prefLabel": {
-        "de": "Offene Aktivität",
-        "en": "Open Activity"
-      }
-    },
-    {
-      "id": "https://bokahama.github.io/SCRP-Vocab-LRT/ROLLENSPIEL",
-      "prefLabel": {
-        "de": "Rollenspiel",
-        "en": "Role Play"
-      }
-    },
-    {
-      "id": "https://bokahama.github.io/SCRP-Vocab-LRT/BARCAMP",
-      "prefLabel": {
-        "de": "Barcamp",
-        "en": "Barcamp"
-      }
-    },
-    {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/GRUPPENARBEIT",
       "prefLabel": {
         "de": "Gruppenarbeit",
@@ -81,6 +67,27 @@
       "prefLabel": {
         "de": "Lernort",
         "en": "Learning location"
+      }
+    },
+    {
+      "id": "https://bokahama.github.io/SCRP-Vocab-LRT/OFFENE_AKTIVITAET",
+      "prefLabel": {
+        "de": "Offene Aktivität",
+        "en": "Open Activity"
+      }
+    },
+    {
+      "id": "https://bokahama.github.io/SCRP-Vocab-LRT/PROJEKT",
+      "prefLabel": {
+        "de": "Projekt",
+        "en": "Project"
+      }
+    },
+    {
+      "id": "https://bokahama.github.io/SCRP-Vocab-LRT/ROLLENSPIEL",
+      "prefLabel": {
+        "de": "Rollenspiel",
+        "en": "Role Play"
       }
     },
     {
