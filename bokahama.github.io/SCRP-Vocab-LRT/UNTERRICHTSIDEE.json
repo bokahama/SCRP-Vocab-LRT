@@ -2,30 +2,30 @@
   "id": "https://bokahama.github.io/SCRP-Vocab-LRT/UNTERRICHTSIDEE",
   "type": "Concept",
   "prefLabel": {
-    "en": "Teaching Idea",
-    "de": "Unterrichtsidee"
+    "de": "Unterrichtsidee",
+    "en": "Teaching Idea"
   },
   "definition": {
-    "en": "A creative and innovative method or activity that teachers can use in the classroom to enhance and enrich learning. It can include various teaching methods, materials, or didactic approaches.",
-    "de": "Eine kreative und innovative Methode oder Aktivität, die Lehrkräfte im Unterricht einsetzen können, um das Lernen zu fördern und zu bereichern. Sie kann verschiedene Lehrmethoden, Materialien oder didaktische Ansätze umfassen."
+    "de": "Eine kreative und innovative Methode oder Aktivität, die Lehrkräfte im Unterricht einsetzen können, um das Lernen zu fördern und zu bereichern. Sie kann verschiedene Lehrmethoden, Materialien oder didaktische Ansätze umfassen.",
+    "en": "A creative and innovative method or activity that teachers can use in the classroom to enhance and enrich learning. It can include various teaching methods, materials, or didactic approaches."
   },
   "example": {
-    "en": "Project idea for the classroom, creative learning activity",
-    "de": "Projektidee für den Unterricht, kreative Lernaktivität"
+    "de": "Projektidee für den Unterricht, kreative Lernaktivität",
+    "en": "Project idea for the classroom, creative learning activity"
   },
   "broader": {
     "id": "https://bokahama.github.io/SCRP-Vocab-LRT/UNTERRICHTSPLANUNG",
     "prefLabel": {
-      "en": "Lesson Planning",
-      "de": "Unterrichtsplanung"
+      "de": "Unterrichtsplanung",
+      "en": "Lesson Planning"
     }
   },
   "inScheme": [
     {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/",
       "title": {
-        "en": "Learning Resource Type",
-        "de": "Typ der Lernressource"
+        "de": "Typ der Lernressource",
+        "en": "Learning Resource Type"
       }
     }
   ],
@@ -38,8 +38,8 @@
     {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/",
       "title": {
-        "en": "Learning Resource Type",
-        "de": "Typ der Lernressource"
+        "de": "Typ der Lernressource",
+        "en": "Learning Resource Type"
       }
     }
   ],

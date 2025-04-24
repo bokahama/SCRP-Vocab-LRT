@@ -2,12 +2,12 @@
   "id": "https://bokahama.github.io/SCRP-Vocab-LRT/EXPERIMENT",
   "type": "Concept",
   "prefLabel": {
-    "en": "Experiment",
-    "de": "Experiment"
+    "de": "Experiment",
+    "en": "Experiment"
   },
   "definition": {
-    "en": "English translation pending",
-    "de": "Wissenschaftlicher Versuch mit einer klaren Methodik, bei der Handlungen und Prozeduren erprobt werden, um anhand von Messungen oder Beobachtungen eine Hypothese zu überprüfen oder bereits Bekanntes zu belegen oder darzustellen."
+    "de": "Wissenschaftlicher Versuch mit einer klaren Methodik, bei der Handlungen und Prozeduren erprobt werden, um anhand von Messungen oder Beobachtungen eine Hypothese zu überprüfen oder bereits Bekanntes zu belegen oder darzustellen.",
+    "en": "English translation pending"
   },
   "example": {
     "de": "Video eines Experiments, das im Chemieunterricht nachgestellt wird etc."
@@ -15,16 +15,16 @@
   "broader": {
     "id": "https://bokahama.github.io/SCRP-Vocab-LRT/METHODE",
     "prefLabel": {
-      "en": "Diverse Concept",
-      "de": "Pädagogische Methode"
+      "de": "Pädagogische Methode",
+      "en": "Diverse Concept"
     }
   },
   "inScheme": [
     {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/",
       "title": {
-        "en": "Learning Resource Type",
-        "de": "Typ der Lernressource"
+        "de": "Typ der Lernressource",
+        "en": "Learning Resource Type"
       }
     }
   ],
@@ -37,8 +37,8 @@
     {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/",
       "title": {
-        "en": "Learning Resource Type",
-        "de": "Typ der Lernressource"
+        "de": "Typ der Lernressource",
+        "en": "Learning Resource Type"
       }
     }
   ],

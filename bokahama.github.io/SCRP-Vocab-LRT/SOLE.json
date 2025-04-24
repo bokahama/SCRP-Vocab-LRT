@@ -2,30 +2,30 @@
   "id": "https://bokahama.github.io/SCRP-Vocab-LRT/SOLE",
   "type": "Concept",
   "prefLabel": {
-    "en": "Self-organized learning",
-    "de": "Selbstorganisiertes Lernen"
+    "de": "Selbstorganisiertes Lernen",
+    "en": "Self-organized learning"
   },
   "definition": {
-    "en": "A learning method where learners independently and responsibly plan, execute, and reflect on their learning processes. ",
-    "de": "Eine Lernmethode, bei der die Lernenden selbstständig und eigenverantwortlich ihre Lernprozesse planen, durchführen und reflektieren.."
+    "de": "Eine Lernmethode, bei der die Lernenden selbstständig und eigenverantwortlich ihre Lernprozesse planen, durchführen und reflektieren..",
+    "en": "A learning method where learners independently and responsibly plan, execute, and reflect on their learning processes. "
   },
   "example": {
-    "en": "Project work, self-directed learning projects",
-    "de": "Projektarbeit, selbstgesteuerte Lernprojekte"
+    "de": "Projektarbeit, selbstgesteuerte Lernprojekte",
+    "en": "Project work, self-directed learning projects"
   },
   "broader": {
     "id": "https://bokahama.github.io/SCRP-Vocab-LRT/METHODE",
     "prefLabel": {
-      "en": "Diverse Concept",
-      "de": "Pädagogische Methode"
+      "de": "Pädagogische Methode",
+      "en": "Diverse Concept"
     }
   },
   "inScheme": [
     {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/",
       "title": {
-        "en": "Learning Resource Type",
-        "de": "Typ der Lernressource"
+        "de": "Typ der Lernressource",
+        "en": "Learning Resource Type"
       }
     }
   ],
@@ -38,8 +38,8 @@
     {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/",
       "title": {
-        "en": "Learning Resource Type",
-        "de": "Typ der Lernressource"
+        "de": "Typ der Lernressource",
+        "en": "Learning Resource Type"
       }
     }
   ],

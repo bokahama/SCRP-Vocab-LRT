@@ -2,33 +2,33 @@
   "id": "https://bokahama.github.io/SCRP-Vocab-LRT/AUDIO",
   "type": "Concept",
   "prefLabel": {
-    "en": "Audio",
-    "de": "Audio"
+    "de": "Audio",
+    "en": "Audio"
   },
   "altLabel": {
-    "en": [
-      "podcast",
-      "audio recording"
-    ],
     "de": [
       "Podcast",
       "Tonaufnahme"
+    ],
+    "en": [
+      "podcast",
+      "audio recording"
     ]
   },
   "definition": {
-    "en": "Audio refers to media content that is based solely on sound. This content can include music, voice recordings, radio plays, or other auditory formats. Audio content is versatile and can be used in education, entertainment, and communication.",
-    "de": "Audio bezeichnet Medieninhalte, die auf Ton basieren. Diese Inhalte können Musik, Sprachaufnahmen, Hörspiele oder andere auditive Formate umfassen und können in Bildung, Unterhaltung und Kommunikation verwendet werden."
+    "de": "Audio bezeichnet Medieninhalte, die auf Ton basieren. Diese Inhalte können Musik, Sprachaufnahmen, Hörspiele oder andere auditive Formate umfassen und können in Bildung, Unterhaltung und Kommunikation verwendet werden.",
+    "en": "Audio refers to media content that is based solely on sound. This content can include music, voice recordings, radio plays, or other auditory formats. Audio content is versatile and can be used in education, entertainment, and communication."
   },
   "example": {
-    "en": "Music tracks, podcasts, audiobooks, voice recordings for language courses",
-    "de": "Musikstücke, Podcasts, Hörbücher, Sprachaufnahmen für Sprachkurse"
+    "de": "Musikstücke, Podcasts, Hörbücher, Sprachaufnahmen für Sprachkurse",
+    "en": "Music tracks, podcasts, audiobooks, voice recordings for language courses"
   },
   "narrower": [
     {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/RADIO_TV",
       "prefLabel": {
-        "en": "Podcast",
-        "de": "Podcast"
+        "de": "Podcast",
+        "en": "Podcast"
       }
     }
   ],
@@ -36,8 +36,8 @@
     {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/",
       "title": {
-        "en": "Learning Resource Type",
-        "de": "Typ der Lernressource"
+        "de": "Typ der Lernressource",
+        "en": "Learning Resource Type"
       }
     }
   ],
@@ -50,8 +50,8 @@
     {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/",
       "title": {
-        "en": "Learning Resource Type",
-        "de": "Typ der Lernressource"
+        "de": "Typ der Lernressource",
+        "en": "Learning Resource Type"
       }
     }
   ],

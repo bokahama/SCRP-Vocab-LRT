@@ -2,12 +2,12 @@
   "id": "https://bokahama.github.io/SCRP-Vocab-LRT/RECHERCHE_AUFTRAG",
   "type": "Concept",
   "prefLabel": {
-    "en": "Research Assignment",
-    "de": "Recherche-Auftrag"
+    "de": "Recherche-Auftrag",
+    "en": "Research Assignment"
   },
   "definition": {
-    "en": "English translation pending.",
-    "de": "Nicht mehr verwendet, siehe -> Arbeitsblatt."
+    "de": "Nicht mehr verwendet, siehe -> Arbeitsblatt.",
+    "en": "English translation pending."
   },
   "note": {
     "de": [
@@ -18,8 +18,8 @@
     {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/",
       "title": {
-        "en": "Learning Resource Type",
-        "de": "Typ der Lernressource"
+        "de": "Typ der Lernressource",
+        "en": "Learning Resource Type"
       }
     }
   ],
@@ -32,8 +32,8 @@
     {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/",
       "title": {
-        "en": "Learning Resource Type",
-        "de": "Typ der Lernressource"
+        "de": "Typ der Lernressource",
+        "en": "Learning Resource Type"
       }
     }
   ],

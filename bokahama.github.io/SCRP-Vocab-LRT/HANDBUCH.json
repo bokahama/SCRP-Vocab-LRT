@@ -2,30 +2,30 @@
   "id": "https://bokahama.github.io/SCRP-Vocab-LRT/HANDBUCH",
   "type": "Concept",
   "prefLabel": {
-    "en": "Guide",
-    "de": "Handbuch"
+    "de": "Handbuch",
+    "en": "Guide"
   },
   "definition": {
-    "en": "English translation pending.",
-    "de": "Ein Handbuch ist eine umfangreiche und strukturierte Textform, in dem Vorschläge und Vorgehensweisen unterbreitet werden, wie mit Situationen oder Personen umzugehen ist. Hierbei liefert es Methoden zur Umsetzung, die immer wieder nachgeschlagen werden können."
+    "de": "Ein Handbuch ist eine umfangreiche und strukturierte Textform, in dem Vorschläge und Vorgehensweisen unterbreitet werden, wie mit Situationen oder Personen umzugehen ist. Hierbei liefert es Methoden zur Umsetzung, die immer wieder nachgeschlagen werden können.",
+    "en": "English translation pending."
   },
   "example": {
-    "en": "English translation pending.",
-    "de": "Handbuch, Verhaltenstipps, Methodenvorschläge"
+    "de": "Handbuch, Verhaltenstipps, Methodenvorschläge",
+    "en": "English translation pending."
   },
   "broader": {
     "id": "https://bokahama.github.io/SCRP-Vocab-LRT/TEXT",
     "prefLabel": {
-      "en": "Text",
-      "de": "Text"
+      "de": "Text",
+      "en": "Text"
     }
   },
   "inScheme": [
     {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/",
       "title": {
-        "en": "Learning Resource Type",
-        "de": "Typ der Lernressource"
+        "de": "Typ der Lernressource",
+        "en": "Learning Resource Type"
       }
     }
   ],
@@ -38,8 +38,8 @@
     {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/",
       "title": {
-        "en": "Learning Resource Type",
-        "de": "Typ der Lernressource"
+        "de": "Typ der Lernressource",
+        "en": "Learning Resource Type"
       }
     }
   ],

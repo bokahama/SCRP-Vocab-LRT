@@ -2,12 +2,12 @@
   "id": "https://bokahama.github.io/SCRP-Vocab-LRT/DATEN",
   "type": "Concept",
   "prefLabel": {
-    "en": "Data",
-    "de": "Daten"
+    "de": "Daten",
+    "en": "Data"
   },
   "definition": {
-    "en": "English translation pending.",
-    "de": "Empirische Daten, Fakten und Erhebungen, Rohdaten."
+    "de": "Empirische Daten, Fakten und Erhebungen, Rohdaten.",
+    "en": "English translation pending."
   },
   "example": {
     "de": "Geschichtsdaten, Erhebungen, Fakten, Werte, Statistiken, Steckbriefe"
@@ -15,16 +15,16 @@
   "broader": {
     "id": "https://bokahama.github.io/SCRP-Vocab-LRT/SONSTIGES",
     "prefLabel": {
-      "en": "Other",
-      "de": "Diverse Medien und Formate"
+      "de": "Diverse Medien und Formate",
+      "en": "Other"
     }
   },
   "inScheme": [
     {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/",
       "title": {
-        "en": "Learning Resource Type",
-        "de": "Typ der Lernressource"
+        "de": "Typ der Lernressource",
+        "en": "Learning Resource Type"
       }
     }
   ],
@@ -37,8 +37,8 @@
     {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/",
       "title": {
-        "en": "Learning Resource Type",
-        "de": "Typ der Lernressource"
+        "de": "Typ der Lernressource",
+        "en": "Learning Resource Type"
       }
     }
   ],

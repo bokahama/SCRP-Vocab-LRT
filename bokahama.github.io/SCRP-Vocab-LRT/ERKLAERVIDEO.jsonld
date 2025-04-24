@@ -2,8 +2,8 @@
   "id": "https://bokahama.github.io/SCRP-Vocab-LRT/ERKLAERVIDEO",
   "type": "Concept",
   "prefLabel": {
-    "en": "Tutorial",
-    "de": "Erklärvideo"
+    "de": "Erklärvideo",
+    "en": "Tutorial"
   },
   "altLabel": {
     "de": [
@@ -11,26 +11,26 @@
     ]
   },
   "definition": {
-    "en": " Audiovisual medium, specifically designed to support the learning process. It contains step-by-step instructions, examples, and explanations that promote the understanding and application of a specific topic or skill.",
-    "de": " Audiovisuelles Medium, das speziell zur Unterstützung des Lernprozesses entwickelt wurde. Es enthält Schritt-für-Schritt-Anleitungen, Beispiele und Erklärungen, die das Verständnis und die Anwendung eines bestimmten Themas oder einer Fähigkeit fördern."
+    "de": " Audiovisuelles Medium, das speziell zur Unterstützung des Lernprozesses entwickelt wurde. Es enthält Schritt-für-Schritt-Anleitungen, Beispiele und Erklärungen, die das Verständnis und die Anwendung eines bestimmten Themas oder einer Fähigkeit fördern.",
+    "en": " Audiovisual medium, specifically designed to support the learning process. It contains step-by-step instructions, examples, and explanations that promote the understanding and application of a specific topic or skill."
   },
   "example": {
-    "en": "Video explaining a mathematical concept, tutorial on using software",
-    "de": "Video zur Erklärung eines mathematischen Konzepts, Tutorial zur Nutzung einer Software"
+    "de": "Video zur Erklärung eines mathematischen Konzepts, Tutorial zur Nutzung einer Software",
+    "en": "Video explaining a mathematical concept, tutorial on using software"
   },
   "broader": {
     "id": "https://bokahama.github.io/SCRP-Vocab-LRT/VIDEO",
     "prefLabel": {
-      "en": "Video",
-      "de": "Video"
+      "de": "Video",
+      "en": "Video"
     }
   },
   "inScheme": [
     {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/",
       "title": {
-        "en": "Learning Resource Type",
-        "de": "Typ der Lernressource"
+        "de": "Typ der Lernressource",
+        "en": "Learning Resource Type"
       }
     }
   ],
@@ -43,8 +43,8 @@
     {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/",
       "title": {
-        "en": "Learning Resource Type",
-        "de": "Typ der Lernressource"
+        "de": "Typ der Lernressource",
+        "en": "Learning Resource Type"
       }
     }
   ],

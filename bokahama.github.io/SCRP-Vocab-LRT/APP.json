@@ -2,62 +2,62 @@
   "id": "https://bokahama.github.io/SCRP-Vocab-LRT/APP",
   "type": "Concept",
   "prefLabel": {
-    "en": "App",
-    "de": "App"
+    "de": "App",
+    "en": "App"
   },
   "altLabel": {
-    "en": [
-      "application",
-      "software"
-    ],
     "de": [
       "Anwendung",
       "Software"
+    ],
+    "en": [
+      "application",
+      "software"
     ]
   },
   "definition": {
-    "en": "An app (short for application software) is an application or computer program that can provide all kinds of functionality. It is not relevant to the functioning of the computer system itself, but provides additional functionality that caters for a specific user's needs. An app needs to be downloaded and installed in order to use it.",
-    "de": "Eine App (Abkürzung für 'Application Software') ist eine Anwendungssoftware oder ein Computerprogramm, welches unterschiedliche Funktionen erfüllen kann. Sie hat dabei keine systemtechnische Funktionalität, das heißt das System kann auch ohne dieses Programm ordnungsgemäß arbeiten. Mit einer App können Sie das Endgerät an Ihre Bedürfnisse anpassen. Eine App muss man herunterladen und installieren, um sie verwenden zu können."
+    "de": "Eine App (Abkürzung für 'Application Software') ist eine Anwendungssoftware oder ein Computerprogramm, welches unterschiedliche Funktionen erfüllen kann. Sie hat dabei keine systemtechnische Funktionalität, das heißt das System kann auch ohne dieses Programm ordnungsgemäß arbeiten. Mit einer App können Sie das Endgerät an Ihre Bedürfnisse anpassen. Eine App muss man herunterladen und installieren, um sie verwenden zu können.",
+    "en": "An app (short for application software) is an application or computer program that can provide all kinds of functionality. It is not relevant to the functioning of the computer system itself, but provides additional functionality that caters for a specific user's needs. An app needs to be downloaded and installed in order to use it."
   },
   "scopeNote": {
-    "en": [
-      "This term is also used for clustering several more specific terms and as a residual-term. Use more specific descriptors whenever possible."
-    ],
     "de": [
       "Der Wert findet auch als zusammenfassender Kategorien-Wert sowie als Residual-Wert Anwendung. Falls möglich bitte spezifischer indexieren."
+    ],
+    "en": [
+      "This term is also used for clustering several more specific terms and as a residual-term. Use more specific descriptors whenever possible."
     ]
   },
   "example": {
-    "en": "App to practise to read the time; App to generate diagrams",
-    "de": "App zum Üben der Uhrzeit, App für einen Diagrammgenerator"
+    "de": "App zum Üben der Uhrzeit, App für einen Diagrammgenerator",
+    "en": "App to practise to read the time; App to generate diagrams"
   },
   "narrower": [
     {
-      "id": "https://bokahama.github.io/SCRP-Vocab-LRT/SOFTWARE",
-      "prefLabel": {
-        "en": "Software",
-        "de": "Desktop-Software"
-      }
-    },
-    {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/LERNSPIEL",
       "prefLabel": {
-        "en": "Educational Game",
-        "de": "Lernspiel"
+        "de": "Lernspiel",
+        "en": "Educational Game"
       }
     },
     {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/METHODISCHE_APP",
       "prefLabel": {
-        "en": "APP",
-        "de": "Methodische APP"
+        "de": "Methodische APP",
+        "en": "APP"
+      }
+    },
+    {
+      "id": "https://bokahama.github.io/SCRP-Vocab-LRT/SOFTWARE",
+      "prefLabel": {
+        "de": "Desktop-Software",
+        "en": "Software"
       }
     },
     {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/WEBTOOL",
       "prefLabel": {
-        "en": "Webtool",
-        "de": "Webtool"
+        "de": "Webtool",
+        "en": "Webtool"
       }
     }
   ],
@@ -65,8 +65,8 @@
     {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/",
       "title": {
-        "en": "Learning Resource Type",
-        "de": "Typ der Lernressource"
+        "de": "Typ der Lernressource",
+        "en": "Learning Resource Type"
       }
     }
   ],
@@ -79,8 +79,8 @@
     {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/",
       "title": {
-        "en": "Learning Resource Type",
-        "de": "Typ der Lernressource"
+        "de": "Typ der Lernressource",
+        "en": "Learning Resource Type"
       }
     }
   ],

@@ -2,38 +2,38 @@
   "id": "https://bokahama.github.io/SCRP-Vocab-LRT/WORTLISTE",
   "type": "Concept",
   "prefLabel": {
-    "en": "wordlist",
-    "de": "Wortliste"
+    "de": "Wortliste",
+    "en": "wordlist"
   },
   "altLabel": {
-    "en": [
-      "vocabulary"
-    ],
     "de": [
       "Vokabelliste"
+    ],
+    "en": [
+      "vocabulary"
     ]
   },
   "definition": {
-    "en": "A collection of words or terms relevant to learning a language or a specific topic. It serves as a reference and learning aid.",
-    "de": "Eine Sammlung von Wörtern oder Begriffen, die für das Lernen einer Sprache oder eines bestimmten Themas relevant sind. Sie dient als Referenz und Lernhilfe."
+    "de": "Eine Sammlung von Wörtern oder Begriffen, die für das Lernen einer Sprache oder eines bestimmten Themas relevant sind. Sie dient als Referenz und Lernhilfe.",
+    "en": "A collection of words or terms relevant to learning a language or a specific topic. It serves as a reference and learning aid."
   },
   "example": {
-    "en": "List of technical terms, vocabulary list for a foreign language",
-    "de": "Liste von Fachbegriffen, Vokabelliste für eine Fremdsprache"
+    "de": "Liste von Fachbegriffen, Vokabelliste für eine Fremdsprache",
+    "en": "List of technical terms, vocabulary list for a foreign language"
   },
   "broader": {
     "id": "https://bokahama.github.io/SCRP-Vocab-LRT/TEXT",
     "prefLabel": {
-      "en": "Text",
-      "de": "Text"
+      "de": "Text",
+      "en": "Text"
     }
   },
   "inScheme": [
     {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/",
       "title": {
-        "en": "Learning Resource Type",
-        "de": "Typ der Lernressource"
+        "de": "Typ der Lernressource",
+        "en": "Learning Resource Type"
       }
     }
   ],
@@ -46,8 +46,8 @@
     {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/",
       "title": {
-        "en": "Learning Resource Type",
-        "de": "Typ der Lernressource"
+        "de": "Typ der Lernressource",
+        "en": "Learning Resource Type"
       }
     }
   ],

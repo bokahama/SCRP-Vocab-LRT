@@ -2,39 +2,39 @@
   "id": "https://bokahama.github.io/SCRP-Vocab-LRT/SIMULATION",
   "type": "Concept",
   "prefLabel": {
-    "en": "Simulation",
-    "de": "Simulation"
+    "de": "Simulation",
+    "en": "Simulation"
   },
   "altLabel": {
-    "en": [
-      "modeling"
-    ],
     "de": [
       "Nachbildung",
       "Animation"
+    ],
+    "en": [
+      "modeling"
     ]
   },
   "definition": {
-    "en": "A simulation is a replication of a real-world process or system over time. It is often used in education to make complex systems or processes understandable by providing an interactive and visual representation. Simulations can be used in various fields, including natural sciences, engineering, and social sciences.",
-    "de": "Eine Simulation ist eine Nachbildung eines realen Prozesses oder Systems über die Zeit. Sie wird oft in der Bildung verwendet, um komplexe Systeme oder Prozesse verständlich zu machen. Während Animationen nur darstellend sind, haben Simulationen i.e.S. eine interaktive Komponente. Simulationen können in verschiedenen Bereichen eingesetzt werden, darunter Naturwissenschaften, Ingenieurwesen und Sozialwissenschaften."
+    "de": "Eine Simulation ist eine Nachbildung eines realen Prozesses oder Systems über die Zeit. Sie wird oft in der Bildung verwendet, um komplexe Systeme oder Prozesse verständlich zu machen. Während Animationen nur darstellend sind, haben Simulationen i.e.S. eine interaktive Komponente. Simulationen können in verschiedenen Bereichen eingesetzt werden, darunter Naturwissenschaften, Ingenieurwesen und Sozialwissenschaften.",
+    "en": "A simulation is a replication of a real-world process or system over time. It is often used in education to make complex systems or processes understandable by providing an interactive and visual representation. Simulations can be used in various fields, including natural sciences, engineering, and social sciences."
   },
   "example": {
-    "en": "Physics simulation demonstrating forces, economic simulation analyzing market behavior",
-    "de": "Physik-Simulation zur Demonstration von Kräften, Wirtschaftssimulation zur Analyse von Marktverhalten"
+    "de": "Physik-Simulation zur Demonstration von Kräften, Wirtschaftssimulation zur Analyse von Marktverhalten",
+    "en": "Physics simulation demonstrating forces, economic simulation analyzing market behavior"
   },
   "broader": {
     "id": "https://bokahama.github.io/SCRP-Vocab-LRT/VIRTUAL_REALITY_AUGMENTED_REALITY",
     "prefLabel": {
-      "en": "Virtual Reality & Augmented Reality",
-      "de": "Virtual Reality & Augmented Reality"
+      "de": "Virtual Reality & Augmented Reality",
+      "en": "Virtual Reality & Augmented Reality"
     }
   },
   "inScheme": [
     {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/",
       "title": {
-        "en": "Learning Resource Type",
-        "de": "Typ der Lernressource"
+        "de": "Typ der Lernressource",
+        "en": "Learning Resource Type"
       }
     }
   ],
@@ -47,8 +47,8 @@
     {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/",
       "title": {
-        "en": "Learning Resource Type",
-        "de": "Typ der Lernressource"
+        "de": "Typ der Lernressource",
+        "en": "Learning Resource Type"
       }
     }
   ],

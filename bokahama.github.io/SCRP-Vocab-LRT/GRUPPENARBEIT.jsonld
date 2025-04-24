@@ -2,30 +2,30 @@
   "id": "https://bokahama.github.io/SCRP-Vocab-LRT/GRUPPENARBEIT",
   "type": "Concept",
   "prefLabel": {
-    "en": "Group work",
-    "de": "Gruppenarbeit"
+    "de": "Gruppenarbeit",
+    "en": "Group work"
   },
   "definition": {
-    "en": "Cooperative learning methods where students work together in groups to solve problems or work on projects.",
-    "de": "Kooperative Lernmethoden, bei denen Lernende in Gruppen zusammenarbeiten, um gemeinsam Aufgaben zu lösen oder Projekte zu bearbeiten."
+    "de": "Kooperative Lernmethoden, bei denen Lernende in Gruppen zusammenarbeiten, um gemeinsam Aufgaben zu lösen oder Projekte zu bearbeiten.",
+    "en": "Cooperative learning methods where students work together in groups to solve problems or work on projects."
   },
   "example": {
-    "en": "Group project work, teamwork",
-    "de": "Projektarbeit in Gruppen, Teamarbeit"
+    "de": "Projektarbeit in Gruppen, Teamarbeit",
+    "en": "Group project work, teamwork"
   },
   "broader": {
     "id": "https://bokahama.github.io/SCRP-Vocab-LRT/METHODE",
     "prefLabel": {
-      "en": "Diverse Concept",
-      "de": "Pädagogische Methode"
+      "de": "Pädagogische Methode",
+      "en": "Diverse Concept"
     }
   },
   "inScheme": [
     {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/",
       "title": {
-        "en": "Learning Resource Type",
-        "de": "Typ der Lernressource"
+        "de": "Typ der Lernressource",
+        "en": "Learning Resource Type"
       }
     }
   ],
@@ -38,8 +38,8 @@
     {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/",
       "title": {
-        "en": "Learning Resource Type",
-        "de": "Typ der Lernressource"
+        "de": "Typ der Lernressource",
+        "en": "Learning Resource Type"
       }
     }
   ],

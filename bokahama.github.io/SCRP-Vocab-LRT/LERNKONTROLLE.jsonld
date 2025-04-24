@@ -2,39 +2,39 @@
   "id": "https://bokahama.github.io/SCRP-Vocab-LRT/LERNKONTROLLE",
   "type": "Concept",
   "prefLabel": {
-    "en": "Learning assesment",
-    "de": "Lernkontrolle"
+    "de": "Lernkontrolle",
+    "en": "Learning assesment"
   },
   "altLabel": {
-    "en": [
-      "Examination",
+    "de": [
       "Test"
     ],
-    "de": [
+    "en": [
+      "Examination",
       "Test"
     ]
   },
   "definition": {
-    "en": "English translation pending.",
-    "de": "Verschiedene Methoden zur Überprüfung des Lernfortschritts und der Lernergebnisse. Diese können formelle Tests, informelle Beobachtungen, Selbstbewertungen und andere, bewertete oder unbewertete Evaluationsmethoden umfassen."
+    "de": "Verschiedene Methoden zur Überprüfung des Lernfortschritts und der Lernergebnisse. Diese können formelle Tests, informelle Beobachtungen, Selbstbewertungen und andere, bewertete oder unbewertete Evaluationsmethoden umfassen.",
+    "en": "English translation pending."
   },
   "example": {
-    "en": "English translation pending.",
-    "de": "Selbsttest, Test(bewertet) Lernstandsanalyse, Prüfung (bewertet)"
+    "de": "Selbsttest, Test(bewertet) Lernstandsanalyse, Prüfung (bewertet)",
+    "en": "English translation pending."
   },
   "broader": {
     "id": "https://bokahama.github.io/SCRP-Vocab-LRT/UNTERRICHTSPLANUNG",
     "prefLabel": {
-      "en": "Lesson Planning",
-      "de": "Unterrichtsplanung"
+      "de": "Unterrichtsplanung",
+      "en": "Lesson Planning"
     }
   },
   "inScheme": [
     {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/",
       "title": {
-        "en": "Learning Resource Type",
-        "de": "Typ der Lernressource"
+        "de": "Typ der Lernressource",
+        "en": "Learning Resource Type"
       }
     }
   ],
@@ -47,8 +47,8 @@
     {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/",
       "title": {
-        "en": "Learning Resource Type",
-        "de": "Typ der Lernressource"
+        "de": "Typ der Lernressource",
+        "en": "Learning Resource Type"
       }
     }
   ],

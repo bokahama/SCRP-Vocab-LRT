@@ -2,38 +2,38 @@
   "id": "https://bokahama.github.io/SCRP-Vocab-LRT/TAFELBILD",
   "type": "Concept",
   "prefLabel": {
-    "en": "Blackboard image",
-    "de": "Tafelbild"
+    "de": "Tafelbild",
+    "en": "Blackboard image"
   },
   "altLabel": {
-    "en": [
-      "Securing results"
-    ],
     "de": [
       "Ergebnissicherung"
+    ],
+    "en": [
+      "Securing results"
     ]
   },
   "definition": {
-    "en": "A visual representation of learning content or results that is recorded on a blackboard or another medium. It serves to document and review the lesson.",
-    "de": "Eine visuelle Darstellung von Lerninhalten oder Ergebnissen, die auf einer Tafel oder einem anderen Medium festgehalten wird. Es dient der Dokumentation und Nachbereitung des Unterrichts."
+    "de": "Eine visuelle Darstellung von Lerninhalten oder Ergebnissen, die auf einer Tafel oder einem anderen Medium festgehalten wird. Es dient der Dokumentation und Nachbereitung des Unterrichts.",
+    "en": "A visual representation of learning content or results that is recorded on a blackboard or another medium. It serves to document and review the lesson."
   },
   "example": {
-    "en": "Blackboard image explaining a mathematical concept, documentation of learning outcomes",
-    "de": "Tafelbild zur Erklärung eines mathematischen Konzepts, Dokumentation der Lernergebnisse"
+    "de": "Tafelbild zur Erklärung eines mathematischen Konzepts, Dokumentation der Lernergebnisse",
+    "en": "Blackboard image explaining a mathematical concept, documentation of learning outcomes"
   },
   "broader": {
     "id": "https://bokahama.github.io/SCRP-Vocab-LRT/TEXT",
     "prefLabel": {
-      "en": "Text",
-      "de": "Text"
+      "de": "Text",
+      "en": "Text"
     }
   },
   "inScheme": [
     {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/",
       "title": {
-        "en": "Learning Resource Type",
-        "de": "Typ der Lernressource"
+        "de": "Typ der Lernressource",
+        "en": "Learning Resource Type"
       }
     }
   ],
@@ -46,8 +46,8 @@
     {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/",
       "title": {
-        "en": "Learning Resource Type",
-        "de": "Typ der Lernressource"
+        "de": "Typ der Lernressource",
+        "en": "Learning Resource Type"
       }
     }
   ],

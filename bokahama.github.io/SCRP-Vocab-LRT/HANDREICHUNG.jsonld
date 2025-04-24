@@ -2,30 +2,30 @@
   "id": "https://bokahama.github.io/SCRP-Vocab-LRT/HANDREICHUNG",
   "type": "Concept",
   "prefLabel": {
-    "en": "Guidance",
-    "de": "Handreichung"
+    "de": "Handreichung",
+    "en": "Guidance"
   },
   "definition": {
-    "en": "English translation pending.",
-    "de": "Spezifisch für Lehrkräfte gedachte didaktische Hinweise, wie ein bestimmtes Thema praktisch umgesetzt werden kann. Eine Handreichung kann auch Lernsituationen und Arbeitsblätter enthalten."
+    "de": "Spezifisch für Lehrkräfte gedachte didaktische Hinweise, wie ein bestimmtes Thema praktisch umgesetzt werden kann. Eine Handreichung kann auch Lernsituationen und Arbeitsblätter enthalten.",
+    "en": "English translation pending."
   },
   "example": {
-    "en": "English translation pending.",
-    "de": "Handreichung zur Integration digitaler Schlüsselkompetenzen in die Berufliche Bildung, Handreichung Sprachsensibler Unterricht an Berufsschulen"
+    "de": "Handreichung zur Integration digitaler Schlüsselkompetenzen in die Berufliche Bildung, Handreichung Sprachsensibler Unterricht an Berufsschulen",
+    "en": "English translation pending."
   },
   "broader": {
     "id": "https://bokahama.github.io/SCRP-Vocab-LRT/TEXT",
     "prefLabel": {
-      "en": "Text",
-      "de": "Text"
+      "de": "Text",
+      "en": "Text"
     }
   },
   "inScheme": [
     {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/",
       "title": {
-        "en": "Learning Resource Type",
-        "de": "Typ der Lernressource"
+        "de": "Typ der Lernressource",
+        "en": "Learning Resource Type"
       }
     }
   ],
@@ -38,8 +38,8 @@
     {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/",
       "title": {
-        "en": "Learning Resource Type",
-        "de": "Typ der Lernressource"
+        "de": "Typ der Lernressource",
+        "en": "Learning Resource Type"
       }
     }
   ],

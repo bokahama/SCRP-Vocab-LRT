@@ -2,22 +2,22 @@
   "id": "https://bokahama.github.io/SCRP-Vocab-LRT/VIRTUAL_REALITY_AUGMENTED_REALITY",
   "type": "Concept",
   "prefLabel": {
-    "en": "Virtual Reality & Augmented Reality",
-    "de": "Virtual Reality & Augmented Reality"
+    "de": "Virtual Reality & Augmented Reality",
+    "en": "Virtual Reality & Augmented Reality"
   },
   "altLabel": {
-    "en": [
+    "de": [
       "VR",
       "AR"
     ],
-    "de": [
+    "en": [
       "VR",
       "AR"
     ]
   },
   "definition": {
-    "en": "English translation pending.",
-    "de": "VR- und AR-Medien lassen sich auf VR-Brillen und ähnlichen Geräten abspielen oder sind für diese optimiert. Sie können zum Download angeboten werden oder als App zur Verfügung stehen. Technische Formate derzeit: MP4 und APK."
+    "de": "VR- und AR-Medien lassen sich auf VR-Brillen und ähnlichen Geräten abspielen oder sind für diese optimiert. Sie können zum Download angeboten werden oder als App zur Verfügung stehen. Technische Formate derzeit: MP4 und APK.",
+    "en": "English translation pending."
   },
   "example": {
     "de": "360° Videos, 360° Webanwendungen, 360° Fotos, 3D-Objekte (interaktiv), virtuelle Führungen"
@@ -26,8 +26,8 @@
     {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/SIMULATION",
       "prefLabel": {
-        "en": "Simulation",
-        "de": "Simulation"
+        "de": "Simulation",
+        "en": "Simulation"
       }
     }
   ],
@@ -35,8 +35,8 @@
     {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/",
       "title": {
-        "en": "Learning Resource Type",
-        "de": "Typ der Lernressource"
+        "de": "Typ der Lernressource",
+        "en": "Learning Resource Type"
       }
     }
   ],
@@ -49,8 +49,8 @@
     {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/",
       "title": {
-        "en": "Learning Resource Type",
-        "de": "Typ der Lernressource"
+        "de": "Typ der Lernressource",
+        "en": "Learning Resource Type"
       }
     }
   ],

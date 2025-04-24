@@ -2,30 +2,30 @@
   "id": "https://bokahama.github.io/SCRP-Vocab-LRT/LEHRPLANREFERENZ",
   "type": "Concept",
   "prefLabel": {
-    "en": "Curriculum reference",
-    "de": "Lehrplanreferenz"
+    "de": "Lehrplanreferenz",
+    "en": "Curriculum reference"
   },
   "definition": {
-    "en": "Document or resource, that refers to the curriculum and provides detailed information about the content to be taught, goals, and methods.",
-    "de": " Dokument oder Ressource, die auf einen Lehrplan oder Lehrplanteil Bezug nimmt und detaillierte Informationen über die zu vermittelnden Inhalte, Ziele und Methoden enthält."
+    "de": " Dokument oder Ressource, die auf einen Lehrplan oder Lehrplanteil Bezug nimmt und detaillierte Informationen über die zu vermittelnden Inhalte, Ziele und Methoden enthält.",
+    "en": "Document or resource, that refers to the curriculum and provides detailed information about the content to be taught, goals, and methods."
   },
   "example": {
-    "en": "Mathematics curriculum, science curriculum",
-    "de": "Lehrplan für Mathematik, Curriculum für Naturwissenschaften"
+    "de": "Lehrplan für Mathematik, Curriculum für Naturwissenschaften",
+    "en": "Mathematics curriculum, science curriculum"
   },
   "broader": {
     "id": "https://bokahama.github.io/SCRP-Vocab-LRT/UNTERRICHTSPLANUNG",
     "prefLabel": {
-      "en": "Lesson Planning",
-      "de": "Unterrichtsplanung"
+      "de": "Unterrichtsplanung",
+      "en": "Lesson Planning"
     }
   },
   "inScheme": [
     {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/",
       "title": {
-        "en": "Learning Resource Type",
-        "de": "Typ der Lernressource"
+        "de": "Typ der Lernressource",
+        "en": "Learning Resource Type"
       }
     }
   ],
@@ -38,8 +38,8 @@
     {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/",
       "title": {
-        "en": "Learning Resource Type",
-        "de": "Typ der Lernressource"
+        "de": "Typ der Lernressource",
+        "en": "Learning Resource Type"
       }
     }
   ],

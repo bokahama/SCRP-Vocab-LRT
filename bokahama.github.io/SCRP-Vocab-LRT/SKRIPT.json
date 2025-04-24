@@ -2,38 +2,38 @@
   "id": "https://bokahama.github.io/SCRP-Vocab-LRT/SKRIPT",
   "type": "Concept",
   "prefLabel": {
-    "en": "Script",
-    "de": "Skript"
+    "de": "Skript",
+    "en": "Script"
   },
   "altLabel": {
-    "en": [
-      "Transcript"
-    ],
     "de": [
       "Mitschrift"
+    ],
+    "en": [
+      "Transcript"
     ]
   },
   "definition": {
-    "en": "A written record of lectures, presentations, oral communications or film contributions. It serves as a reference, reading or learning aid.",
-    "de": "Eine schriftliche Aufzeichnung von Vorträgen, Vorlesungen, mündlichen Präsentationen oder Filmbeiträgen. Es dient als Nachschlagewerk, Lese- oder Lernhilfe."
+    "de": "Eine schriftliche Aufzeichnung von Vorträgen, Vorlesungen, mündlichen Präsentationen oder Filmbeiträgen. Es dient als Nachschlagewerk, Lese- oder Lernhilfe.",
+    "en": "A written record of lectures, presentations, oral communications or film contributions. It serves as a reference, reading or learning aid."
   },
   "example": {
-    "en": "Lecture script, conference transcript",
-    "de": "Vorlesungsskript, Mitschrift einer Konferenz"
+    "de": "Vorlesungsskript, Mitschrift einer Konferenz",
+    "en": "Lecture script, conference transcript"
   },
   "broader": {
     "id": "https://bokahama.github.io/SCRP-Vocab-LRT/TEXT",
     "prefLabel": {
-      "en": "Text",
-      "de": "Text"
+      "de": "Text",
+      "en": "Text"
     }
   },
   "inScheme": [
     {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/",
       "title": {
-        "en": "Learning Resource Type",
-        "de": "Typ der Lernressource"
+        "de": "Typ der Lernressource",
+        "en": "Learning Resource Type"
       }
     }
   ],
@@ -46,8 +46,8 @@
     {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/",
       "title": {
-        "en": "Learning Resource Type",
-        "de": "Typ der Lernressource"
+        "de": "Typ der Lernressource",
+        "en": "Learning Resource Type"
       }
     }
   ],

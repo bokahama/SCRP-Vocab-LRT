@@ -2,31 +2,31 @@
   "id": "https://bokahama.github.io/SCRP-Vocab-LRT/LERNAUFGABE",
   "type": "Concept",
   "prefLabel": {
-    "en": "Learning Task",
-    "de": "Lernaufgabe"
+    "de": "Lernaufgabe",
+    "en": "Learning Task"
   },
   "altLabel": {
-    "en": [
-      "Task"
-    ],
     "de": [
       "Aufgabe"
+    ],
+    "en": [
+      "Task"
     ]
   },
   "definition": {
-    "en": "A learning task is a specific task or activity aimed at achieving particular learning objectives. It can take various forms, such as exercises, projects, research tasks, or practical applications. Learning tasks are often structured and provide clear instructions and goals to help learners acquire new skills and knowledge.",
-    "de": "Eine Lernaufgabe ist eine spezifische Aufgabe oder Aktivität, die darauf abzielt, bestimmte Lernziele zu erreichen. Sie kann verschiedene Formen annehmen, wie z.B. Übungen, Projekte, Forschungsaufgaben oder praktische Anwendungen. Lernaufgaben sind oft strukturiert und bieten klare Anweisungen und Ziele, um den Lernenden zu helfen, neue Fähigkeiten und Wissen zu erwerben."
+    "de": "Eine Lernaufgabe ist eine spezifische Aufgabe oder Aktivität, die darauf abzielt, bestimmte Lernziele zu erreichen. Sie kann verschiedene Formen annehmen, wie z.B. Übungen, Projekte, Forschungsaufgaben oder praktische Anwendungen. Lernaufgaben sind oft strukturiert und bieten klare Anweisungen und Ziele, um den Lernenden zu helfen, neue Fähigkeiten und Wissen zu erwerben.",
+    "en": "A learning task is a specific task or activity aimed at achieving particular learning objectives. It can take various forms, such as exercises, projects, research tasks, or practical applications. Learning tasks are often structured and provide clear instructions and goals to help learners acquire new skills and knowledge."
   },
   "example": {
-    "en": "Math exercise, project work, research task",
-    "de": "Matheübung, Projektarbeit, Forschungsaufgabe"
+    "de": "Matheübung, Projektarbeit, Forschungsaufgabe",
+    "en": "Math exercise, project work, research task"
   },
   "inScheme": [
     {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/",
       "title": {
-        "en": "Learning Resource Type",
-        "de": "Typ der Lernressource"
+        "de": "Typ der Lernressource",
+        "en": "Learning Resource Type"
       }
     }
   ],
@@ -39,8 +39,8 @@
     {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/",
       "title": {
-        "en": "Learning Resource Type",
-        "de": "Typ der Lernressource"
+        "de": "Typ der Lernressource",
+        "en": "Learning Resource Type"
       }
     }
   ],

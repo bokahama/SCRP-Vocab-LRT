@@ -2,8 +2,8 @@
   "id": "https://bokahama.github.io/SCRP-Vocab-LRT/WEBSEITE",
   "type": "Concept",
   "prefLabel": {
-    "en": "Website",
-    "de": "Webseite"
+    "de": "Webseite",
+    "en": "Website"
   },
   "altLabel": {
     "de": [
@@ -11,26 +11,26 @@
     ]
   },
   "definition": {
-    "en": "English translation pending.",
-    "de": "Ein Dokument, das Bestandteil einer Internetseite im World Wide Web ist und  das mittels eindeutiger Adresse (URL) aufgerufen werden kann."
+    "de": "Ein Dokument, das Bestandteil einer Internetseite im World Wide Web ist und  das mittels eindeutiger Adresse (URL) aufgerufen werden kann.",
+    "en": "English translation pending."
   },
   "example": {
-    "en": "English translation pending.",
-    "de": "Webseite mit pädagogischen Anleitungen, Wiki, Blog"
+    "de": "Webseite mit pädagogischen Anleitungen, Wiki, Blog",
+    "en": "English translation pending."
   },
   "broader": {
     "id": "https://bokahama.github.io/SCRP-Vocab-LRT/SONSTIGES",
     "prefLabel": {
-      "en": "Other",
-      "de": "Diverse Medien und Formate"
+      "de": "Diverse Medien und Formate",
+      "en": "Other"
     }
   },
   "inScheme": [
     {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/",
       "title": {
-        "en": "Learning Resource Type",
-        "de": "Typ der Lernressource"
+        "de": "Typ der Lernressource",
+        "en": "Learning Resource Type"
       }
     }
   ],
@@ -43,8 +43,8 @@
     {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/",
       "title": {
-        "en": "Learning Resource Type",
-        "de": "Typ der Lernressource"
+        "de": "Typ der Lernressource",
+        "en": "Learning Resource Type"
       }
     }
   ],

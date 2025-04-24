@@ -2,23 +2,23 @@
   "id": "https://bokahama.github.io/SCRP-Vocab-LRT/SELBSTEVALUATION",
   "type": "Concept",
   "prefLabel": {
-    "en": "Self-evaluation exercise",
-    "de": "Selbstevaluations-Übung"
+    "de": "Selbstevaluations-Übung",
+    "en": "Self-evaluation exercise"
   },
   "definition": {
-    "en": "An activity where learners assess their own performance and progress, practice self-reflection and understandtheir own learning processes.",
-    "de": "Besondere Form der Lernkontrolle, bei der die Lernenden ihre eigenen Leistungen und Fortschritte bewerten, Selbsteinschätzung üben und ihre Lernprozesse verstehen."
+    "de": "Besondere Form der Lernkontrolle, bei der die Lernenden ihre eigenen Leistungen und Fortschritte bewerten, Selbsteinschätzung üben und ihre Lernprozesse verstehen.",
+    "en": "An activity where learners assess their own performance and progress, practice self-reflection and understandtheir own learning processes."
   },
   "example": {
-    "en": "Self-assessment sheet, reflection exercise",
-    "de": "Selbstbewertungsbogen, Reflexionsübung"
+    "de": "Selbstbewertungsbogen, Reflexionsübung",
+    "en": "Self-assessment sheet, reflection exercise"
   },
   "inScheme": [
     {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/",
       "title": {
-        "en": "Learning Resource Type",
-        "de": "Typ der Lernressource"
+        "de": "Typ der Lernressource",
+        "en": "Learning Resource Type"
       }
     }
   ],
@@ -31,8 +31,8 @@
     {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/",
       "title": {
-        "en": "Learning Resource Type",
-        "de": "Typ der Lernressource"
+        "de": "Typ der Lernressource",
+        "en": "Learning Resource Type"
       }
     }
   ],

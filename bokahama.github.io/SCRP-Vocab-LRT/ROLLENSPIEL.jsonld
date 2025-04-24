@@ -2,8 +2,8 @@
   "id": "https://bokahama.github.io/SCRP-Vocab-LRT/ROLLENSPIEL",
   "type": "Concept",
   "prefLabel": {
-    "en": "Role Play",
-    "de": "Rollenspiel"
+    "de": "Rollenspiel",
+    "en": "Role Play"
   },
   "altLabel": {
     "de": [
@@ -11,8 +11,8 @@
     ]
   },
   "definition": {
-    "en": "English translation pending.",
-    "de": "Ein Spiel, bei dem Lernende in einer fiktiven Situation oder in einem fiktiven Kontext in eine Rolle schlüpfen und Handeln simulieren."
+    "de": "Ein Spiel, bei dem Lernende in einer fiktiven Situation oder in einem fiktiven Kontext in eine Rolle schlüpfen und Handeln simulieren.",
+    "en": "English translation pending."
   },
   "example": {
     "de": "Spiel rund um Berufe, Selbsterfahrungsspiel zu den Lebensbedingungen von Flüchtlingen, Börsenplanspiel"
@@ -20,16 +20,16 @@
   "broader": {
     "id": "https://bokahama.github.io/SCRP-Vocab-LRT/METHODE",
     "prefLabel": {
-      "en": "Diverse Concept",
-      "de": "Pädagogische Methode"
+      "de": "Pädagogische Methode",
+      "en": "Diverse Concept"
     }
   },
   "inScheme": [
     {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/",
       "title": {
-        "en": "Learning Resource Type",
-        "de": "Typ der Lernressource"
+        "de": "Typ der Lernressource",
+        "en": "Learning Resource Type"
       }
     }
   ],
@@ -42,8 +42,8 @@
     {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/",
       "title": {
-        "en": "Learning Resource Type",
-        "de": "Typ der Lernressource"
+        "de": "Typ der Lernressource",
+        "en": "Learning Resource Type"
       }
     }
   ],

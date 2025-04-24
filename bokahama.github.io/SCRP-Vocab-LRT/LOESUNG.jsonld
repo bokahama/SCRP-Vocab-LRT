@@ -2,38 +2,38 @@
   "id": "https://bokahama.github.io/SCRP-Vocab-LRT/LOESUNG",
   "type": "Concept",
   "prefLabel": {
-    "en": "Solution",
-    "de": "Lösung"
+    "de": "Lösung",
+    "en": "Solution"
   },
   "altLabel": {
-    "en": [
-      "Solution sheet"
-    ],
     "de": [
       "Lösungsblatt"
+    ],
+    "en": [
+      "Solution sheet"
     ]
   },
   "definition": {
-    "en": "A document, that  contains the correct answers or steps to solve a problem or task. It serves as a reference for students to check their own solutions.",
-    "de": " Dokument oder sonstige Darstellung, welche die richtigen Antworten oder Schritte zur Lösung eines Problems oder einer Aufgabe enthält. Es dient als Referenz für Lernende, um ihre eigenen Lösungen zu überprüfen."
+    "de": " Dokument oder sonstige Darstellung, welche die richtigen Antworten oder Schritte zur Lösung eines Problems oder einer Aufgabe enthält. Es dient als Referenz für Lernende, um ihre eigenen Lösungen zu überprüfen.",
+    "en": "A document, that  contains the correct answers or steps to solve a problem or task. It serves as a reference for students to check their own solutions."
   },
   "example": {
-    "en": "Solution sheet for a math problem, solution to a puzzle",
-    "de": "Lösungsblatt für eine Mathematikaufgabe, Lösung eines Rätsels"
+    "de": "Lösungsblatt für eine Mathematikaufgabe, Lösung eines Rätsels",
+    "en": "Solution sheet for a math problem, solution to a puzzle"
   },
   "broader": {
     "id": "https://bokahama.github.io/SCRP-Vocab-LRT/UNTERRICHTSPLANUNG",
     "prefLabel": {
-      "en": "Lesson Planning",
-      "de": "Unterrichtsplanung"
+      "de": "Unterrichtsplanung",
+      "en": "Lesson Planning"
     }
   },
   "inScheme": [
     {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/",
       "title": {
-        "en": "Learning Resource Type",
-        "de": "Typ der Lernressource"
+        "de": "Typ der Lernressource",
+        "en": "Learning Resource Type"
       }
     }
   ],
@@ -46,8 +46,8 @@
     {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/",
       "title": {
-        "en": "Learning Resource Type",
-        "de": "Typ der Lernressource"
+        "de": "Typ der Lernressource",
+        "en": "Learning Resource Type"
       }
     }
   ],

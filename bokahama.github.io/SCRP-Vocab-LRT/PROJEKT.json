@@ -2,31 +2,31 @@
   "id": "https://bokahama.github.io/SCRP-Vocab-LRT/PROJEKT",
   "type": "Concept",
   "prefLabel": {
-    "en": "Project",
-    "de": "Projekt"
+    "de": "Projekt",
+    "en": "Project"
   },
   "altLabel": {
-    "en": [
-      "project work"
-    ],
     "de": [
       "Projektarbeit"
+    ],
+    "en": [
+      "project work"
     ]
   },
   "definition": {
-    "en": "A project in the educational context is a teaching and learning method where learners acquire skills by working on realistic tasks. This method promotes self-directed and cooperative learning by encouraging learners to independently research, plan, execute, and present results.",
-    "de": "Ein Projekt im pädagogischen Kontext ist eine Lehr- und Lernmethode, bei der Lernende durch die Bearbeitung realitätsnaher Aufgabenstellungen Kompetenzen erwerben. Diese Methode fördert eigenverantwortliches und kooperatives Lernen, indem sie die Lernenden dazu anregt, selbstständig Informationen zu recherchieren, zu planen, durchzuführen und die Ergebnisse zu präsentieren."
+    "de": "Ein Projekt im pädagogischen Kontext ist eine Lehr- und Lernmethode, bei der Lernende durch die Bearbeitung realitätsnaher Aufgabenstellungen Kompetenzen erwerben. Diese Methode fördert eigenverantwortliches und kooperatives Lernen, indem sie die Lernenden dazu anregt, selbstständig Informationen zu recherchieren, zu planen, durchzuführen und die Ergebnisse zu präsentieren.",
+    "en": "A project in the educational context is a teaching and learning method where learners acquire skills by working on realistic tasks. This method promotes self-directed and cooperative learning by encouraging learners to independently research, plan, execute, and present results."
   },
   "example": {
-    "en": "Group project for developing a sustainable product, project work on researching historical events",
-    "de": "Gruppenprojekt zur Entwicklung eines nachhaltigen Produkts, Projektarbeit zur Erforschung historischer Ereignisse, Erstellen einer Klassenwebsite"
+    "de": "Gruppenprojekt zur Entwicklung eines nachhaltigen Produkts, Projektarbeit zur Erforschung historischer Ereignisse, Erstellen einer Klassenwebsite",
+    "en": "Group project for developing a sustainable product, project work on researching historical events"
   },
   "inScheme": [
     {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/",
       "title": {
-        "en": "Learning Resource Type",
-        "de": "Typ der Lernressource"
+        "de": "Typ der Lernressource",
+        "en": "Learning Resource Type"
       }
     }
   ],
@@ -39,8 +39,8 @@
     {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/",
       "title": {
-        "en": "Learning Resource Type",
-        "de": "Typ der Lernressource"
+        "de": "Typ der Lernressource",
+        "en": "Learning Resource Type"
       }
     }
   ],

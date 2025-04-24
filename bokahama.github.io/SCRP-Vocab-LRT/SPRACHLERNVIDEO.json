@@ -2,30 +2,30 @@
   "id": "https://bokahama.github.io/SCRP-Vocab-LRT/SPRACHLERNVIDEO",
   "type": "Concept",
   "prefLabel": {
-    "en": "Language learning video",
-    "de": "Sprachlernvideo"
+    "de": "Sprachlernvideo",
+    "en": "Language learning video"
   },
   "definition": {
-    "en": "An audiovisual medium specifically designed to support language acquisition. It contains exercises, examples, and explanations that promote the understanding and application of a new language.",
-    "de": "Ein audiovisuelles Medium, das speziell zur Unterstützung des Spracherwerbs entwickelt wurde. Es enthält Übungen, Beispiele und Erklärungen, die das Verständnis und die Anwendung einer neuen Sprache fördern."
+    "de": "Ein audiovisuelles Medium, das speziell zur Unterstützung des Spracherwerbs entwickelt wurde. Es enthält Übungen, Beispiele und Erklärungen, die das Verständnis und die Anwendung einer neuen Sprache fördern.",
+    "en": "An audiovisual medium specifically designed to support language acquisition. It contains exercises, examples, and explanations that promote the understanding and application of a new language."
   },
   "example": {
-    "en": "Pronunciation improvement video, grammar exercises in video form",
-    "de": "Video zur Verbesserung der Aussprache, Grammatikübungen in Videoform"
+    "de": "Video zur Verbesserung der Aussprache, Grammatikübungen in Videoform",
+    "en": "Pronunciation improvement video, grammar exercises in video form"
   },
   "broader": {
     "id": "https://bokahama.github.io/SCRP-Vocab-LRT/VIDEO",
     "prefLabel": {
-      "en": "Video",
-      "de": "Video"
+      "de": "Video",
+      "en": "Video"
     }
   },
   "inScheme": [
     {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/",
       "title": {
-        "en": "Learning Resource Type",
-        "de": "Typ der Lernressource"
+        "de": "Typ der Lernressource",
+        "en": "Learning Resource Type"
       }
     }
   ],
@@ -38,8 +38,8 @@
     {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/",
       "title": {
-        "en": "Learning Resource Type",
-        "de": "Typ der Lernressource"
+        "de": "Typ der Lernressource",
+        "en": "Learning Resource Type"
       }
     }
   ],

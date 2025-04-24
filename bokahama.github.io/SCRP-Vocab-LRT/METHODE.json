@@ -2,8 +2,8 @@
   "id": "https://bokahama.github.io/SCRP-Vocab-LRT/METHODE",
   "type": "Concept",
   "prefLabel": {
-    "en": "Diverse Concept",
-    "de": "Pädagogische Methode"
+    "de": "Pädagogische Methode",
+    "en": "Diverse Concept"
   },
   "altLabel": {
     "de": [
@@ -11,90 +11,90 @@
     ]
   },
   "definition": {
-    "en": "Various teaching methods and concepts that do not fit into a specific category. These can include innovative, experimental, or interdisciplinary approaches.",
-    "de": "Verschiedene Lehrmethoden und Konzepte, die nicht in eine spezifische Kategorie passen. Diese können innovative, experimentelle oder interdisziplinäre Ansätze umfassen."
+    "de": "Verschiedene Lehrmethoden und Konzepte, die nicht in eine spezifische Kategorie passen. Diese können innovative, experimentelle oder interdisziplinäre Ansätze umfassen.",
+    "en": "Various teaching methods and concepts that do not fit into a specific category. These can include innovative, experimental, or interdisciplinary approaches."
   },
   "scopeNote": {
-    "en": [
-      "This term is also used for clustering several more specific terms and as a residual-term. Use more specific descriptors whenever possible."
-    ],
     "de": [
       "Der Wert findet auch als zusammenfassender Kategorien-Wert sowie als Residual-Wert Anwendung. Falls möglich bitte spezifischer indexieren."
+    ],
+    "en": [
+      "This term is also used for clustering several more specific terms and as a residual-term. Use more specific descriptors whenever possible."
     ]
   },
   "example": {
-    "en": "Interdisciplinary project, experimental learning methods",
-    "de": "Interdisziplinäres Projekt, experimentelle Lernmethoden"
+    "de": "Interdisziplinäres Projekt, experimentelle Lernmethoden",
+    "en": "Interdisciplinary project, experimental learning methods"
   },
   "narrower": [
     {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/ENTDECKENDES_LERNEN",
       "prefLabel": {
-        "en": "Discovery Learning",
-        "de": "Entdeckendes Lernen"
+        "de": "Entdeckendes Lernen",
+        "en": "Discovery Learning"
       }
     },
     {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/EXPERIMENT",
       "prefLabel": {
-        "en": "Experiment",
-        "de": "Experiment"
+        "de": "Experiment",
+        "en": "Experiment"
       }
     },
     {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/FALLSTUDIE",
       "prefLabel": {
-        "en": "Case Study",
-        "de": "Fallstudie"
+        "de": "Fallstudie",
+        "en": "Case Study"
       }
     },
     {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/OFFENE_AKTIVITAET",
       "prefLabel": {
-        "en": "Open Activity",
-        "de": "Offene Aktivität"
+        "de": "Offene Aktivität",
+        "en": "Open Activity"
       }
     },
     {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/ROLLENSPIEL",
       "prefLabel": {
-        "en": "Role Play",
-        "de": "Rollenspiel"
+        "de": "Rollenspiel",
+        "en": "Role Play"
       }
     },
     {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/BARCAMP",
       "prefLabel": {
-        "en": "Barcamp",
-        "de": "Barcamp"
+        "de": "Barcamp",
+        "en": "Barcamp"
       }
     },
     {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/GRUPPENARBEIT",
       "prefLabel": {
-        "en": "Group work",
-        "de": "Gruppenarbeit"
+        "de": "Gruppenarbeit",
+        "en": "Group work"
       }
     },
     {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/LERNORT",
       "prefLabel": {
-        "en": "Learning location",
-        "de": "Lernort"
+        "de": "Lernort",
+        "en": "Learning location"
       }
     },
     {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/SOLE",
       "prefLabel": {
-        "en": "Self-organized learning",
-        "de": "Selbstorganisiertes Lernen"
+        "de": "Selbstorganisiertes Lernen",
+        "en": "Self-organized learning"
       }
     },
     {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/STATIONENLERNEN",
       "prefLabel": {
-        "en": "Station learning",
-        "de": "Stationenlernen"
+        "de": "Stationenlernen",
+        "en": "Station learning"
       }
     }
   ],
@@ -102,8 +102,8 @@
     {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/",
       "title": {
-        "en": "Learning Resource Type",
-        "de": "Typ der Lernressource"
+        "de": "Typ der Lernressource",
+        "en": "Learning Resource Type"
       }
     }
   ],
@@ -116,8 +116,8 @@
     {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/",
       "title": {
-        "en": "Learning Resource Type",
-        "de": "Typ der Lernressource"
+        "de": "Typ der Lernressource",
+        "en": "Learning Resource Type"
       }
     }
   ],

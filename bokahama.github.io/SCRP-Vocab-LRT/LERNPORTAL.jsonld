@@ -2,38 +2,38 @@
   "id": "https://bokahama.github.io/SCRP-Vocab-LRT/LERNPORTAL",
   "type": "Concept",
   "prefLabel": {
-    "en": "Learning portal",
-    "de": "Lernportal"
+    "de": "Lernportal",
+    "en": "Learning portal"
   },
   "altLabel": {
-    "en": [
-      "Textbook portal"
-    ],
     "de": [
       "Schulbuch-Portal"
+    ],
+    "en": [
+      "Textbook portal"
     ]
   },
   "definition": {
-    "en": "Online platform that provides, as a central hub, digital learning resources such as textbooks, exercises, courses and other educational materials.",
-    "de": "Online-Plattform, die digitale Lernressourcen wie Schulbücher, Übungen, Kurse und andere Bildungsmaterialien zentral bereitstellt."
+    "de": "Online-Plattform, die digitale Lernressourcen wie Schulbücher, Übungen, Kurse und andere Bildungsmaterialien zentral bereitstellt.",
+    "en": "Online platform that provides, as a central hub, digital learning resources such as textbooks, exercises, courses and other educational materials."
   },
   "example": {
-    "en": "Online learning platform, textbook portal",
-    "de": "Online-Lernplattform, Schulbuch-Portal"
+    "de": "Online-Lernplattform, Schulbuch-Portal",
+    "en": "Online learning platform, textbook portal"
   },
   "broader": {
     "id": "https://bokahama.github.io/SCRP-Vocab-LRT/SONSTIGES",
     "prefLabel": {
-      "en": "Other",
-      "de": "Diverse Medien und Formate"
+      "de": "Diverse Medien und Formate",
+      "en": "Other"
     }
   },
   "inScheme": [
     {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/",
       "title": {
-        "en": "Learning Resource Type",
-        "de": "Typ der Lernressource"
+        "de": "Typ der Lernressource",
+        "en": "Learning Resource Type"
       }
     }
   ],
@@ -46,8 +46,8 @@
     {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/",
       "title": {
-        "en": "Learning Resource Type",
-        "de": "Typ der Lernressource"
+        "de": "Typ der Lernressource",
+        "en": "Learning Resource Type"
       }
     }
   ],

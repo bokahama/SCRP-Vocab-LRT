@@ -2,30 +2,30 @@
   "id": "https://bokahama.github.io/SCRP-Vocab-LRT/BARCAMP",
   "type": "Concept",
   "prefLabel": {
-    "en": "Barcamp",
-    "de": "Barcamp"
+    "de": "Barcamp",
+    "en": "Barcamp"
   },
   "definition": {
-    "en": "A barcamp is an open conference with workshops, whose content and schedule are created by the participants at the beginning of the conference and shaped throughout the event.",
-    "de": "Ein Barcamp ist eine offene Tagung mit Workshops, deren Inhalte und Ablauf von den Teilnehmerinnen und Teilnehmern zu Beginn der Tagung selbst entwickelt und im weiteren Verlauf gestaltet werden."
+    "de": "Ein Barcamp ist eine offene Tagung mit Workshops, deren Inhalte und Ablauf von den Teilnehmerinnen und Teilnehmern zu Beginn der Tagung selbst entwickelt und im weiteren Verlauf gestaltet werden.",
+    "en": "A barcamp is an open conference with workshops, whose content and schedule are created by the participants at the beginning of the conference and shaped throughout the event."
   },
   "example": {
-    "en": "EduCamp, TeachMeet",
-    "de": "EduCamp, TeachMeet"
+    "de": "EduCamp, TeachMeet",
+    "en": "EduCamp, TeachMeet"
   },
   "broader": {
     "id": "https://bokahama.github.io/SCRP-Vocab-LRT/METHODE",
     "prefLabel": {
-      "en": "Diverse Concept",
-      "de": "Pädagogische Methode"
+      "de": "Pädagogische Methode",
+      "en": "Diverse Concept"
     }
   },
   "inScheme": [
     {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/",
       "title": {
-        "en": "Learning Resource Type",
-        "de": "Typ der Lernressource"
+        "de": "Typ der Lernressource",
+        "en": "Learning Resource Type"
       }
     }
   ],
@@ -38,8 +38,8 @@
     {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/",
       "title": {
-        "en": "Learning Resource Type",
-        "de": "Typ der Lernressource"
+        "de": "Typ der Lernressource",
+        "en": "Learning Resource Type"
       }
     }
   ],

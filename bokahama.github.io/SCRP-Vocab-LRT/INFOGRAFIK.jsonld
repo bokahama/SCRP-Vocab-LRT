@@ -2,30 +2,30 @@
   "id": "https://bokahama.github.io/SCRP-Vocab-LRT/INFOGRAFIK",
   "type": "Concept",
   "prefLabel": {
-    "en": "Infographic",
-    "de": "Infografik"
+    "de": "Infografik",
+    "en": "Infographic"
   },
   "definition": {
-    "en": "English translation pending.",
-    "de": "Eine bildliche Darstellung, die komplexe Zusammenhänge und umfangreiches Datenmaterial anschaulich aufbereitet. Infografiken helfen dem Rezipienten, die Daten einfach und schnell zu erfassen, zu verstehen und zu interpretieren."
+    "de": "Eine bildliche Darstellung, die komplexe Zusammenhänge und umfangreiches Datenmaterial anschaulich aufbereitet. Infografiken helfen dem Rezipienten, die Daten einfach und schnell zu erfassen, zu verstehen und zu interpretieren.",
+    "en": "English translation pending."
   },
   "example": {
-    "en": "English translation pending.",
-    "de": "Übersicht zum Kreislauf von Pfandflaschen, Erklär-Grafik zur Lebensmittelkennzeichnung: Was steht auf dem Etikett?"
+    "de": "Übersicht zum Kreislauf von Pfandflaschen, Erklär-Grafik zur Lebensmittelkennzeichnung: Was steht auf dem Etikett?",
+    "en": "English translation pending."
   },
   "broader": {
     "id": "https://bokahama.github.io/SCRP-Vocab-LRT/BILD",
     "prefLabel": {
-      "en": "Image",
-      "de": "Bild"
+      "de": "Bild",
+      "en": "Image"
     }
   },
   "inScheme": [
     {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/",
       "title": {
-        "en": "Learning Resource Type",
-        "de": "Typ der Lernressource"
+        "de": "Typ der Lernressource",
+        "en": "Learning Resource Type"
       }
     }
   ],
@@ -38,8 +38,8 @@
     {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/",
       "title": {
-        "en": "Learning Resource Type",
-        "de": "Typ der Lernressource"
+        "de": "Typ der Lernressource",
+        "en": "Learning Resource Type"
       }
     }
   ],

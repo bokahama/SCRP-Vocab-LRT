@@ -2,38 +2,38 @@
   "id": "https://bokahama.github.io/SCRP-Vocab-LRT/FRAGEBOGEN",
   "type": "Concept",
   "prefLabel": {
-    "en": "Questionnaire",
-    "de": "Fragebogen"
+    "de": "Fragebogen",
+    "en": "Questionnaire"
   },
   "altLabel": {
-    "en": [
-      "Survey"
-    ],
     "de": [
       "Abfrage"
+    ],
+    "en": [
+      "Survey"
     ]
   },
   "definition": {
-    "en": "A data collection instrument that consists of a series of questions to be answered by respondents. It is commonly used in research, market research, and education to gather and analyze information.",
-    "de": "Ein Instrument zur Datenerhebung oder Stimmungsabfrage, das zumeist eine Reihe von Fragen enthält, die von den Befragten beantwortet werden sollen. Es wird häufig in der Forschung, Marktforschung und Bildung verwendet, um Informationen zu sammeln und zu analysieren."
+    "de": "Ein Instrument zur Datenerhebung oder Stimmungsabfrage, das zumeist eine Reihe von Fragen enthält, die von den Befragten beantwortet werden sollen. Es wird häufig in der Forschung, Marktforschung und Bildung verwendet, um Informationen zu sammeln und zu analysieren.",
+    "en": "A data collection instrument that consists of a series of questions to be answered by respondents. It is commonly used in research, market research, and education to gather and analyze information."
   },
   "example": {
-    "en": "Customer satisfaction survey, feedback questionnaire after training",
-    "de": "Umfrage zur Kundenzufriedenheit, Feedback-Fragebogen nach einer Schulung"
+    "de": "Umfrage zur Kundenzufriedenheit, Feedback-Fragebogen nach einer Schulung",
+    "en": "Customer satisfaction survey, feedback questionnaire after training"
   },
   "broader": {
     "id": "https://bokahama.github.io/SCRP-Vocab-LRT/SONSTIGES",
     "prefLabel": {
-      "en": "Other",
-      "de": "Diverse Medien und Formate"
+      "de": "Diverse Medien und Formate",
+      "en": "Other"
     }
   },
   "inScheme": [
     {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/",
       "title": {
-        "en": "Learning Resource Type",
-        "de": "Typ der Lernressource"
+        "de": "Typ der Lernressource",
+        "en": "Learning Resource Type"
       }
     }
   ],
@@ -46,8 +46,8 @@
     {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/",
       "title": {
-        "en": "Learning Resource Type",
-        "de": "Typ der Lernressource"
+        "de": "Typ der Lernressource",
+        "en": "Learning Resource Type"
       }
     }
   ],

@@ -2,12 +2,12 @@
   "id": "https://bokahama.github.io/SCRP-Vocab-LRT/ENTDECKENDES_LERNEN",
   "type": "Concept",
   "prefLabel": {
-    "en": "Discovery Learning",
-    "de": "Entdeckendes Lernen"
+    "de": "Entdeckendes Lernen",
+    "en": "Discovery Learning"
   },
   "definition": {
-    "en": "Discovery learning is a technique of inquiry-based learning and is considered as a constructivist based approach to education. It is also referred to as problem-based learning, experiential learning and 21st century learning.",
-    "de": "Durch virtuelle und reale Handlungen werden neue Dinge entdeckt und gelernt. Der Entdeckergeist und die Neugier werden geweckt und das Lernen ist hierbei der positive Nebeneffekt."
+    "de": "Durch virtuelle und reale Handlungen werden neue Dinge entdeckt und gelernt. Der Entdeckergeist und die Neugier werden geweckt und das Lernen ist hierbei der positive Nebeneffekt.",
+    "en": "Discovery learning is a technique of inquiry-based learning and is considered as a constructivist based approach to education. It is also referred to as problem-based learning, experiential learning and 21st century learning."
   },
   "example": {
     "de": "Spielerische Lernaufträge in der Natur oder in digitalen Räumen, in denen durch Klicken auf Symbole neue Dinge und Fakten entdeckt werden"
@@ -15,16 +15,16 @@
   "broader": {
     "id": "https://bokahama.github.io/SCRP-Vocab-LRT/METHODE",
     "prefLabel": {
-      "en": "Diverse Concept",
-      "de": "Pädagogische Methode"
+      "de": "Pädagogische Methode",
+      "en": "Diverse Concept"
     }
   },
   "inScheme": [
     {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/",
       "title": {
-        "en": "Learning Resource Type",
-        "de": "Typ der Lernressource"
+        "de": "Typ der Lernressource",
+        "en": "Learning Resource Type"
       }
     }
   ],
@@ -37,8 +37,8 @@
     {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/",
       "title": {
-        "en": "Learning Resource Type",
-        "de": "Typ der Lernressource"
+        "de": "Typ der Lernressource",
+        "en": "Learning Resource Type"
       }
     }
   ],

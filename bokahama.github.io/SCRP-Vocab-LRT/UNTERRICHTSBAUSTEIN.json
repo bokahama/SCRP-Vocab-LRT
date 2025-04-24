@@ -2,30 +2,30 @@
   "id": "https://bokahama.github.io/SCRP-Vocab-LRT/UNTERRICHTSBAUSTEIN",
   "type": "Concept",
   "prefLabel": {
-    "en": "Teaching Module",
-    "de": "Unterrichtsbaustein"
+    "de": "Unterrichtsbaustein",
+    "en": "Teaching Module"
   },
   "definition": {
-    "en": "English translation pending.",
-    "de": "Eine kleinere, eigenständige Einheit im Rahmen eines Lehrplans oder einer Unterrichtsstruktur, die aus didaktischen Hinweisen, Beispielen, Texten, Materialien, und/oder Aufgaben besteht."
+    "de": "Eine kleinere, eigenständige Einheit im Rahmen eines Lehrplans oder einer Unterrichtsstruktur, die aus didaktischen Hinweisen, Beispielen, Texten, Materialien, und/oder Aufgaben besteht.",
+    "en": "English translation pending."
   },
   "example": {
-    "en": "English translation pending.",
-    "de": "Unterrichtsmodul, Themenblock, Unterrichtseinheit"
+    "de": "Unterrichtsmodul, Themenblock, Unterrichtseinheit",
+    "en": "English translation pending."
   },
   "broader": {
     "id": "https://bokahama.github.io/SCRP-Vocab-LRT/UNTERRICHTSPLANUNG",
     "prefLabel": {
-      "en": "Lesson Planning",
-      "de": "Unterrichtsplanung"
+      "de": "Unterrichtsplanung",
+      "en": "Lesson Planning"
     }
   },
   "inScheme": [
     {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/",
       "title": {
-        "en": "Learning Resource Type",
-        "de": "Typ der Lernressource"
+        "de": "Typ der Lernressource",
+        "en": "Learning Resource Type"
       }
     }
   ],
@@ -38,8 +38,8 @@
     {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/",
       "title": {
-        "en": "Learning Resource Type",
-        "de": "Typ der Lernressource"
+        "de": "Typ der Lernressource",
+        "en": "Learning Resource Type"
       }
     }
   ],

@@ -2,66 +2,66 @@
   "id": "https://bokahama.github.io/SCRP-Vocab-LRT/UNTERRICHTSPLANUNG",
   "type": "Concept",
   "prefLabel": {
-    "en": "Lesson Planning",
-    "de": "Unterrichtsplanung"
+    "de": "Unterrichtsplanung",
+    "en": "Lesson Planning"
   },
   "definition": {
-    "en": "English translation pending.",
-    "de": "Alle didaktischen und pädagogischen Überlegungen zur Vorbereitung einer Unterrichtsstunde oder Unterrichtseinheit."
+    "de": "Alle didaktischen und pädagogischen Überlegungen zur Vorbereitung einer Unterrichtsstunde oder Unterrichtseinheit.",
+    "en": "English translation pending."
   },
   "scopeNote": {
-    "en": [
-      "This term is also used for clustering several more specific terms and as a residual-term. Use more specific descriptors whenever possible."
-    ],
     "de": [
       "Der Wert findet auch als zusammenfassender Kategorien-Wert sowie als Residual-Wert Anwendung. Falls möglich bitte spezifischer indexieren."
+    ],
+    "en": [
+      "This term is also used for clustering several more specific terms and as a residual-term. Use more specific descriptors whenever possible."
     ]
   },
   "example": {
-    "en": "English translation pending.",
-    "de": "Unterrichtsidee, Checkliste"
+    "de": "Unterrichtsidee, Checkliste",
+    "en": "English translation pending."
   },
   "narrower": [
     {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/LEHRPLANREFERENZ",
       "prefLabel": {
-        "en": "Curriculum reference",
-        "de": "Lehrplanreferenz"
+        "de": "Lehrplanreferenz",
+        "en": "Curriculum reference"
       }
     },
     {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/LERNKONTROLLE",
       "prefLabel": {
-        "en": "Learning assesment",
-        "de": "Lernkontrolle"
+        "de": "Lernkontrolle",
+        "en": "Learning assesment"
       }
     },
     {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/LOESUNG",
       "prefLabel": {
-        "en": "Solution",
-        "de": "Lösung"
+        "de": "Lösung",
+        "en": "Solution"
       }
     },
     {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/TEST",
       "prefLabel": {
-        "en": "Translation pending",
-        "de": "Prüfung"
+        "de": "Prüfung",
+        "en": "Translation pending"
       }
     },
     {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/UNTERRICHTSBAUSTEIN",
       "prefLabel": {
-        "en": "Teaching Module",
-        "de": "Unterrichtsbaustein"
+        "de": "Unterrichtsbaustein",
+        "en": "Teaching Module"
       }
     },
     {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/UNTERRICHTSIDEE",
       "prefLabel": {
-        "en": "Teaching Idea",
-        "de": "Unterrichtsidee"
+        "de": "Unterrichtsidee",
+        "en": "Teaching Idea"
       }
     }
   ],
@@ -69,8 +69,8 @@
     {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/",
       "title": {
-        "en": "Learning Resource Type",
-        "de": "Typ der Lernressource"
+        "de": "Typ der Lernressource",
+        "en": "Learning Resource Type"
       }
     }
   ],
@@ -83,8 +83,8 @@
     {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/",
       "title": {
-        "en": "Learning Resource Type",
-        "de": "Typ der Lernressource"
+        "de": "Typ der Lernressource",
+        "en": "Learning Resource Type"
       }
     }
   ],

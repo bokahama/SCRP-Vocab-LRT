@@ -2,38 +2,38 @@
   "id": "https://bokahama.github.io/SCRP-Vocab-LRT/MEDIENPAKET",
   "type": "Concept",
   "prefLabel": {
-    "en": "Media Package",
-    "de": "Medienpaket"
+    "de": "Medienpaket",
+    "en": "Media Package"
   },
   "altLabel": {
-    "en": [
-      "Collection"
-    ],
     "de": [
       "Mediensammlung"
+    ],
+    "en": [
+      "Collection"
     ]
   },
   "definition": {
-    "en": "A media package is a coherent collection of media contents distributed as a single unit. It can include various media formats and contents intended to be used together.",
-    "de": "Ein Medienpaket ist eine zusammengehörige Sammlung von Medieninhalten, die als Einheit verteilt oder zusammenhängend (online) dargestellt wird. Es kann verschiedene Medienformate und -inhalte enthalten, die gemeinsam verwendet werden sollen."
+    "de": "Ein Medienpaket ist eine zusammengehörige Sammlung von Medieninhalten, die als Einheit verteilt oder zusammenhängend (online) dargestellt wird. Es kann verschiedene Medienformate und -inhalte enthalten, die gemeinsam verwendet werden sollen.",
+    "en": "A media package is a coherent collection of media contents distributed as a single unit. It can include various media formats and contents intended to be used together."
   },
   "example": {
-    "en": "Multimedia package, learning package, presentation package",
-    "de": "Web-DVD (055er), Multimedia-Paket, Lernpaket, Präsentationspaket"
+    "de": "Web-DVD (055er), Multimedia-Paket, Lernpaket, Präsentationspaket",
+    "en": "Multimedia package, learning package, presentation package"
   },
   "broader": {
     "id": "https://bokahama.github.io/SCRP-Vocab-LRT/VIDEO",
     "prefLabel": {
-      "en": "Video",
-      "de": "Video"
+      "de": "Video",
+      "en": "Video"
     }
   },
   "inScheme": [
     {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/",
       "title": {
-        "en": "Learning Resource Type",
-        "de": "Typ der Lernressource"
+        "de": "Typ der Lernressource",
+        "en": "Learning Resource Type"
       }
     }
   ],
@@ -46,8 +46,8 @@
     {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/",
       "title": {
-        "en": "Learning Resource Type",
-        "de": "Typ der Lernressource"
+        "de": "Typ der Lernressource",
+        "en": "Learning Resource Type"
       }
     }
   ],

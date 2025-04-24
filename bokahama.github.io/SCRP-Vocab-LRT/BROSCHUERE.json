@@ -2,30 +2,30 @@
   "id": "https://bokahama.github.io/SCRP-Vocab-LRT/BROSCHUERE",
   "type": "Concept",
   "prefLabel": {
-    "en": "Brochure",
-    "de": "Broschüre"
+    "de": "Broschüre",
+    "en": "Brochure"
   },
   "definition": {
-    "en": "English translation pending.",
-    "de": "Eine mehrseitige textliche Zusammenfassung, die, ausführlicher als beim Flyer, Auskünfte zu einem Thema gibt und die Leserinnen und Leser informiert."
+    "de": "Eine mehrseitige textliche Zusammenfassung, die, ausführlicher als beim Flyer, Auskünfte zu einem Thema gibt und die Leserinnen und Leser informiert.",
+    "en": "English translation pending."
   },
   "example": {
-    "en": "English translation pending.",
-    "de": "Broschüre, Sicherheitshinweise, Sachinformationen"
+    "de": "Broschüre, Sicherheitshinweise, Sachinformationen",
+    "en": "English translation pending."
   },
   "broader": {
     "id": "https://bokahama.github.io/SCRP-Vocab-LRT/TEXT",
     "prefLabel": {
-      "en": "Text",
-      "de": "Text"
+      "de": "Text",
+      "en": "Text"
     }
   },
   "inScheme": [
     {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/",
       "title": {
-        "en": "Learning Resource Type",
-        "de": "Typ der Lernressource"
+        "de": "Typ der Lernressource",
+        "en": "Learning Resource Type"
       }
     }
   ],
@@ -38,8 +38,8 @@
     {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/",
       "title": {
-        "en": "Learning Resource Type",
-        "de": "Typ der Lernressource"
+        "de": "Typ der Lernressource",
+        "en": "Learning Resource Type"
       }
     }
   ],

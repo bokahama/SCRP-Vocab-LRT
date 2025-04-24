@@ -2,97 +2,97 @@
   "id": "https://bokahama.github.io/SCRP-Vocab-LRT/SONSTIGES",
   "type": "Concept",
   "prefLabel": {
-    "en": "Other",
-    "de": "Diverse Medien und Formate"
+    "de": "Diverse Medien und Formate",
+    "en": "Other"
   },
   "definition": {
-    "en": "Records that could not be allocated to any other learning resource type.",
-    "de": "Residualkategorie für Datensätze, die keinem anderen Lernressourcentyp zugeordnet werden können. Wird zugleich auch als Kategorien-Wert für die Zusammenfassung verschiedener Medientypen verwendet."
+    "de": "Residualkategorie für Datensätze, die keinem anderen Lernressourcentyp zugeordnet werden können. Wird zugleich auch als Kategorien-Wert für die Zusammenfassung verschiedener Medientypen verwendet.",
+    "en": "Records that could not be allocated to any other learning resource type."
   },
   "scopeNote": {
-    "en": [
-      "This term is especially used for clustering several more specific terms and as a residual-term. Use more specific descriptors whenever possible."
-    ],
     "de": [
       "Der Wert findet insbesondere als zusammenfassender Kategorien-Wert sowie als Residual-Wert Anwendung. Falls möglich bitte spezifischer indexieren."
+    ],
+    "en": [
+      "This term is especially used for clustering several more specific terms and as a residual-term. Use more specific descriptors whenever possible."
     ]
   },
   "narrower": [
     {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/DATEN",
       "prefLabel": {
-        "en": "Data",
-        "de": "Daten"
+        "de": "Daten",
+        "en": "Data"
       }
     },
     {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/FRAGEBOGEN",
       "prefLabel": {
-        "en": "Questionnaire",
-        "de": "Fragebogen"
+        "de": "Fragebogen",
+        "en": "Questionnaire"
       }
     },
     {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/GLOSSAR",
       "prefLabel": {
-        "en": "Glossary",
-        "de": "Glossar"
+        "de": "Glossar",
+        "en": "Glossary"
       }
     },
     {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/INTERAKTION",
       "prefLabel": {
-        "en": "Interactive Medium",
-        "de": "Interaktives Medium"
+        "de": "Interaktives Medium",
+        "en": "Interactive Medium"
       }
     },
     {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/KURS",
       "prefLabel": {
-        "en": "Course",
-        "de": "Kurs"
+        "de": "Kurs",
+        "en": "Course"
       }
     },
     {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/LERNPORTAL",
       "prefLabel": {
-        "en": "Learning portal",
-        "de": "Lernportal"
+        "de": "Lernportal",
+        "en": "Learning portal"
       }
     },
     {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/MODELL",
       "prefLabel": {
-        "en": "Model",
-        "de": "Modell"
+        "de": "Modell",
+        "en": "Model"
       }
     },
     {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/PRAESENTATION",
       "prefLabel": {
-        "en": "Presentation",
-        "de": "Präsentation"
+        "de": "Präsentation",
+        "en": "Presentation"
       }
     },
     {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/QUELLE",
       "prefLabel": {
-        "en": "reference",
-        "de": "Primärmaterial/Quelle"
+        "de": "Primärmaterial/Quelle",
+        "en": "reference"
       }
     },
     {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/VERANSCHAULICHUNG",
       "prefLabel": {
-        "en": "Demonstration",
-        "de": "Veranschaulichung"
+        "de": "Veranschaulichung",
+        "en": "Demonstration"
       }
     },
     {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/WEBSEITE",
       "prefLabel": {
-        "en": "Website",
-        "de": "Webseite"
+        "de": "Webseite",
+        "en": "Website"
       }
     }
   ],
@@ -100,8 +100,8 @@
     {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/",
       "title": {
-        "en": "Learning Resource Type",
-        "de": "Typ der Lernressource"
+        "de": "Typ der Lernressource",
+        "en": "Learning Resource Type"
       }
     }
   ],
@@ -114,8 +114,8 @@
     {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/",
       "title": {
-        "en": "Learning Resource Type",
-        "de": "Typ der Lernressource"
+        "de": "Typ der Lernressource",
+        "en": "Learning Resource Type"
       }
     }
   ],

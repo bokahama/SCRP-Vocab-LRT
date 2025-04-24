@@ -2,30 +2,30 @@
   "id": "https://bokahama.github.io/SCRP-Vocab-LRT/MUSIKNOTEN",
   "type": "Concept",
   "prefLabel": {
-    "en": "muscial notes",
-    "de": "Musiknoten"
+    "de": "Musiknoten",
+    "en": "muscial notes"
   },
   "definition": {
-    "en": "English translation pending.",
-    "de": "Jede Verschriftlichung von Musikstücken oder ganze Transkriptionen von musikalischen Werken."
+    "de": "Jede Verschriftlichung von Musikstücken oder ganze Transkriptionen von musikalischen Werken.",
+    "en": "English translation pending."
   },
   "example": {
-    "en": "English translation pending.",
-    "de": "Weihnachtslieder inkl. Liedtext und Noten, ausdruckbare Noten eines Stückes zur Musiklehre"
+    "de": "Weihnachtslieder inkl. Liedtext und Noten, ausdruckbare Noten eines Stückes zur Musiklehre",
+    "en": "English translation pending."
   },
   "broader": {
     "id": "https://bokahama.github.io/SCRP-Vocab-LRT/TEXT",
     "prefLabel": {
-      "en": "Text",
-      "de": "Text"
+      "de": "Text",
+      "en": "Text"
     }
   },
   "inScheme": [
     {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/",
       "title": {
-        "en": "Learning Resource Type",
-        "de": "Typ der Lernressource"
+        "de": "Typ der Lernressource",
+        "en": "Learning Resource Type"
       }
     }
   ],
@@ -38,8 +38,8 @@
     {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/",
       "title": {
-        "en": "Learning Resource Type",
-        "de": "Typ der Lernressource"
+        "de": "Typ der Lernressource",
+        "en": "Learning Resource Type"
       }
     }
   ],

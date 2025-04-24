@@ -2,12 +2,12 @@
   "id": "https://bokahama.github.io/SCRP-Vocab-LRT/VERANSCHAULICHUNG",
   "type": "Concept",
   "prefLabel": {
-    "en": "Demonstration",
-    "de": "Veranschaulichung"
+    "de": "Veranschaulichung",
+    "en": "Demonstration"
   },
   "definition": {
-    "en": "English translation pending.",
-    "de": "Definition?"
+    "de": "Definition?",
+    "en": "English translation pending."
   },
   "note": {
     "de": [
@@ -17,16 +17,16 @@
   "broader": {
     "id": "https://bokahama.github.io/SCRP-Vocab-LRT/SONSTIGES",
     "prefLabel": {
-      "en": "Other",
-      "de": "Diverse Medien und Formate"
+      "de": "Diverse Medien und Formate",
+      "en": "Other"
     }
   },
   "inScheme": [
     {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/",
       "title": {
-        "en": "Learning Resource Type",
-        "de": "Typ der Lernressource"
+        "de": "Typ der Lernressource",
+        "en": "Learning Resource Type"
       }
     }
   ],
@@ -39,8 +39,8 @@
     {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/",
       "title": {
-        "en": "Learning Resource Type",
-        "de": "Typ der Lernressource"
+        "de": "Typ der Lernressource",
+        "en": "Learning Resource Type"
       }
     }
   ],

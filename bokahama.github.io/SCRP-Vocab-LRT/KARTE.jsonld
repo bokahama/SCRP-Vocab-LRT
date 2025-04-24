@@ -2,8 +2,8 @@
   "id": "https://bokahama.github.io/SCRP-Vocab-LRT/KARTE",
   "type": "Concept",
   "prefLabel": {
-    "en": "Map",
-    "de": "Karte"
+    "de": "Karte",
+    "en": "Map"
   },
   "altLabel": {
     "de": [
@@ -11,26 +11,26 @@
     ]
   },
   "definition": {
-    "en": "English translation pending.",
-    "de": "Abbildung von raumbezogenen Gegenständen, Sachverhalten oder Prozessen, die maßstäblich abstrahiert, oft verkleinert und mithilfe eines Zeichensystems grafisch dargestellt werden."
+    "de": "Abbildung von raumbezogenen Gegenständen, Sachverhalten oder Prozessen, die maßstäblich abstrahiert, oft verkleinert und mithilfe eines Zeichensystems grafisch dargestellt werden.",
+    "en": "English translation pending."
   },
   "example": {
-    "en": "English translation pending.",
-    "de": "Geografische Karte zur Alpenkette, Karte zu Bayern mit den Regierungsbezirken"
+    "de": "Geografische Karte zur Alpenkette, Karte zu Bayern mit den Regierungsbezirken",
+    "en": "English translation pending."
   },
   "broader": {
     "id": "https://bokahama.github.io/SCRP-Vocab-LRT/BILD",
     "prefLabel": {
-      "en": "Image",
-      "de": "Bild"
+      "de": "Bild",
+      "en": "Image"
     }
   },
   "inScheme": [
     {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/",
       "title": {
-        "en": "Learning Resource Type",
-        "de": "Typ der Lernressource"
+        "de": "Typ der Lernressource",
+        "en": "Learning Resource Type"
       }
     }
   ],
@@ -43,8 +43,8 @@
     {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/",
       "title": {
-        "en": "Learning Resource Type",
-        "de": "Typ der Lernressource"
+        "de": "Typ der Lernressource",
+        "en": "Learning Resource Type"
       }
     }
   ],

@@ -2,12 +2,12 @@
   "id": "https://bokahama.github.io/SCRP-Vocab-LRT/FALLSTUDIE",
   "type": "Concept",
   "prefLabel": {
-    "en": "Case Study",
-    "de": "Fallstudie"
+    "de": "Fallstudie",
+    "en": "Case Study"
   },
   "definition": {
-    "en": "A case study is an in-depth, detailed examination of a particular case (or cases) within a real-world context.",
-    "de": "Untersuchung einer bestimmten Situation, einer Person oder eines Themas."
+    "de": "Untersuchung einer bestimmten Situation, einer Person oder eines Themas.",
+    "en": "A case study is an in-depth, detailed examination of a particular case (or cases) within a real-world context."
   },
   "example": {
     "de": "Präsentation zum pädagogischen Einsatz von Tablets an schweizerischen Primarschulen, Analyse der Konfliktsituation in einem Unternehmen etc."
@@ -15,16 +15,16 @@
   "broader": {
     "id": "https://bokahama.github.io/SCRP-Vocab-LRT/METHODE",
     "prefLabel": {
-      "en": "Diverse Concept",
-      "de": "Pädagogische Methode"
+      "de": "Pädagogische Methode",
+      "en": "Diverse Concept"
     }
   },
   "inScheme": [
     {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/",
       "title": {
-        "en": "Learning Resource Type",
-        "de": "Typ der Lernressource"
+        "de": "Typ der Lernressource",
+        "en": "Learning Resource Type"
       }
     }
   ],
@@ -37,8 +37,8 @@
     {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/",
       "title": {
-        "en": "Learning Resource Type",
-        "de": "Typ der Lernressource"
+        "de": "Typ der Lernressource",
+        "en": "Learning Resource Type"
       }
     }
   ],
