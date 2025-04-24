@@ -33,17 +33,17 @@
   },
   "narrower": [
     {
-      "id": "https://bokahama.github.io/SCRP-Vocab-LRT/MEDIENPAKET",
-      "prefLabel": {
-        "en": "Media Package",
-        "de": "Medienpaket"
-      }
-    },
-    {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/ERKLAERVIDEO",
       "prefLabel": {
         "en": "Tutorial",
         "de": "Erklärvideo"
+      }
+    },
+    {
+      "id": "https://bokahama.github.io/SCRP-Vocab-LRT/MEDIENPAKET",
+      "prefLabel": {
+        "en": "Media Package",
+        "de": "Medienpaket"
       }
     },
     {

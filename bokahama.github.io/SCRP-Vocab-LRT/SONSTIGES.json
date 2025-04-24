@@ -26,6 +26,13 @@
       }
     },
     {
+      "id": "https://bokahama.github.io/SCRP-Vocab-LRT/FRAGEBOGEN",
+      "prefLabel": {
+        "en": "Questionnaire",
+        "de": "Fragebogen"
+      }
+    },
+    {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/GLOSSAR",
       "prefLabel": {
         "en": "Glossary",
@@ -47,10 +54,24 @@
       }
     },
     {
+      "id": "https://bokahama.github.io/SCRP-Vocab-LRT/LERNPORTAL",
+      "prefLabel": {
+        "en": "Learning portal",
+        "de": "Lernportal"
+      }
+    },
+    {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/MODELL",
       "prefLabel": {
         "en": "Model",
         "de": "Modell"
+      }
+    },
+    {
+      "id": "https://bokahama.github.io/SCRP-Vocab-LRT/PRAESENTATION",
+      "prefLabel": {
+        "en": "Presentation",
+        "de": "Präsentation"
       }
     },
     {
@@ -72,27 +93,6 @@
       "prefLabel": {
         "en": "Website",
         "de": "Webseite"
-      }
-    },
-    {
-      "id": "https://bokahama.github.io/SCRP-Vocab-LRT/FRAGEBOGEN",
-      "prefLabel": {
-        "en": "Questionnaire",
-        "de": "Fragebogen"
-      }
-    },
-    {
-      "id": "https://bokahama.github.io/SCRP-Vocab-LRT/LERNPORTAL",
-      "prefLabel": {
-        "en": "Learning portal",
-        "de": "Lernportal"
-      }
-    },
-    {
-      "id": "https://bokahama.github.io/SCRP-Vocab-LRT/PRAESENTATION",
-      "prefLabel": {
-        "en": "Presentation",
-        "de": "Präsentation"
       }
     }
   ],

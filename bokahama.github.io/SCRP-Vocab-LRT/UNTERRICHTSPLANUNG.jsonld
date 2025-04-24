@@ -23,10 +23,24 @@
   },
   "narrower": [
     {
+      "id": "https://bokahama.github.io/SCRP-Vocab-LRT/LEHRPLANREFERENZ",
+      "prefLabel": {
+        "en": "Curriculum reference",
+        "de": "Lehrplanreferenz"
+      }
+    },
+    {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/LERNKONTROLLE",
       "prefLabel": {
         "en": "Learning assesment",
         "de": "Lernkontrolle"
+      }
+    },
+    {
+      "id": "https://bokahama.github.io/SCRP-Vocab-LRT/LOESUNG",
+      "prefLabel": {
+        "en": "Solution",
+        "de": "Lösung"
       }
     },
     {
@@ -41,20 +55,6 @@
       "prefLabel": {
         "en": "Teaching Module",
         "de": "Unterrichtsbaustein"
-      }
-    },
-    {
-      "id": "https://bokahama.github.io/SCRP-Vocab-LRT/LEHRPLANREFERENZ",
-      "prefLabel": {
-        "en": "Curriculum reference",
-        "de": "Lehrplanreferenz"
-      }
-    },
-    {
-      "id": "https://bokahama.github.io/SCRP-Vocab-LRT/LOESUNG",
-      "prefLabel": {
-        "en": "Solution",
-        "de": "Lösung"
       }
     },
     {

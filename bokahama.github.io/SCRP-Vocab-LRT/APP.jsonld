@@ -33,13 +33,6 @@
   },
   "narrower": [
     {
-      "id": "https://bokahama.github.io/SCRP-Vocab-LRT/LERNSPIEL",
-      "prefLabel": {
-        "en": "Educational Game",
-        "de": "Lernspiel"
-      }
-    },
-    {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/SOFTWARE",
       "prefLabel": {
         "en": "Software",
@@ -47,10 +40,10 @@
       }
     },
     {
-      "id": "https://bokahama.github.io/SCRP-Vocab-LRT/WEBTOOL",
+      "id": "https://bokahama.github.io/SCRP-Vocab-LRT/LERNSPIEL",
       "prefLabel": {
-        "en": "Webtool",
-        "de": "Webtool"
+        "en": "Educational Game",
+        "de": "Lernspiel"
       }
     },
     {
@@ -58,6 +51,13 @@
       "prefLabel": {
         "en": "APP",
         "de": "Methodische APP"
+      }
+    },
+    {
+      "id": "https://bokahama.github.io/SCRP-Vocab-LRT/WEBTOOL",
+      "prefLabel": {
+        "en": "Webtool",
+        "de": "Webtool"
       }
     }
   ],
