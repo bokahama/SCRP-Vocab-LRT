@@ -299,7 +299,7 @@ skos:definition " Dokument oder sonstige Darstellung, welche die richtigen Antwo
 skos:definition "A document, that  contains the correct answers or steps to solve a problem or task. It serves as a reference for students to check their own solutions."@en ;
 skos:example "Lösungsblatt für eine Mathematikaufgabe, Lösung eines Rätsels"@de ;
 skos:example "Solution sheet for a math problem, solution to a puzzle"@en ;
-skos:topConceptOf <> .
+skos:topConceptOf <UNTERRICHTSPLANUNG> .
 
 <MEDIENPAKET> a skos:Concept ;
     skos:prefLabel "Medienpaket"@de, "Media Package"@en ;
@@ -353,7 +353,7 @@ skos:definition "Jede Verschriftlichung von Musikstücken oder ganze Transkripti
 skos:definition "English translation pending."@en ;
 skos:example "Weihnachtslieder inkl. Liedtext und Noten, ausdruckbare Noten eines Stückes zur Musiklehre"@de ;
 skos:example "English translation pending."@en ;
-skos:topConceptOf <> .
+skos:topConceptOf <NOTATION> .
 
 <OFFENE_AKTIVITAET> a skos:Concept ;
 skos:prefLabel "Offene Aktivität"@de ;
@@ -483,7 +483,7 @@ skos:prefLabel "Other"@en ;
 skos:definition "Residualkategorie für Datensätze, die keinem anderen Lernressourcentyp zugeordnet werden können. Wird zugleich auch als Kategorien-Wert für die Zusammenfassung verschiedener Medientypen verwendet."@de ;
 skos:scopeNote "Der Wert findet insbesondere als zusammenfassender Kategorien-Wert sowie als Residual-Wert Anwendung. Falls möglich bitte spezifischer indexieren."@de, "This term is especially used for clustering several more specific terms and as a residual-term. Use more specific descriptors whenever possible."@en ;
 skos:definition "Records that could not be allocated to any other learning resource type."@en ;
-skos:narrower <FRAGEBOGEN>, <INTERAKTION>, <KURS>, <LERNPORTAL>, <MODELL>, <PRAESENTATION>, <QUELLE>, <DATEN>, <VERANSCHAULICHUNG>, <WEBSEITE>, <GLOSSAR> ;
+skos:narrower <FRAGEBOGEN>, <KURS>, <LERNPORTAL>, <MODELL>, <PRAESENTATION>, <QUELLE>, <DATEN>, <VERANSCHAULICHUNG>, <WEBSEITE>, <GLOSSAR> ;
 skos:topConceptOf <> .
 
 <SPRACHLERNVIDEO> a skos:Concept ;
