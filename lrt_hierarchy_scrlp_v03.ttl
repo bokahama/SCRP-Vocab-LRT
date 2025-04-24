@@ -16,7 +16,7 @@ dct:created "2025-04-09"^^xsd:date;
 dct:modified "2025-04-09"^^xsd:date;
 dct:issued "2025-04-09"^^xsd:date;
 dct:license <https://creativecommons.org/licenses/by-sa/4.0/> ;
-skos:hasTopConcept <APP>, <ARBEITSBLATT>, <AUDIO>, <BILD>, <ENTDECKENDES_LERNEN>, <EXPERIMENT>, <EXPERTE>, <FALLSTUDIE>, <LEHRBUCH>, <OFFENE_AKTIVITAET>, <PROJECT>, <RADIO_TV>, <RECHERCHE_AUFTRAG>, <ROLLENSPIEL>, <SOFTWARE>, <SONSTIGES>, <TEXT>, <UNTERRICHTSPLANUNG>, <VIDEO>, <BARCAMP>, <METHODE>, <GRUPPENARBEIT>, <LERNAUFGABE>, <LERNORT>, <SELBSTEVALUATION>, <SOLE>, <STATIONENLERNEN>, <VIRTUAL_REALITY_AUGMENTED_REALITY> .
+skos:hasTopConcept <APP>, <ARBEITSBLATT>, <AUDIO>, <BILD>, <ENTDECKENDES_LERNEN>, <EXPERIMENT>, <EXPERTE>, <FALLSTUDIE>, <LEHRBUCH>, <OFFENE_AKTIVITAET>, <PROJECT>, <RADIO_TV>, <RECHERCHE_AUFTRAG>, <ROLLENSPIEL>, <SONSTIGES>, <TEXT>, <UNTERRICHTSPLANUNG>, <VIDEO>, <BARCAMP>, <METHODE>, <GRUPPENARBEIT>, <LERNAUFGABE>, <LERNORT>, <SELBSTEVALUATION>, <SOLE>, <STATIONENLERNEN>, <VIRTUAL_REALITY_AUGMENTED_REALITY> .
 
 <ANLEITUNG> a skos:Concept ;
 skos:prefLabel "Anleitung"@de, "Instruction manual"@en ;
@@ -280,7 +280,7 @@ skos:definition "Lernmaterial, bei dem der spielerische Aspekt nach definierten 
 skos:definition "English translation pending."@en ;
 skos:example "Vokabel-Lernspiele, Lernspiel, welches die Reflexe trainiert, Quiz, Rätsel, Memory"@de ;
 skos:example "English translation pending."@en ;
-skos:topConceptOf <> .
+skos:topConceptOf <APP> .
 
 <LERNPORTAL> a skos:Concept ;
 skos:prefLabel "Lernportal"@de, "Learning portal"@en ;
@@ -334,7 +334,7 @@ skos:topConceptOf <> .
 skos:prefLabel "Methodische APP"@de, "APP"@en ;
 skos:definition "ACHTUNG: Exakte Bedeutung noch klären mit WLO. Abgrenzung zu Lernspiel. VORSCHLAG: Anwendung oder Programm, das speziell entwickelt wurde, um Lernenden bestimmte Lerninhalte zu vermitteln oder Kompetenzen zu entwickeln. Kann als App oder als webbasierte Anwendung verfügbar sein."@de ;
 skos:example "App zum Üben von Vokabeln, Adaptives, intelligentes tutorielles System (AIS)."@de ;
-skos:topConceptOf <> .
+skos:topConceptOf <APP> .
 
 <MODELL> a skos:Concept ;
 skos:prefLabel "Modell"@de ;
@@ -474,7 +474,7 @@ skos:prefLabel "Software"@en ;
 skos:definition "In Abgrenzung und als Teilmenge von APPs werden unter Software solche Applikationen zusammengefasst, die explizit auf Desktop-Computern installiert werden müssen. Software für mobile Endgeräte welche unmittelbar über die APP-Stores der Hersteller installiert werden kann, wird hingegen als APP kategorisiert."@de ;
 skos:definition "English translation pending."@en ;
 skos:note "In SODIX nicht mehr verwendet, dort bitte 'App' verwenden."@de ;
-skos:topConceptOf <> .
+skos:topConceptOf <APP> .
 
 <SONSTIGES> a skos:Concept ;
 skos:prefLabel "Diverse Medien und Formate"@de ;
@@ -617,7 +617,7 @@ skos:definition "Ein Webtool ist Software, das geräteunabhängig über Internet
 skos:definition "English translation pending."@en ;
 skos:example "Quiz-Ersteller, QR-Code-Generator, PDF-Konverter, Zeichenprogramm"@de ;
 skos:example "English translation pending."@en ;
-skos:topConceptOf <> .
+skos:topConceptOf <APP> .
 
 <WORTLISTE> a skos:Concept ;
 skos:prefLabel "Wortliste"@de, "wordlist"@en ;
