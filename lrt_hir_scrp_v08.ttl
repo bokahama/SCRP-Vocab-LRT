@@ -290,7 +290,7 @@ skos:definition "Online-Plattform, die digitale Lernressourcen wie Schulbücher,
 skos:definition "Online platform that provides, as a central hub, digital learning resources such as textbooks, exercises, courses and other educational materials."@en ;
 skos:example "Online-Lernplattform, Schulbuch-Portal"@de ;
 skos:example "Online learning platform, textbook portal"@en ;
-skos:topConceptOf <> .
+skos:topConceptOf <SONSTIGES> .
 
 <LOESUNG> a skos:Concept ;
 skos:prefLabel "Lösung"@de, "Solution"@en ;
