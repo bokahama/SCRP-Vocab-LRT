@@ -56,6 +56,7 @@ skos:definition "A document that contains exercises, with which one can practise
 skos:example "Arbeitsblatt, Lösungsblatt, Übung, Aufgabenblatt"@de ;
 skos:example "Worksheet, solutionsheet, exercise, task sheet"@en ;
 skos:note: "Wenn andere Infos zusätzlich enthalten sind, entscheidet der Redakteur, welcher Lernressourcentyp überwiegt. Bei Bedarf zusätzliche Lernressourcentypen vergeben."@de ;
+skos:broader <AUFGABE_UEBUNG> ;
 skos:inScheme <> ; .
 
 <AUDIO> a skos:Concept ;
@@ -277,7 +278,8 @@ skos:inScheme <> ; .
     skos:definition "A learning task is a specific task or activity aimed at achieving particular learning objectives. It can take various forms, such as exercises, projects, research tasks, or practical applications. Learning tasks are often structured and provide clear instructions and goals to help learners acquire new skills and knowledge."@en ;
     skos:example "Matheübung, Projektarbeit, Forschungsaufgabe"@de ;
     skos:example "Math exercise, project work, research task"@en ;
-skos:inScheme <> ; .
+    skos:broader <AUFGABE_UEBUNG> ;
+	skos:inScheme <> ; .
 
 <LERNKONTROLLE> a skos:Concept ;
 skos:prefLabel "Lernkontrolle"@de, "Learning assesment"@en ;
@@ -532,7 +534,7 @@ skos:definition "Eine visuelle Darstellung von Lerninhalten oder Ergebnissen, di
 skos:definition "A visual representation of learning content or results that is recorded on a blackboard or another medium. It serves to document and review the lesson."@en ;
 skos:example "Tafelbild zur Erklärung eines mathematischen Konzepts, Dokumentation der Lernergebnisse"@de ;
 skos:example "Blackboard image explaining a mathematical concept, documentation of learning outcomes"@en ;
-skos:inScheme <> ; .
+skos:topConceptOf <> .
 
 <TEST> a skos:Concept ;
 skos:prefLabel "Prüfung"@de ;
@@ -570,6 +572,7 @@ skos:definition "Üben ist ein methodisch wiederholtes Handeln, das insbesondere
 skos:definition "English translation pending."@en ;
 skos:example "Selbstkorrigierende Konjugationsübungen, Mathematikübungen, Stimmaufwärmungsübungen, Volleyballaufschlagübungen"@de ;
 skos:example "English translation pending."@en ;
+skos:broader <AUFGABE_UEBUNG> ;
 skos:inScheme <> ; .
 
 <UNTERRICHTSBAUSTEIN> a skos:Concept ;
