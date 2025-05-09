@@ -25,7 +25,7 @@ skos:definition "Eine Anleitung oder Leitfaden kann entweder eine schriftliche E
 skos:definition "English translation pending."@en ;
 skos:example "Leitfaden für die Durchführung von Zeitzeugengesprächen mit Hinweisen und Fragestellungen, Bauanleitung, Bastelanleitung"@de ;
 skos:example "English translation pending."@en ;
-skos:topConceptOf <NOTATION> .
+skos:inScheme <> ; .
 
 <APP> a skos:Concept ;
 skos:prefLabel "App"@de, "App"@en ;
