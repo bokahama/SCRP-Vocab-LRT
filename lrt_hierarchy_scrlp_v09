@@ -532,7 +532,7 @@ skos:definition "Eine visuelle Darstellung von Lerninhalten oder Ergebnissen, di
 skos:definition "A visual representation of learning content or results that is recorded on a blackboard or another medium. It serves to document and review the lesson."@en ;
 skos:example "Tafelbild zur Erklärung eines mathematischen Konzepts, Dokumentation der Lernergebnisse"@de ;
 skos:example "Blackboard image explaining a mathematical concept, documentation of learning outcomes"@en ;
-skos:topConceptOf <> .
+skos:inScheme <> ; .
 
 <TEST> a skos:Concept ;
 skos:prefLabel "Prüfung"@de ;
