@@ -13,6 +13,13 @@
     "de": "Arbeitsblatt, Lösungsblatt, Übung, Aufgabenblatt",
     "en": "Worksheet, solutionsheet, exercise, task sheet"
   },
+  "broader": {
+    "id": "https://bokahama.github.io/SCRP-Vocab-LRT/AUFGABE_UEBUNG",
+    "prefLabel": {
+      "de": "Aufgaben und Übungen",
+      "en": "Worksheet, Exercise"
+    }
+  },
   "inScheme": [
     {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/",
@@ -25,15 +32,6 @@
   "inSchemeAll": [
     {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/"
-    }
-  ],
-  "topConceptOf": [
-    {
-      "id": "https://bokahama.github.io/SCRP-Vocab-LRT/",
-      "title": {
-        "de": "Typ der Lernressource",
-        "en": "Learning Resource Type"
-      }
     }
   ],
   "@context": {

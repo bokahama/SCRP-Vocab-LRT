@@ -42,15 +42,15 @@
     {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/METHODISCHE_APP",
       "prefLabel": {
-        "de": "Methodische APP",
-        "en": "APP"
+        "de": "Lern-APP",
+        "en": "Learning-APP"
       }
     },
     {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/SOFTWARE",
       "prefLabel": {
         "de": "Desktop-Software",
-        "en": "Software"
+        "en": "Desktop-Software"
       }
     },
     {

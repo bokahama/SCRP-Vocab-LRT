@@ -2,16 +2,28 @@
   "id": "https://bokahama.github.io/SCRP-Vocab-LRT/LEHRBUCH",
   "type": "Concept",
   "prefLabel": {
-    "de": "Lehrbuch",
+    "de": "Digitales Schulbuch",
     "en": "Textbook"
   },
+  "altLabel": {
+    "de": [
+      "Lehrbuch"
+    ]
+  },
   "definition": {
-    "de": "Sachbuch, das für das Studium oder den Unterricht didaktisch aufbereitete Lehrstoffe und Materialien anbietet.",
+    "de": "Sachbuch, das für das Studium oder den Unterricht didaktisch aufbereitete Lehrstoffe und Materialien anbietet. Ein Schulbuch i.e.S. ist curricular gebunden, also passend auf einen Lehrplan hin ausgerichtet.",
     "en": "English translation pending."
   },
   "example": {
     "de": "Lehrbuch, Unterrichtsbuch",
     "en": "English translation pending."
+  },
+  "broader": {
+    "id": "https://bokahama.github.io/SCRP-Vocab-LRT/DIGITALES_LERNMITTEL",
+    "prefLabel": {
+      "de": "Digitales Lernmittel",
+      "en": "Digital Learning Resource"
+    }
   },
   "inScheme": [
     {
@@ -25,15 +37,6 @@
   "inSchemeAll": [
     {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/"
-    }
-  ],
-  "topConceptOf": [
-    {
-      "id": "https://bokahama.github.io/SCRP-Vocab-LRT/",
-      "title": {
-        "de": "Typ der Lernressource",
-        "en": "Learning Resource Type"
-      }
     }
   ],
   "@context": {

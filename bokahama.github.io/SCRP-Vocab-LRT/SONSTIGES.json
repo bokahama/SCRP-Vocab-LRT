@@ -26,6 +26,13 @@
       }
     },
     {
+      "id": "https://bokahama.github.io/SCRP-Vocab-LRT/LERNPORTAL",
+      "prefLabel": {
+        "de": "Lernportal",
+        "en": "Learning portal"
+      }
+    },
+    {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/FRAGEBOGEN",
       "prefLabel": {
         "de": "Fragebogen",
@@ -44,13 +51,6 @@
       "prefLabel": {
         "de": "Kurs",
         "en": "Course"
-      }
-    },
-    {
-      "id": "https://bokahama.github.io/SCRP-Vocab-LRT/LERNPORTAL",
-      "prefLabel": {
-        "de": "Lernportal",
-        "en": "Learning portal"
       }
     },
     {

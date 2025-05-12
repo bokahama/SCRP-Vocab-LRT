@@ -21,6 +21,13 @@
     "de": "Matheübung, Projektarbeit, Forschungsaufgabe",
     "en": "Math exercise, project work, research task"
   },
+  "broader": {
+    "id": "https://bokahama.github.io/SCRP-Vocab-LRT/AUFGABE_UEBUNG",
+    "prefLabel": {
+      "de": "Aufgaben und Übungen",
+      "en": "Worksheet, Exercise"
+    }
+  },
   "inScheme": [
     {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/",
@@ -33,18 +40,6 @@
   "inSchemeAll": [
     {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/"
-    },
-    {
-      "id": "https://bokahama.github.io/SCRP-Vocab-LRT/UNTERRICHTSPLANUNG"
-    }
-  ],
-  "topConceptOf": [
-    {
-      "id": "https://bokahama.github.io/SCRP-Vocab-LRT/",
-      "title": {
-        "de": "Typ der Lernressource",
-        "en": "Learning Resource Type"
-      }
     }
   ],
   "@context": {

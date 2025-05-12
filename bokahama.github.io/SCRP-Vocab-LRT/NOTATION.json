@@ -3,7 +3,7 @@
   "type": "Concept",
   "prefLabel": {
     "de": "Text und Notation",
-    "en": "Text"
+    "en": "notation"
   },
   "altLabel": {
     "de": [
@@ -11,8 +11,7 @@
       "Notation"
     ],
     "en": [
-      "document",
-      "notation"
+      "document"
     ]
   },
   "definition": {

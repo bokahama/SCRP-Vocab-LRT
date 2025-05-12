@@ -49,6 +49,13 @@
       }
     },
     {
+      "id": "https://bokahama.github.io/SCRP-Vocab-LRT/EXPERTE",
+      "prefLabel": {
+        "de": "Referent",
+        "en": "Speaker"
+      }
+    },
+    {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/FALLSTUDIE",
       "prefLabel": {
         "de": "Fallstudie",

@@ -44,6 +44,13 @@
       }
     },
     {
+      "id": "https://bokahama.github.io/SCRP-Vocab-LRT/SELBSTEVALUATION",
+      "prefLabel": {
+        "de": "Selbstevaluations-Übung",
+        "en": "Self-evaluation exercise"
+      }
+    },
+    {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/TEST",
       "prefLabel": {
         "de": "Prüfung",
