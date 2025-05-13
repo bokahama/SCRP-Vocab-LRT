@@ -16,7 +16,7 @@ dct:created "2025-04-09"^^xsd:date;
 dct:modified "2025-04-09"^^xsd:date;
 dct:issued "2025-04-09"^^xsd:date;
 dct:license <https://creativecommons.org/licenses/by-sa/4.0/> ;
-skos:hasTopConcept <APP>, <AUDIO>, <BILD>, <DIGITALES_LERNMITTEL>, <SONSTIGES>, <NOTATION>, <UNTERRICHTSPLANUNG>, <VIDEO>, <METHODE>, <AUFGABE_UEBUNG>, <INTERAKTION> .
+skos:hasTopConcept <UNTERRICHTSPLANUNG>, <METHODE>, <APP>, <AUFGABE_UEBUNG>, <BILD>, <DIGITALES_LERNMITTEL>, <INTERAKTION>, <AUDIO>, <NOTATION>, <VIDEO>, <SONSTIGES> .
 
 <ANLEITUNG> a skos:Concept ;
 skos:prefLabel "Anleitung"@de, "Instruction manual"@en ;
@@ -106,7 +106,7 @@ skos:inScheme <> ; .
 <DIGITALES_LERNMITTEL> a skos:Concept ;
     skos:prefLabel "Digitales Lernmittel"@de, "Digital Learning Resource"@en ;
     skos:altLabel "E-Lernmittel"@de, "E-Learning Resource"@en ;
-    skos:definition "Ein digitales Lernmittel ist ein elektronisches Werkzeug oder eine Ressource, die zur Unterstützung des Lernprozesses verwendet wird. Es kann interaktive und multimediale Inhalte enthalten, die das Lernen effektiver und ansprechender gestalten."@de ;
+    skos:definition "Digitale Lernmittel im engeren Sinne unterstützen gemäß educheck.schule einen Lernprozess, stehen auf elektronischen Datenträgern zur Verfügung und können auf digitalen Endgeräten genutzt werden. Sie sind unabhängig von Ort und Zeit nutzbar. Sie können multimediale sowie interaktive Inhalte enthalten sowie Übungen und Evaluationsmöglichkeiten."@de ;
     skos:definition "A digital learning resource is an electronic tool or resource used to support the learning process. It can include interactive and multimedia content that makes learning more effective and engaging."@en ;
     skos:example "Interaktives E-Book, Online-Lernplattform, digitale Lernmodule"@de ;
     skos:example "Interactive e-book, online learning platform, digital learning modules"@en ;
