@@ -16,8 +16,8 @@
     ]
   },
   "definition": {
-    "de": "Eine App (Abkürzung für 'Application Software') ist eine Anwendungssoftware oder ein Computerprogramm, welches unterschiedliche Funktionen erfüllen kann. Sie hat dabei keine systemtechnische Funktionalität, das heißt das System kann auch ohne dieses Programm ordnungsgemäß arbeiten. Mit einer App können Sie das Endgerät an Ihre Bedürfnisse anpassen. Eine App muss man herunterladen und installieren, um sie verwenden zu können.",
-    "en": "An app (short for application software) is an application or computer program that can provide all kinds of functionality. It is not relevant to the functioning of the computer system itself, but provides additional functionality that caters for a specific user's needs. An app needs to be downloaded and installed in order to use it."
+    "de": "Eine Anwendung (App) ist ein Softwareprogramm, das auf einem Computer oder mobilen Endgerät läuft. Die Bezeichnung umfasst im weiteren Sinne sowohl Desktop-Software als auch Software für mobile Endgeräte. Desktop-Software sollte möglichst mit dem Begriff Software kategorisiert werden. Anwendungen für mobile Endgeräte welche unmittelbar über die APP-Stores der Hersteller installiert werden können, sollten hingegen als APP kategorisiert werden.",
+    "en": "AAn application (app) is a software program that runs on a computer or mobile device. The term broadly encompasses both desktop software and software for mobile devices. Desktop software should ideally be categorized under the term software. In contrast, applications for mobile devices that can be directly installed via the manufacturers' app stores should be categorized as apps."
   },
   "scopeNote": {
     "de": [
