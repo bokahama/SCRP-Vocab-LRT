@@ -27,8 +27,8 @@ skos:definition "Eine Anleitung oder Leitfaden kann entweder eine schriftliche E
 skos:definition "English translation pending."@en ;
 skos:example "Leitfaden für die Durchführung von Zeitzeugengesprächen mit Hinweisen und Fragestellungen, Bauanleitung, Bastelanleitung"@de ;
 skos:example "English translation pending."@en ;
+skos:exactMatch sodix:ANLEITUNG ;
 skos:inScheme <> ; .
-skos:exactMatch sodix:ANLEITUNG .
 
 <APP> a skos:Concept ;
 skos:prefLabel "App"@de, "App"@en ;
@@ -59,8 +59,8 @@ skos:definition "A document that contains exercises, with which one can practise
 skos:example "Arbeitsblatt, Lösungsblatt, Übung, Aufgabenblatt"@de ;
 skos:example "Worksheet, solutionsheet, exercise, task sheet"@en ;
 skos:note: "Wenn andere Infos zusätzlich enthalten sind, entscheidet der Redakteur, welcher Lernressourcentyp überwiegt. Bei Bedarf zusätzliche Lernressourcentypen vergeben."@de ;
+skos:exactMatch sodix:ARBEITSBLATT ;
 skos:inScheme <> ; .
-skos:exactMatch sodix:ARBEITSBLATT .
 
 <AUDIO> a skos:Concept ;
     skos:prefLabel "Podcast / Audio"@de, "Audio"@en ;
@@ -69,9 +69,9 @@ skos:exactMatch sodix:ARBEITSBLATT .
     skos:definition "Audio refers to media content that is based solely on sound. This content can include music, voice recordings, radio plays, or other auditory formats. Audio content is versatile and can be used in education, entertainment, and communication."@en ;
     skos:example "Musikstücke, Podcasts, Hörbücher, Sprachaufnahmen für Sprachkurse"@de ;
     skos:example "Music tracks, podcasts, audiobooks, voice recordings for language courses"@en ;
-	skos:narrower <RADIO_TV> ;
-	skos:topConceptOf <> .
-skos:exactMatch sodix:AUDIO .
+    skos:narrower <RADIO_TV> ;
+    skos:exactMatch sodix:AUDIO ;
+    skos:topConceptOf <> .
 
 <BARCAMP> a skos:Concept ;
 skos:prefLabel "Barcamp"@de, "Barcamp"@en ;
@@ -89,8 +89,8 @@ skos:definition "All kinds of still images or graphical representations."@en ;
 skos:example "Foto, Grafiken, Illustration, Artefakt eines Gemäldes, Schema, Diagramm etc."@de ;
 skos:example "English translation pending."@en ;
 skos:narrower <INFOGRAFIK>, <KARTE> ;
+skos:exactMatch sodix:BILD ;
 skos:topConceptOf <> .
-skos:exactMatch sodix:BILD .
 
 <BROSCHUERE> a skos:Concept ;
 skos:prefLabel "Broschüre"@de ;
@@ -99,8 +99,8 @@ skos:definition "Eine mehrseitige textliche Zusammenfassung, die, ausführlicher
 skos:definition "English translation pending."@en ;
 skos:example "Broschüre, Sicherheitshinweise, Sachinformationen"@de ;
 skos:example "English translation pending."@en ;
+skos:exactMatch sodix:BROSCHUERE ;
 skos:inScheme <> ; .
-skos:exactMatch sodix:BROSCHUERE .
 
 <DATEN> a skos:Concept ;
 skos:prefLabel "Tabelle / Daten"@de ;
@@ -108,8 +108,8 @@ skos:prefLabel "Data"@en ;
 skos:definition "Auszeichnung von Tabellenkalkulationen ebenso wie von Empirischen Daten, Fakten und Erhebungen, Rohdaten."@de ;
 skos:definition "English translation pending."@en ;
 skos:example "EXCEL-Tabelle, Geschichtsdaten, Erhebungen, Fakten, Werte, Statistiken, Steckbriefe"@de ;
+skos:narrowMatch sodix:DATEN ;
 skos:inScheme <> ; .
-skos:narrowMatch sodix:DATEN .
 
 <DIGITALES_LERNMITTEL> a skos:Concept ;
     skos:prefLabel "Digitales Lernmittel"@de, "Digital Learning Resource"@en ;
@@ -128,8 +128,8 @@ skos:prefLabel "E-book"@en ;
 skos:definition "E-Book steht für ein elektronisches Buch und bezeichnet Werke in elektronischer Buchform, die auf E-Book-Readern oder mit spezieller Software auf PCs, Tabletcomputern oder Smartphones gelesen werden können. Interaktive Inhalte sorgen beispielsweise dafür, dass Schülerinnen und Schüler Aufgaben einzeln oder gemeinsam direkt im Buch bearbeiten können. Auch die Rückmeldung der Lehrperson kann eingebunden werden."@de ;
 skos:definition "English translation pending."@en ;
 skos:example "Interaktives Lehrbuch, Interaktives Übungsbuch"@de ;
+skos:exactMatch sodix:EBOOK ;
 skos:inScheme <> ; .
-skos:exactMatch sodix:EBOOK .
 
 <ENTDECKENDES_LERNEN> a skos:Concept ;
 skos:prefLabel "Entdeckendes Lernen"@de ;
@@ -137,8 +137,8 @@ skos:prefLabel "Discovery Learning"@en ;
 skos:definition "Durch virtuelle und reale Handlungen werden neue Dinge entdeckt und gelernt. Der Entdeckergeist und die Neugier werden geweckt und das Lernen ist hierbei der positive Nebeneffekt."@de ;
 skos:definition "Discovery learning is a technique of inquiry-based learning and is considered as a constructivist based approach to education. It is also referred to as problem-based learning, experiential learning and 21st century learning."@en ;
 skos:example "Spielerische Lernaufträge in der Natur oder in digitalen Räumen, in denen durch Klicken auf Symbole neue Dinge und Fakten entdeckt werden"@de ;
+skos:exactMatch sodix:ENTDECKENDES_LERNEN ;
 skos:inScheme <> ; .
-skos:exactMatch sodix:ENTDECKENDES_LERNEN .
 
 <ERKLAERVIDEO> a skos:Concept ;
 skos:prefLabel "Erklärvideo"@de, "Tutorial"@en ;
