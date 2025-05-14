@@ -3,6 +3,7 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#>.
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
 @prefix vann: <http://purl.org/vocab/vann/> .
+@prefix owl:  <http://www.w3.org/2002/07/owl#>.
 
 <> a skos:ConceptScheme;
 dct:title "Typ der Lernressource"@de;
@@ -417,6 +418,7 @@ skos:inScheme <> ; .
 skos:inScheme <> ; .
 
 <QUELLE> a skos:Concept ;
+owl:deprecated true ;
 skos:prefLabel "Primärmaterial/Quelle"@de ;
 skos:prefLabel "reference"@en ;
 skos:definition "Noch definieren?"@de ;
@@ -434,6 +436,8 @@ skos:inScheme <> ; .
 skos:inScheme <> ; .
 
 <RECHERCHE_AUFTRAG> a skos:Concept ;
+dct:isReplacedBy <ARBEITSBLATT> ;
+owl:deprecated true ;
 skos:prefLabel "Recherche-Auftrag"@de ;
 skos:prefLabel "Research Assignment"@en ;
 skos:definition "Nicht mehr verwendet, siehe -> Arbeitsblatt."@de ;
