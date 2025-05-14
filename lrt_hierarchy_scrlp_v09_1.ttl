@@ -5,6 +5,7 @@
 @prefix vann: <http://purl.org/vocab/vann/> .
 @prefix owl: <http://www.w3.org/2002/07/owl#>.
 @prefix sodix: <https://vocabs.sodix.de/sodix/educational/learningresourcetype/> .
+@prefix oeh: <https://vocabs.openeduhub.de/w3id.org/openeduhub/vocabs/new_lrt/> .
 
 <> a skos:ConceptScheme;
 dct:title "Typ der Lernressource"@de;
@@ -28,6 +29,7 @@ skos:definition "English translation pending."@en ;
 skos:example "Leitfaden für die Durchführung von Zeitzeugengesprächen mit Hinweisen und Fragestellungen, Bauanleitung, Bastelanleitung"@de ;
 skos:example "English translation pending."@en ;
 skos:exactMatch sodix:ANLEITUNG ;
+skos:exactMatch oeh:f61c6708-0427-4f0d-9c33-cec4253d2cad ;
 skos:inScheme <> ; .
 
 <APP> a skos:Concept ;
