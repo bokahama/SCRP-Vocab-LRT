@@ -25,6 +25,11 @@
       "en": "Video"
     }
   },
+  "broadMatch": [
+    {
+      "id": "https://vocabs.sodix.de/sodix/educational/learningresourcetype/VIDEO"
+    }
+  ],
   "exactMatch": [
     {
       "id": "https://vocabs.openeduhub.de/w3id.org/openeduhub/vocabs/new_lrt/a0218a48-a008-4975-a62a-27b1a83d454f"

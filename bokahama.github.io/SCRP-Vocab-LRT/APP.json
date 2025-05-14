@@ -61,6 +61,19 @@
       }
     }
   ],
+  "broadMatch": [
+    {
+      "id": "https://vocabs.openeduhub.de/w3id.org/openeduhub/vocabs/new_lrt/cefccf75-cba3-427d-9a0f-35b4fedcbba1"
+    }
+  ],
+  "narrowMatch": [
+    {
+      "id": "https://vocabs.sodix.de/sodix/educational/learningresourcetype/APP"
+    },
+    {
+      "id": "https://vocabs.openeduhub.de/w3id.org/openeduhub/vocabs/new_lrt/8a201942-c69b-47ef-a211-922c4160c12d"
+    }
+  ],
   "inScheme": [
     {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/",
