@@ -41,8 +41,8 @@ skos:example "App zum Üben der Uhrzeit, App für einen Diagrammgenerator"@de ;
 skos:example "App to practise to read the time; App to generate diagrams"@en ;
 skos:scopeNote "Der Wert findet auch als zusammenfassender Kategorien-Wert sowie als Residual-Wert Anwendung. Falls möglich bitte spezifischer indexieren."@de, "This term is also used for clustering several more specific terms and as a residual-term. Use more specific descriptors whenever possible."@en ;
 skos:narrower <LERNSPIEL>, <METHODISCHE_APP>, <SOFTWARE>, <WEBTOOL> ;
-skos:narrowerMatch sodix:APP, oeh:8a201942-c69b-47ef-a211-922c4160c12d ;
-skos:broaderMatch oeh:cefccf75-cba3-427d-9a0f-35b4fedcbba1 ;
+skos:narrowMatch sodix:APP, oeh:8a201942-c69b-47ef-a211-922c4160c12d ;
+skos:broadMatch oeh:cefccf75-cba3-427d-9a0f-35b4fedcbba1 ;
 skos:topConceptOf <> .
 
 <AUFGABE_UEBUNG> a skos:Concept ;
@@ -151,7 +151,7 @@ skos:definition " Audiovisuelles Medium, das speziell zur Unterstützung des Ler
 skos:definition " Audiovisual medium, specifically designed to support the learning process. It contains step-by-step instructions, examples, and explanations that promote the understanding and application of a specific topic or skill."@en ;
 skos:example "Video zur Erklärung eines mathematischen Konzepts, Tutorial zur Nutzung einer Software"@de ;
 skos:example "Video explaining a mathematical concept, tutorial on using software"@en ;
-skos:broaderMatch sodix:VIDEO ;
+skos:broadMatch sodix:VIDEO ;
 skos:exactMatch oeh:a0218a48-a008-4975-a62a-27b1a83d454f ;
 skos:inScheme <> ; .
 
