@@ -19,6 +19,11 @@
       "en": "Other"
     }
   },
+  "narrowMatch": [
+    {
+      "id": "https://vocabs.sodix.de/sodix/educational/learningresourcetype/DATEN"
+    }
+  ],
   "inScheme": [
     {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/",
