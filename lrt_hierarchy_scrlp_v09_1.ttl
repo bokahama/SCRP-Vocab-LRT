@@ -35,12 +35,14 @@ skos:inScheme <> ; .
 <APP> a skos:Concept ;
 skos:prefLabel "App"@de, "App"@en ;
 skos:altLabel "Anwendung"@de, "Software"@de, "application"@en, "software"@en ;
-skos:definition "Eine App (Abkürzung für 'Application Software') ist eine Anwendungssoftware oder ein Computerprogramm, welches unterschiedliche Funktionen erfüllen kann. Sie hat dabei keine systemtechnische Funktionalität, das heißt das System kann auch ohne dieses Programm ordnungsgemäß arbeiten. Mit einer App können Sie das Endgerät an Ihre Bedürfnisse anpassen. Eine App muss man herunterladen und installieren, um sie verwenden zu können."@de ;
-skos:definition "An app (short for application software) is an application or computer program that can provide all kinds of functionality. It is not relevant to the functioning of the computer system itself, but provides additional functionality that caters for a specific user's needs. An app needs to be downloaded and installed in order to use it."@en ;
+skos:definition "Eine Anwendung (App) ist ein Softwareprogramm, das auf einem Computer oder mobilen Endgerät läuft. Die Bezeichnung umfasst im weiteren Sinne sowohl Desktop-Software als auch Software für mobile Endgeräte. Desktop-Software sollte möglichst mit dem Begriff Software kategorisiert werden. Anwendungen für mobile Endgeräte welche unmittelbar über die APP-Stores der Hersteller installiert werden können, sollten hingegen als APP kategorisiert werden."@de ;
+skos:definition "AAn application (app) is a software program that runs on a computer or mobile device. The term broadly encompasses both desktop software and software for mobile devices. Desktop software should ideally be categorized under the term software. In contrast, applications for mobile devices that can be directly installed via the manufacturers' app stores should be categorized as apps."@en ;
 skos:example "App zum Üben der Uhrzeit, App für einen Diagrammgenerator"@de ;
 skos:example "App to practise to read the time; App to generate diagrams"@en ;
 skos:scopeNote "Der Wert findet auch als zusammenfassender Kategorien-Wert sowie als Residual-Wert Anwendung. Falls möglich bitte spezifischer indexieren."@de, "This term is also used for clustering several more specific terms and as a residual-term. Use more specific descriptors whenever possible."@en ;
 skos:narrower <LERNSPIEL>, <METHODISCHE_APP>, <SOFTWARE>, <WEBTOOL> ;
+skos:narrowerMatch sodix:APP, oeh:8a201942-c69b-47ef-a211-922c4160c12d ;
+skos:broaderMatch oeh:cefccf75-cba3-427d-9a0f-35b4fedcbba1 ;
 skos:topConceptOf <> .
 
 <AUFGABE_UEBUNG> a skos:Concept ;
@@ -149,6 +151,8 @@ skos:definition " Audiovisuelles Medium, das speziell zur Unterstützung des Ler
 skos:definition " Audiovisual medium, specifically designed to support the learning process. It contains step-by-step instructions, examples, and explanations that promote the understanding and application of a specific topic or skill."@en ;
 skos:example "Video zur Erklärung eines mathematischen Konzepts, Tutorial zur Nutzung einer Software"@de ;
 skos:example "Video explaining a mathematical concept, tutorial on using software"@en ;
+skos:broaderMatch sodix:VIDEO ;
+skos:exactMatch oeh:a0218a48-a008-4975-a62a-27b1a83d454f ;
 skos:inScheme <> ; .
 
 <EXPERIMENT> a skos:Concept ;
