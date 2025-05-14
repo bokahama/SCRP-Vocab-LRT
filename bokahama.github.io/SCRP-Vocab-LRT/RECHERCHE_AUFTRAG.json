@@ -35,6 +35,12 @@
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/"
     }
   ],
+  "deprecated": true,
+  "isReplacedBy": [
+    {
+      "id": "https://bokahama.github.io/SCRP-Vocab-LRT/ARBEITSBLATT"
+    }
+  ],
   "@context": {
     "@version": 1.1,
     "id": "@id",
