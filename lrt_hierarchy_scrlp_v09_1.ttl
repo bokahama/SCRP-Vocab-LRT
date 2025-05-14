@@ -3,7 +3,8 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#>.
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
 @prefix vann: <http://purl.org/vocab/vann/> .
-@prefix owl:  <http://www.w3.org/2002/07/owl#>.
+@prefix owl: <http://www.w3.org/2002/07/owl#>.
+@prefix sodix: <https://vocabs.sodix.de/sodix/educational/learningresourcetype/> .
 
 <> a skos:ConceptScheme;
 dct:title "Typ der Lernressource"@de;
@@ -27,6 +28,7 @@ skos:definition "English translation pending."@en ;
 skos:example "Leitfaden für die Durchführung von Zeitzeugengesprächen mit Hinweisen und Fragestellungen, Bauanleitung, Bastelanleitung"@de ;
 skos:example "English translation pending."@en ;
 skos:inScheme <> ; .
+skos:exactMatch sodix:ANLEITUNG .
 
 <APP> a skos:Concept ;
 skos:prefLabel "App"@de, "App"@en ;
@@ -48,7 +50,7 @@ skos:topConceptOf <> .
     skos:example "Writing task, math exercise, experiment"@en ;
     skos:scopeNote "Der Wert findet auch als zusammenfassender Kategorien-Wert sowie als Residual-Wert Anwendung. Falls möglich bitte spezifischer indexieren."@de, "This term is also used for clustering several more specific terms and as a residual-term. Use more specific descriptors whenever possible."@en ;
     skos:narrower <ARBEITSBLATT>, <LERNAUFGABE>, <RECHERCHE_AUFTRAG>, <UEBUNG> ;
-	skos:topConceptOf <> .
+    skos:topConceptOf <> .
 
 <ARBEITSBLATT> a skos:Concept ;
 skos:prefLabel "Arbeitsblatt"@de, "Worksheet"@en ;
@@ -58,6 +60,7 @@ skos:example "Arbeitsblatt, Lösungsblatt, Übung, Aufgabenblatt"@de ;
 skos:example "Worksheet, solutionsheet, exercise, task sheet"@en ;
 skos:note: "Wenn andere Infos zusätzlich enthalten sind, entscheidet der Redakteur, welcher Lernressourcentyp überwiegt. Bei Bedarf zusätzliche Lernressourcentypen vergeben."@de ;
 skos:inScheme <> ; .
+skos:exactMatch sodix:ARBEITSBLATT .
 
 <AUDIO> a skos:Concept ;
     skos:prefLabel "Podcast / Audio"@de, "Audio"@en ;
@@ -68,6 +71,7 @@ skos:inScheme <> ; .
     skos:example "Music tracks, podcasts, audiobooks, voice recordings for language courses"@en ;
 	skos:narrower <RADIO_TV> ;
 	skos:topConceptOf <> .
+skos:exactMatch sodix:AUDIO .
 
 <BARCAMP> a skos:Concept ;
 skos:prefLabel "Barcamp"@de, "Barcamp"@en ;
@@ -86,6 +90,7 @@ skos:example "Foto, Grafiken, Illustration, Artefakt eines Gemäldes, Schema, Di
 skos:example "English translation pending."@en ;
 skos:narrower <INFOGRAFIK>, <KARTE> ;
 skos:topConceptOf <> .
+skos:exactMatch sodix:BILD .
 
 <BROSCHUERE> a skos:Concept ;
 skos:prefLabel "Broschüre"@de ;
@@ -95,6 +100,7 @@ skos:definition "English translation pending."@en ;
 skos:example "Broschüre, Sicherheitshinweise, Sachinformationen"@de ;
 skos:example "English translation pending."@en ;
 skos:inScheme <> ; .
+skos:exactMatch sodix:BROSCHUERE .
 
 <DATEN> a skos:Concept ;
 skos:prefLabel "Tabelle / Daten"@de ;
@@ -103,6 +109,7 @@ skos:definition "Auszeichnung von Tabellenkalkulationen ebenso wie von Empirisch
 skos:definition "English translation pending."@en ;
 skos:example "EXCEL-Tabelle, Geschichtsdaten, Erhebungen, Fakten, Werte, Statistiken, Steckbriefe"@de ;
 skos:inScheme <> ; .
+skos:narrowMatch sodix:DATEN .
 
 <DIGITALES_LERNMITTEL> a skos:Concept ;
     skos:prefLabel "Digitales Lernmittel"@de, "Digital Learning Resource"@en ;
@@ -122,6 +129,7 @@ skos:definition "E-Book steht für ein elektronisches Buch und bezeichnet Werke 
 skos:definition "English translation pending."@en ;
 skos:example "Interaktives Lehrbuch, Interaktives Übungsbuch"@de ;
 skos:inScheme <> ; .
+skos:exactMatch sodix:EBOOK .
 
 <ENTDECKENDES_LERNEN> a skos:Concept ;
 skos:prefLabel "Entdeckendes Lernen"@de ;
@@ -130,6 +138,7 @@ skos:definition "Durch virtuelle und reale Handlungen werden neue Dinge entdeckt
 skos:definition "Discovery learning is a technique of inquiry-based learning and is considered as a constructivist based approach to education. It is also referred to as problem-based learning, experiential learning and 21st century learning."@en ;
 skos:example "Spielerische Lernaufträge in der Natur oder in digitalen Räumen, in denen durch Klicken auf Symbole neue Dinge und Fakten entdeckt werden"@de ;
 skos:inScheme <> ; .
+skos:exactMatch sodix:ENTDECKENDES_LERNEN .
 
 <ERKLAERVIDEO> a skos:Concept ;
 skos:prefLabel "Erklärvideo"@de, "Tutorial"@en ;
