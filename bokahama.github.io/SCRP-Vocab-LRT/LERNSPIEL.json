@@ -20,6 +20,19 @@
       "en": "App"
     }
   },
+  "broadMatch": [
+    {
+      "id": "https://vocabs.openeduhub.de/w3id.org/openeduhub/vocabs/new_lrt/b0495f44-b05d-4bde-9dc5-34d7b5234d76"
+    }
+  ],
+  "exactMatch": [
+    {
+      "id": "https://vocabs.sodix.de/sodix/educational/learningresourcetype/LERNSPIEL"
+    },
+    {
+      "id": "https://vocabs.openeduhub.de/w3id.org/openeduhub/vocabs/new_lrt/975e6e9c-807d-4cc5-93eb-d4d7cb9eedef"
+    }
+  ],
   "inScheme": [
     {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/",

@@ -20,6 +20,16 @@
       "en": "notation"
     }
   },
+  "broadMatch": [
+    {
+      "id": "https://vocabs.openeduhub.de/w3id.org/openeduhub/vocabs/new_lrt/0cef3ce9-e106-47ae-836a-48f9ed04384e"
+    }
+  ],
+  "exactMatch": [
+    {
+      "id": "https://vocabs.sodix.de/sodix/educational/learningresourcetype/TEXT"
+    }
+  ],
   "inScheme": [
     {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/",

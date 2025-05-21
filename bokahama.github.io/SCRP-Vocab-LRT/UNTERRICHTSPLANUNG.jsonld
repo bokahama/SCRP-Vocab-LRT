@@ -21,55 +21,12 @@
     "de": "Unterrichtsidee, Checkliste",
     "en": "English translation pending."
   },
-  "narrower": [
+  "exactMatch": [
     {
-      "id": "https://bokahama.github.io/SCRP-Vocab-LRT/LEHRPLANREFERENZ",
-      "prefLabel": {
-        "de": "Lehrplanreferenz",
-        "en": "Curriculum reference"
-      }
+      "id": "https://vocabs.sodix.de/sodix/educational/learningresourcetype/UNTERRICHTSPLANUNG"
     },
     {
-      "id": "https://bokahama.github.io/SCRP-Vocab-LRT/LERNKONTROLLE",
-      "prefLabel": {
-        "de": "Lernkontrolle",
-        "en": "Learning assesment"
-      }
-    },
-    {
-      "id": "https://bokahama.github.io/SCRP-Vocab-LRT/LOESUNG",
-      "prefLabel": {
-        "de": "Lösung",
-        "en": "Solution"
-      }
-    },
-    {
-      "id": "https://bokahama.github.io/SCRP-Vocab-LRT/SELBSTEVALUATION",
-      "prefLabel": {
-        "de": "Selbstevaluations-Übung",
-        "en": "Self-evaluation exercise"
-      }
-    },
-    {
-      "id": "https://bokahama.github.io/SCRP-Vocab-LRT/TEST",
-      "prefLabel": {
-        "de": "Prüfung",
-        "en": "Translation pending"
-      }
-    },
-    {
-      "id": "https://bokahama.github.io/SCRP-Vocab-LRT/UNTERRICHTSBAUSTEIN",
-      "prefLabel": {
-        "de": "Unterrichtsbaustein",
-        "en": "Teaching Module"
-      }
-    },
-    {
-      "id": "https://bokahama.github.io/SCRP-Vocab-LRT/UNTERRICHTSIDEE",
-      "prefLabel": {
-        "de": "Unterrichtsidee",
-        "en": "Teaching Idea"
-      }
+      "id": "https://vocabs.openeduhub.de/w3id.org/openeduhub/vocabs/new_lrt/7381f17f-50a6-4ce1-b3a0-9d85a482eec0"
     }
   ],
   "inScheme": [

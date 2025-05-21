@@ -23,6 +23,11 @@
       "en": "App"
     }
   },
+  "exactMatch": [
+    {
+      "id": "https://vocabs.openeduhub.de/w3id.org/openeduhub/vocabs/new_lrt/e5ed8ec2-2c7e-4f46-aba9-e67148ef6656"
+    }
+  ],
   "inScheme": [
     {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/",

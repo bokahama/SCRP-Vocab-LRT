@@ -20,6 +20,19 @@
       "en": "Diverse Concept"
     }
   },
+  "broadMatch": [
+    {
+      "id": "https://vocabs.sodix.de/sodix/educational/learningresourcetype/ENTDECKENDES"
+    },
+    {
+      "id": "https://vocabs.openeduhub.de/w3id.org/openeduhub/vocabs/new_lrt/ee738203-44af-4150-986f-ef01fb883f00"
+    }
+  ],
+  "exactMatch": [
+    {
+      "id": "https://vocabs.openeduhub.de/w3id.org/openeduhub/vocabs/new_lrt/74a7c3cb-82db-4e63-8c0d-1726e2fe53b4"
+    }
+  ],
   "inScheme": [
     {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/",

@@ -28,6 +28,11 @@
       "en": "notation"
     }
   },
+  "broadMatch": [
+    {
+      "id": "https://vocabs.openeduhub.de/w3id.org/openeduhub/vocabs/new_lrt/6a15628c-0e59-43e3-9fc5-9a7f7fa261c4"
+    }
+  ],
   "inScheme": [
     {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/",

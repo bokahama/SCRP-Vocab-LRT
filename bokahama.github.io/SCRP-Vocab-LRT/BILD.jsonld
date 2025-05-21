@@ -29,9 +29,17 @@
       }
     }
   ],
+  "narrowMatch": [
+    {
+      "id": "https://vocabs.openeduhub.de/w3id.org/openeduhub/vocabs/new_lrt/f9630e1c-2247-42ed-87b0-b1e18e4ec02b"
+    }
+  ],
   "exactMatch": [
     {
       "id": "https://vocabs.sodix.de/sodix/educational/learningresourcetype/BILD"
+    },
+    {
+      "id": "https://vocabs.openeduhub.de/w3id.org/openeduhub/vocabs/new_lrt/a6d1ac52-c557-4151-bc6f-0d99b0b96fb9"
     }
   ],
   "inScheme": [

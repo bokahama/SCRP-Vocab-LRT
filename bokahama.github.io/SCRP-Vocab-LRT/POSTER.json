@@ -25,6 +25,14 @@
       "en": "notation"
     }
   },
+  "exactMatch": [
+    {
+      "id": "https://vocabs.sodix.de/sodix/educational/learningresourcetype/POSTER"
+    },
+    {
+      "id": "https://vocabs.openeduhub.de/w3id.org/openeduhub/vocabs/new_lrt/c382a478-74e0-42f1-96dd-fcfb5c27f746"
+    }
+  ],
   "inScheme": [
     {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/",

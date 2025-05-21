@@ -20,6 +20,14 @@
       "en": "Worksheet, Exercise"
     }
   },
+  "exactMatch": [
+    {
+      "id": "https://vocabs.sodix.de/sodix/educational/learningresourcetype/UBUNG"
+    },
+    {
+      "id": "https://vocabs.openeduhub.de/w3id.org/openeduhub/vocabs/new_lrt/a33ef73d-9210-4305-97f9-7357bbf43486"
+    }
+  ],
   "inScheme": [
     {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/",

@@ -24,6 +24,19 @@
       "en": "Diverse Concept"
     }
   },
+  "broadMatch": [
+    {
+      "id": "https://vocabs.openeduhub.de/w3id.org/openeduhub/vocabs/new_lrt/ac82dc13-3be1-464d-9cdc-88e608d99c39"
+    }
+  ],
+  "exactMatch": [
+    {
+      "id": "https://vocabs.sodix.de/sodix/educational/learningresourcetype/ROLLENSPIEL"
+    },
+    {
+      "id": "https://vocabs.openeduhub.de/w3id.org/openeduhub/vocabs/new_lrt/abfd1f4c-c649-4086-a985-5d5567d0980f"
+    }
+  ],
   "inScheme": [
     {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/",

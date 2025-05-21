@@ -28,55 +28,6 @@
   },
   "narrower": [
     {
-      "id": "https://bokahama.github.io/SCRP-Vocab-LRT/BARCAMP",
-      "prefLabel": {
-        "de": "Barcamp",
-        "en": "Barcamp"
-      }
-    },
-    {
-      "id": "https://bokahama.github.io/SCRP-Vocab-LRT/ENTDECKENDES_LERNEN",
-      "prefLabel": {
-        "de": "Entdeckendes Lernen",
-        "en": "Discovery Learning"
-      }
-    },
-    {
-      "id": "https://bokahama.github.io/SCRP-Vocab-LRT/EXPERIMENT",
-      "prefLabel": {
-        "de": "Experiment",
-        "en": "Experiment"
-      }
-    },
-    {
-      "id": "https://bokahama.github.io/SCRP-Vocab-LRT/EXPERTE",
-      "prefLabel": {
-        "de": "Referent",
-        "en": "Speaker"
-      }
-    },
-    {
-      "id": "https://bokahama.github.io/SCRP-Vocab-LRT/FALLSTUDIE",
-      "prefLabel": {
-        "de": "Fallstudie",
-        "en": "Case Study"
-      }
-    },
-    {
-      "id": "https://bokahama.github.io/SCRP-Vocab-LRT/GRUPPENARBEIT",
-      "prefLabel": {
-        "de": "Gruppenarbeit",
-        "en": "Group work"
-      }
-    },
-    {
-      "id": "https://bokahama.github.io/SCRP-Vocab-LRT/LERNORT",
-      "prefLabel": {
-        "de": "Lernort",
-        "en": "Learning location"
-      }
-    },
-    {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/OFFENE_AKTIVITAET",
       "prefLabel": {
         "de": "Offene Aktivität",
@@ -110,6 +61,14 @@
         "de": "Stationenlernen",
         "en": "Station learning"
       }
+    }
+  ],
+  "exactMatch": [
+    {
+      "id": "https://vocabs.openeduhub.de/w3id.org/openeduhub/vocabs/new_lrt/0a79a1d0-583b-47ce-86a7-517ab352d796"
+    },
+    {
+      "id": "https://vocabs.openeduhub.de/w3id.org/openeduhub/vocabs/new_lrt/477115fd-5042-4174-ac39-7c05f8a24766"
     }
   ],
   "inScheme": [

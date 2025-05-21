@@ -33,6 +33,9 @@
   "exactMatch": [
     {
       "id": "https://vocabs.sodix.de/sodix/educational/learningresourcetype/AUDIO"
+    },
+    {
+      "id": "https://vocabs.openeduhub.de/w3id.org/openeduhub/vocabs/new_lrt/ec2682af-08a9-4ab1-a324-9dca5151e99f"
     }
   ],
   "inScheme": [

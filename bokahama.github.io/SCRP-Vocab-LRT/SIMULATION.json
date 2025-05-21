@@ -29,6 +29,14 @@
       "en": "Interactive Medium"
     }
   },
+  "exactMatch": [
+    {
+      "id": "https://vocabs.sodix.de/sodix/educational/learningresourcetype/SIMULATION"
+    },
+    {
+      "id": "https://vocabs.openeduhub.de/w3id.org/openeduhub/vocabs/new_lrt/2e4157ad-e29a-4f10-b4e6-370e0fd59d26"
+    }
+  ],
   "inScheme": [
     {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/",

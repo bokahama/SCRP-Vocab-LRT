@@ -45,6 +45,16 @@
       }
     }
   ],
+  "narrowMatch": [
+    {
+      "id": "https://vocabs.sodix.de/sodix/educational/learningresourcetype/INTERAKTION"
+    }
+  ],
+  "exactMatch": [
+    {
+      "id": "https://vocabs.openeduhub.de/w3id.org/openeduhub/vocabs/new_lrt/4665caac-99d7-4da3-b9fb-498d8ece034f"
+    }
+  ],
   "inScheme": [
     {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/",

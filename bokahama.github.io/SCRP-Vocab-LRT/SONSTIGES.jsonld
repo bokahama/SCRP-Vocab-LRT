@@ -19,62 +19,6 @@
   },
   "narrower": [
     {
-      "id": "https://bokahama.github.io/SCRP-Vocab-LRT/DATEN",
-      "prefLabel": {
-        "de": "Tabelle / Daten",
-        "en": "Data"
-      }
-    },
-    {
-      "id": "https://bokahama.github.io/SCRP-Vocab-LRT/LERNPORTAL",
-      "prefLabel": {
-        "de": "Lernportal",
-        "en": "Learning portal"
-      }
-    },
-    {
-      "id": "https://bokahama.github.io/SCRP-Vocab-LRT/FRAGEBOGEN",
-      "prefLabel": {
-        "de": "Fragebogen",
-        "en": "Questionnaire"
-      }
-    },
-    {
-      "id": "https://bokahama.github.io/SCRP-Vocab-LRT/GLOSSAR",
-      "prefLabel": {
-        "de": "Glossar",
-        "en": "Glossary"
-      }
-    },
-    {
-      "id": "https://bokahama.github.io/SCRP-Vocab-LRT/KURS",
-      "prefLabel": {
-        "de": "Kurs",
-        "en": "Course"
-      }
-    },
-    {
-      "id": "https://bokahama.github.io/SCRP-Vocab-LRT/MODELL",
-      "prefLabel": {
-        "de": "Modell",
-        "en": "Model"
-      }
-    },
-    {
-      "id": "https://bokahama.github.io/SCRP-Vocab-LRT/PRAESENTATION",
-      "prefLabel": {
-        "de": "Präsentation",
-        "en": "Presentation"
-      }
-    },
-    {
-      "id": "https://bokahama.github.io/SCRP-Vocab-LRT/QUELLE",
-      "prefLabel": {
-        "de": "Primärmaterial/Quelle",
-        "en": "reference"
-      }
-    },
-    {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/VERANSCHAULICHUNG",
       "prefLabel": {
         "de": "Veranschaulichung",
@@ -87,6 +31,11 @@
         "de": "Webseite",
         "en": "Website"
       }
+    }
+  ],
+  "narrowMatch": [
+    {
+      "id": "https://vocabs.sodix.de/sodix/educational/learningresourcetype/SONSTIGES"
     }
   ],
   "inScheme": [

@@ -32,62 +32,6 @@
   },
   "narrower": [
     {
-      "id": "https://bokahama.github.io/SCRP-Vocab-LRT/ANLEITUNG",
-      "prefLabel": {
-        "de": "Anleitung",
-        "en": "Instruction manual"
-      }
-    },
-    {
-      "id": "https://bokahama.github.io/SCRP-Vocab-LRT/BROSCHUERE",
-      "prefLabel": {
-        "de": "Broschüre",
-        "en": "Brochure"
-      }
-    },
-    {
-      "id": "https://bokahama.github.io/SCRP-Vocab-LRT/EBOOK",
-      "prefLabel": {
-        "de": "E-Book",
-        "en": "E-book"
-      }
-    },
-    {
-      "id": "https://bokahama.github.io/SCRP-Vocab-LRT/FLYER",
-      "prefLabel": {
-        "de": "Flyer",
-        "en": "Flyer"
-      }
-    },
-    {
-      "id": "https://bokahama.github.io/SCRP-Vocab-LRT/HANDBUCH",
-      "prefLabel": {
-        "de": "Handbuch",
-        "en": "Guide"
-      }
-    },
-    {
-      "id": "https://bokahama.github.io/SCRP-Vocab-LRT/HANDREICHUNG",
-      "prefLabel": {
-        "de": "Handreichung",
-        "en": "Guidance"
-      }
-    },
-    {
-      "id": "https://bokahama.github.io/SCRP-Vocab-LRT/MERKBLATT",
-      "prefLabel": {
-        "de": "Merkblatt",
-        "en": "Leaflet"
-      }
-    },
-    {
-      "id": "https://bokahama.github.io/SCRP-Vocab-LRT/MUSIKNOTEN",
-      "prefLabel": {
-        "de": "Musiknoten",
-        "en": "muscial notes"
-      }
-    },
-    {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/POSTER",
       "prefLabel": {
         "de": "Poster",
@@ -128,6 +72,11 @@
         "de": "Wortliste",
         "en": "wordlist"
       }
+    }
+  ],
+  "exactMatch": [
+    {
+      "id": "https://vocabs.openeduhub.de/w3id.org/openeduhub/vocabs/new_lrt/0cef3ce9-e106-47ae-836a-48f9ed04384e"
     }
   ],
   "inScheme": [

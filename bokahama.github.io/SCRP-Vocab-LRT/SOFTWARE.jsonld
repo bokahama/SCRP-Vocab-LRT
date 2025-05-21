@@ -11,7 +11,7 @@
   },
   "note": {
     "de": [
-      "In SODIX nicht mehr verwendet, dort bitte 'App' verwenden."
+      "Hinweis für (gleichzeitige) SODIX-Nutzer: In SODIX wird weniger differenziert und der Wert SOFTWARE nicht mehr verwendet, dort bitte 'App' verwenden."
     ]
   },
   "broader": {
@@ -21,6 +21,11 @@
       "en": "App"
     }
   },
+  "exactMatch": [
+    {
+      "id": "https://vocabs.sodix.de/sodix/educational/learningresourcetype/SOFTWARE"
+    }
+  ],
   "inScheme": [
     {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/",
