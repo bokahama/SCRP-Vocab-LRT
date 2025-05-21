@@ -36,6 +36,13 @@
         "de": "Digitales Schulbuch",
         "en": "Textbook"
       }
+    },
+    {
+      "id": "https://bokahama.github.io/SCRP-Vocab-LRT/LERNPORTAL",
+      "prefLabel": {
+        "de": "Lernportal",
+        "en": "Learning portal"
+      }
     }
   ],
   "inScheme": [

@@ -31,6 +31,29 @@
     "de": "Lehrvideo zur Erklärung mathematischer Konzepte, Dokumentarfilm über die Geschichte der Raumfahrt",
     "en": "Educational video explaining mathematical concepts, documentary film about the history of space exploration"
   },
+  "narrower": [
+    {
+      "id": "https://bokahama.github.io/SCRP-Vocab-LRT/ERKLAERVIDEO",
+      "prefLabel": {
+        "de": "Erklärvideo",
+        "en": "Tutorial"
+      }
+    },
+    {
+      "id": "https://bokahama.github.io/SCRP-Vocab-LRT/MEDIENPAKET",
+      "prefLabel": {
+        "de": "Medienpaket",
+        "en": "Media Package"
+      }
+    },
+    {
+      "id": "https://bokahama.github.io/SCRP-Vocab-LRT/SPRACHLERNVIDEO",
+      "prefLabel": {
+        "de": "Sprachlernvideo",
+        "en": "Language learning video"
+      }
+    }
+  ],
   "exactMatch": [
     {
       "id": "https://vocabs.sodix.de/sodix/educational/learningresourcetype/VIDEO"

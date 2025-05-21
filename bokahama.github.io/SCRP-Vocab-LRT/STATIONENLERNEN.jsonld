@@ -22,6 +22,9 @@
   },
   "broadMatch": [
     {
+      "id": "https://vocabs.sodix.de/sodix/educational/learningresourcetype/SONSTIGES"
+    },
+    {
       "id": "https://vocabs.sodix.de/sodix/educational/learningresourcetype/ENTDECKENDES"
     },
     {

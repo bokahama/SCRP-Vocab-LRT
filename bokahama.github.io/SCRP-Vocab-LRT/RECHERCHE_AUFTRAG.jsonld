@@ -11,6 +11,7 @@
   },
   "note": {
     "de": [
+      "Ebenso in SODIX nicht mehr verwendet, bitte 'Arbeitsblatt' verwenden.",
       "In SODIX nicht mehr verwendet, bitte 'Arbeitsblatt' verwenden."
     ]
   },
@@ -23,10 +24,10 @@
   },
   "exactMatch": [
     {
-      "id": "https://vocabs.openeduhub.de/w3id.org/openeduhub/vocabs/new_lrt/1cac68e6-dafe-4ce4-a52f-f33cde26da59"
+      "id": "https://vocabs.sodix.de/sodix/educational/learningresourcetype/RECHERCHE"
     },
     {
-      "id": "https://vocabs.sodix.de/sodix/educational/learningresourcetype/RECHERCHE"
+      "id": "https://vocabs.openeduhub.de/w3id.org/openeduhub/vocabs/new_lrt/1cac68e6-dafe-4ce4-a52f-f33cde26da59"
     }
   ],
   "inScheme": [

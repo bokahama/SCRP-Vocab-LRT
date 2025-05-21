@@ -28,6 +28,13 @@
   },
   "narrower": [
     {
+      "id": "https://bokahama.github.io/SCRP-Vocab-LRT/ARBEITSBLATT",
+      "prefLabel": {
+        "de": "Arbeitsblatt",
+        "en": "Worksheet"
+      }
+    },
+    {
       "id": "https://bokahama.github.io/SCRP-Vocab-LRT/LERNAUFGABE",
       "prefLabel": {
         "de": "Lernaufgabe",
