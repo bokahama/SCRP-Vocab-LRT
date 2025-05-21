@@ -2,7 +2,7 @@
   "id": "https://bokahama.github.io/SCRP-Vocab-LRT/AUDIO",
   "type": "Concept",
   "prefLabel": {
-    "de": "Podcast / Audio",
+    "de": "Audio / Podcast",
     "en": "Audio"
   },
   "altLabel": {
@@ -17,13 +17,21 @@
     "de": "Audio bezeichnet Medieninhalte, die auf Ton basieren. Diese Inhalte können Musik, Sprachaufnahmen, Hörspiele oder andere auditive Formate umfassen und können in Bildung, Unterhaltung und Kommunikation verwendet werden.",
     "en": "Audio refers to media content that is based solely on sound. This content can include music, voice recordings, radio plays, or other auditory formats. Audio content is versatile and can be used in education, entertainment, and communication."
   },
+  "scopeNote": {
+    "de": [
+      "Der Wert findet auch als zusammenfassender Kategorien-Wert sowie als Residual-Wert Anwendung. Falls möglich bitte spezifischer indexieren."
+    ],
+    "en": [
+      "This term is also used for clustering several more specific terms and as a residual-term. Use more specific descriptors whenever possible."
+    ]
+  },
   "example": {
     "de": "Musikstücke, Podcasts, Hörbücher, Sprachaufnahmen für Sprachkurse",
     "en": "Music tracks, podcasts, audiobooks, voice recordings for language courses"
   },
   "narrower": [
     {
-      "id": "https://bokahama.github.io/SCRP-Vocab-LRT/RADIO_TV",
+      "id": "https://bokahama.github.io/SCRP-Vocab-LRT/RADIO",
       "prefLabel": {
         "de": "Podcast",
         "en": "Podcast"

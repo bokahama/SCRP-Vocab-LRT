@@ -20,11 +20,6 @@
       "en": "App"
     }
   },
-  "broadMatch": [
-    {
-      "id": "https://vocabs.openeduhub.de/w3id.org/openeduhub/vocabs/new_lrt/cefccf75-cba3-427d-9a0f-35b4fedcbba1"
-    }
-  ],
   "exactMatch": [
     {
       "id": "https://vocabs.sodix.de/sodix/educational/learningresourcetype/WEBTOOL"

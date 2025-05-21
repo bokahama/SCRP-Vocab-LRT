@@ -23,12 +23,6 @@
   "broadMatch": [
     {
       "id": "https://vocabs.sodix.de/sodix/educational/learningresourcetype/SONSTIGES"
-    },
-    {
-      "id": "https://vocabs.sodix.de/sodix/educational/learningresourcetype/ENTDECKENDES"
-    },
-    {
-      "id": "https://vocabs.openeduhub.de/w3id.org/openeduhub/vocabs/new_lrt/ee738203-44af-4150-986f-ef01fb883f00"
     }
   ],
   "exactMatch": [

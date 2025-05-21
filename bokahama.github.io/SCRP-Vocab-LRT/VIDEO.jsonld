@@ -47,10 +47,10 @@
       }
     },
     {
-      "id": "https://bokahama.github.io/SCRP-Vocab-LRT/SPRACHLERNVIDEO",
+      "id": "https://bokahama.github.io/SCRP-Vocab-LRT/LERNVIDEO",
       "prefLabel": {
-        "de": "Sprachlernvideo",
-        "en": "Language learning video"
+        "de": "Lern- und Übungsvideo",
+        "en": "learning video"
       }
     }
   ],

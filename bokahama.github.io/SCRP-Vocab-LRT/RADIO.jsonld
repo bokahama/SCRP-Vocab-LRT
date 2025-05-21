@@ -1,31 +1,40 @@
 {
-  "id": "https://bokahama.github.io/SCRP-Vocab-LRT/SPRACHLERNVIDEO",
+  "id": "https://bokahama.github.io/SCRP-Vocab-LRT/RADIO",
   "type": "Concept",
   "prefLabel": {
-    "de": "Sprachlernvideo",
-    "en": "Language learning video"
+    "de": "Podcast",
+    "en": "Podcast"
+  },
+  "altLabel": {
+    "de": [
+      "Audioübertragung",
+      "Hörsendung"
+    ],
+    "en": [
+      "audio broadcast"
+    ]
   },
   "definition": {
-    "de": "Ein audiovisuelles Medium, das speziell zur Unterstützung des Spracherwerbs entwickelt wurde. Es enthält Übungen, Beispiele und Erklärungen, die das Verständnis und die Anwendung einer neuen Sprache fördern.",
-    "en": "An audiovisual medium specifically designed to support language acquisition. It contains exercises, examples, and explanations that promote the understanding and application of a new language."
+    "de": "Ein Podcast ist meist eine Serie von digitalen Mediendateien, die als Episoden bereitgestellt werden. Podcasts können verschiedene Themen abdecken, von Nachrichten und Bildung bis hin zu Unterhaltung und persönlichen Geschichten. Sie sind oft als Audioformate verfügbar, die heruntergeladen oder gestreamt werden können.",
+    "en": "A podcast is a series of digital media files that are released as episodes. Podcasts can cover a wide range of topics, from news and education to entertainment and personal stories. They are often available in audio formats that can be downloaded or streamed."
   },
   "example": {
-    "de": "Video zur Verbesserung der Aussprache, Grammatikübungen in Videoform",
-    "en": "Pronunciation improvement video, grammar exercises in video form"
+    "de": "Wissenschaftspodcast über neue Entdeckungen, Interview-Podcast mit bekannten Persönlichkeiten",
+    "en": "Science podcast about new discoveries, interview podcast with famous personalities"
   },
   "broader": {
-    "id": "https://bokahama.github.io/SCRP-Vocab-LRT/VIDEO",
+    "id": "https://bokahama.github.io/SCRP-Vocab-LRT/AUDIO",
     "prefLabel": {
-      "de": "Video",
-      "en": "Video"
+      "de": "Audio / Podcast",
+      "en": "Audio"
     }
   },
-  "broadMatch": [
+  "exactMatch": [
     {
-      "id": "https://vocabs.sodix.de/sodix/educational/learningresourcetype/VIDEO"
+      "id": "https://vocabs.sodix.de/sodix/educational/learningresourcetype/RADIO"
     },
     {
-      "id": "https://vocabs.openeduhub.de/w3id.org/openeduhub/vocabs/new_lrt/62a09b63-320e-4f4d-9da6-8cab9cdef55b"
+      "id": "https://vocabs.openeduhub.de/w3id.org/openeduhub/vocabs/new_lrt/6e821748-ad12-4ac1-bb14-9b54493e2c50"
     }
   ],
   "inScheme": [

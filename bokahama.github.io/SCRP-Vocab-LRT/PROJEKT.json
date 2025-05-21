@@ -28,11 +28,6 @@
       "en": "Diverse Concept"
     }
   },
-  "broadMatch": [
-    {
-      "id": "https://vocabs.openeduhub.de/w3id.org/openeduhub/vocabs/new_lrt/22823ca9-7175-4b24-892e-19ebbf5fe0e7"
-    }
-  ],
   "exactMatch": [
     {
       "id": "https://vocabs.sodix.de/sodix/educational/learningresourcetype/PROJECT"

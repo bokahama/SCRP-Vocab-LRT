@@ -82,7 +82,7 @@
       }
     }
   ],
-  "narrowMatch": [
+  "exactMatch": [
     {
       "id": "https://vocabs.sodix.de/sodix/educational/learningresourcetype/SONSTIGES"
     }

@@ -1,44 +1,33 @@
 {
-  "id": "https://bokahama.github.io/SCRP-Vocab-LRT/VIRTUAL_REALITY_AUGMENTED_REALITY",
+  "id": "https://bokahama.github.io/SCRP-Vocab-LRT/LERNVIDEO",
   "type": "Concept",
   "prefLabel": {
-    "de": "Virtual Reality & Augmented Reality",
-    "en": "Virtual Reality & Augmented Reality"
-  },
-  "altLabel": {
-    "de": [
-      "VR",
-      "AR"
-    ],
-    "en": [
-      "VR",
-      "AR"
-    ]
+    "de": "Lern- und Übungsvideo",
+    "en": "learning video"
   },
   "definition": {
-    "de": "VR- und AR-Medien lassen sich auf VR-Brillen und ähnlichen Geräten abspielen oder sind für diese optimiert. Sie können zum Download angeboten werden oder als App zur Verfügung stehen. Technische Formate derzeit: MP4 und APK.",
-    "en": "English translation pending."
+    "de": "Ein audiovisuelles Medium das zum Üben und Lernen genutzt wird, aber keine Vortragsaufzeichnung oder TV-Sendung ist. Zum Beispiel ein Sprachlernvideo das speziell zur Unterstützung des Spracherwerbs entwickelt wurde. Es enthält Übungen, Beispiele und Erklärungen, die das Verständnis und die Anwendung einer neuen Sprache fördern.",
+    "en": "An audiovisual medium specifically designed for learning purpose – for example to support language acquisition. In this case it contains exercises, examples, and explanations that promote the understanding and application of a new language."
   },
   "example": {
-    "de": "360° Videos, 360° Webanwendungen, 360° Fotos, 3D-Objekte (interaktiv), virtuelle Führungen",
-    "en": "English translation pending."
+    "de": "Video zur Verbesserung der Aussprache, Grammatikübungen in Videoform",
+    "en": "Pronunciation improvement video, grammar exercises in video form"
   },
   "broader": {
-    "id": "https://bokahama.github.io/SCRP-Vocab-LRT/INTERAKTION",
+    "id": "https://bokahama.github.io/SCRP-Vocab-LRT/VIDEO",
     "prefLabel": {
-      "de": "Interaktives Medium",
-      "en": "Interactive Medium"
+      "de": "Video",
+      "en": "Video"
     }
   },
+  "broadMatch": [
+    {
+      "id": "https://vocabs.sodix.de/sodix/educational/learningresourcetype/VIDEO"
+    }
+  ],
   "exactMatch": [
     {
-      "id": "https://vocabs.sodix.de/sodix/educational/learningresourcetype/VIRTUAL"
-    },
-    {
-      "id": "https://vocabs.openeduhub.de/w3id.org/openeduhub/vocabs/new_lrt/11cd7e41-1d65-4de9-9ab8-de9530cac19e"
-    },
-    {
-      "id": "https://vocabs.openeduhub.de/w3id.org/openeduhub/vocabs/new_lrt/518ae9d5-2420-4567-b32d-f75c27e2cf70"
+      "id": "https://vocabs.openeduhub.de/w3id.org/openeduhub/vocabs/new_lrt/62a09b63-320e-4f4d-9da6-8cab9cdef55b"
     }
   ],
   "inScheme": [
